@@ -5,7 +5,7 @@ def generate_entry():
     entry = ""
     emp_status = ["Unemployment", "Casual/Part time", "Permenant Full Time"]
     edu_level = ["DNF High School Education", "High School/Diploma", "Degree+"]
-    location = ["Sydney", "Perth", "Melbourne", "Brisbane", "Adelaide", "Canberra", "Darwin","Hobart"]
+    location = ["New South Wales", "Queensland", "Australian Capital Territory", "Northern Territory", "South Australia", "Victoria", "Western Australia", "Tasmania"]
 
     random.seed
     income = str(random.randint(0,200000)) + ","
@@ -67,7 +67,7 @@ def generate_entry():
 
 csv = open("mock_data.csv", "w")
 entries = 1000
-headings = "income,employement_status,age,education_level,state,risk\n"
+headings = "income,employement_status,age,education_level,territory,risk\n"
 csv.write(headings)
 
 while (entries != 0):
