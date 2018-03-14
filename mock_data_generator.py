@@ -67,7 +67,7 @@ def generate_entry():
 
 csv = open("mock_data.csv", "w")
 entries = 1000
-headings = "income,employement_status,age,education_level,city,risk\n"
+headings = "income,employement_status,age,education_level,state,risk\n"
 csv.write(headings)
 
 while (entries != 0):
