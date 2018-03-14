@@ -1,1001 +1,1001 @@
-income,employement_status,age,education_level,city,risk
-120991,Casual/Part time,67,Degree+,Perth,1.0
-5789,Casual/Part time,39,DNF High School Education,Perth,1.75
-108557,Permenant Full Time,77,High School/Diploma,Perth,1.0
-153402,Permenant Full Time,76,High School/Diploma,Darwin,1.0
-74563,Casual/Part time,17,Degree+,Adelaide,1.75
-126501,Casual/Part time,44,Degree+,Brisbane,1.0
-127233,Permenant Full Time,45,Degree+,Sydney,1.0
-11617,Unemployment,85,Degree+,Sydney,1.5
-151209,Permenant Full Time,23,Degree+,Darwin,1.5
-35742,Unemployment,33,DNF High School Education,Darwin,1.75
-193405,Permenant Full Time,44,DNF High School Education,Canberra,1.0
-134993,Permenant Full Time,47,Degree+,Hobart,1.0
-115017,Unemployment,63,Degree+,Adelaide,1.0
-18172,Casual/Part time,78,Degree+,Sydney,1.5
-42993,Casual/Part time,29,High School/Diploma,Brisbane,1.75
-43946,Unemployment,63,High School/Diploma,Perth,1.5
-139150,Casual/Part time,22,High School/Diploma,Melbourne,1.5
-19266,Permenant Full Time,51,High School/Diploma,Adelaide,1.5
-146570,Unemployment,79,Degree+,Hobart,1.0
-164570,Casual/Part time,75,DNF High School Education,Perth,1.0
-184606,Casual/Part time,43,DNF High School Education,Hobart,1.25
-131866,Permenant Full Time,52,Degree+,Brisbane,1.0
-181976,Casual/Part time,85,Degree+,Brisbane,1.0
-39463,Permenant Full Time,26,High School/Diploma,Brisbane,2.0
-75910,Casual/Part time,62,Degree+,Hobart,1.25
-109824,Unemployment,67,High School/Diploma,Brisbane,1.0
-129512,Permenant Full Time,73,Degree+,Adelaide,1.0
-141113,Permenant Full Time,27,High School/Diploma,Perth,1.5
-120123,Permenant Full Time,18,High School/Diploma,Brisbane,1.5
-134158,Casual/Part time,39,DNF High School Education,Darwin,1.25
-182697,Casual/Part time,28,High School/Diploma,Perth,1.5
-101870,Unemployment,31,Degree+,Darwin,1.25
-1554,Unemployment,65,DNF High School Education,Melbourne,1.5
-146453,Unemployment,45,Degree+,Perth,1.0
-154911,Casual/Part time,41,High School/Diploma,Adelaide,1.25
-18925,Casual/Part time,34,Degree+,Perth,1.75
-75533,Unemployment,46,Degree+,Darwin,1.25
-83663,Casual/Part time,79,DNF High School Education,Canberra,1.25
-110008,Unemployment,44,High School/Diploma,Perth,1.0
-164796,Permenant Full Time,83,High School/Diploma,Melbourne,1.0
-149906,Casual/Part time,63,Degree+,Melbourne,1.0
-182306,Unemployment,21,High School/Diploma,Perth,1.5
-138799,Unemployment,44,High School/Diploma,Melbourne,1.0
-146218,Casual/Part time,77,High School/Diploma,Darwin,1.0
-119907,Casual/Part time,71,Degree+,Perth,1.0
-193131,Permenant Full Time,41,Degree+,Perth,1.25
-92444,Unemployment,72,DNF High School Education,Canberra,1.25
-147788,Unemployment,50,Degree+,Darwin,1.0
-29492,Permenant Full Time,49,Degree+,Perth,1.5
-51066,Casual/Part time,30,High School/Diploma,Brisbane,1.5
-182450,Unemployment,39,High School/Diploma,Melbourne,1.25
-108924,Permenant Full Time,64,DNF High School Education,Hobart,1.0
-19922,Casual/Part time,28,High School/Diploma,Brisbane,2.0
-30929,Permenant Full Time,38,DNF High School Education,Adelaide,1.75
-188753,Permenant Full Time,53,High School/Diploma,Sydney,1.0
-187456,Unemployment,72,DNF High School Education,Adelaide,1.0
-190795,Casual/Part time,56,Degree+,Perth,1.0
-138371,Unemployment,42,DNF High School Education,Perth,1.25
-45573,Permenant Full Time,83,High School/Diploma,Melbourne,1.5
-136896,Casual/Part time,47,DNF High School Education,Darwin,1.0
-152998,Unemployment,48,High School/Diploma,Perth,1.0
-89979,Permenant Full Time,42,Degree+,Canberra,1.5
-92956,Unemployment,22,DNF High School Education,Perth,1.75
-147362,Permenant Full Time,73,High School/Diploma,Adelaide,1.0
-159833,Casual/Part time,22,Degree+,Hobart,1.5
-12554,Permenant Full Time,32,High School/Diploma,Perth,1.75
-189098,Unemployment,79,High School/Diploma,Perth,1.0
-88065,Casual/Part time,75,Degree+,Darwin,1.25
-196444,Permenant Full Time,60,DNF High School Education,Hobart,1.0
-43879,Casual/Part time,79,DNF High School Education,Canberra,1.5
-103123,Unemployment,56,DNF High School Education,Brisbane,1.0
-83610,Unemployment,49,High School/Diploma,Sydney,1.25
-148113,Unemployment,58,High School/Diploma,Brisbane,1.0
-64038,Casual/Part time,48,Degree+,Darwin,1.25
-118671,Unemployment,55,Degree+,Canberra,1.0
-80058,Permenant Full Time,77,DNF High School Education,Brisbane,1.25
-100935,Unemployment,43,DNF High School Education,Sydney,1.25
-132534,Permenant Full Time,67,Degree+,Melbourne,1.0
-31416,Unemployment,39,DNF High School Education,Melbourne,1.75
-183250,Unemployment,66,Degree+,Brisbane,1.0
-85715,Permenant Full Time,74,Degree+,Canberra,1.25
-91609,Unemployment,55,DNF High School Education,Sydney,1.25
-91902,Unemployment,15,High School/Diploma,Brisbane,1.75
-135868,Casual/Part time,77,Degree+,Perth,1.0
-136511,Unemployment,17,DNF High School Education,Melbourne,1.5
-16786,Unemployment,82,Degree+,Perth,1.5
-6887,Permenant Full Time,29,High School/Diploma,Melbourne,1.75
-52531,Casual/Part time,42,Degree+,Melbourne,1.5
-131882,Casual/Part time,45,DNF High School Education,Melbourne,1.0
-10317,Unemployment,25,DNF High School Education,Perth,2.0
-117875,Unemployment,54,DNF High School Education,Melbourne,1.0
-23307,Permenant Full Time,19,DNF High School Education,Hobart,2.0
-6351,Permenant Full Time,15,High School/Diploma,Darwin,2.0
-16759,Unemployment,71,Degree+,Perth,1.5
-137659,Permenant Full Time,48,High School/Diploma,Canberra,1.0
-32593,Permenant Full Time,19,Degree+,Hobart,2.0
-129412,Casual/Part time,38,High School/Diploma,Sydney,1.25
-57117,Casual/Part time,80,DNF High School Education,Canberra,1.25
-84694,Unemployment,35,High School/Diploma,Darwin,1.5
-72090,Casual/Part time,66,High School/Diploma,Melbourne,1.25
-32904,Unemployment,52,High School/Diploma,Canberra,1.5
-199311,Unemployment,33,DNF High School Education,Hobart,1.25
-81589,Unemployment,43,DNF High School Education,Hobart,1.5
-134830,Casual/Part time,69,Degree+,Darwin,1.0
-89660,Casual/Part time,70,DNF High School Education,Adelaide,1.25
-110124,Casual/Part time,54,Degree+,Hobart,1.0
-117602,Permenant Full Time,39,DNF High School Education,Canberra,1.25
-121259,Casual/Part time,45,DNF High School Education,Brisbane,1.0
-71321,Casual/Part time,41,DNF High School Education,Darwin,1.5
-187576,Unemployment,54,DNF High School Education,Hobart,1.0
-52110,Casual/Part time,51,Degree+,Melbourne,1.25
-127678,Casual/Part time,82,High School/Diploma,Brisbane,1.0
-69597,Casual/Part time,55,DNF High School Education,Canberra,1.25
-31653,Permenant Full Time,52,DNF High School Education,Melbourne,1.5
-158416,Permenant Full Time,58,Degree+,Hobart,1.0
-78355,Permenant Full Time,28,DNF High School Education,Perth,1.75
-108180,Casual/Part time,46,DNF High School Education,Melbourne,1.0
-1056,Permenant Full Time,69,DNF High School Education,Sydney,1.5
-135143,Permenant Full Time,81,DNF High School Education,Sydney,1.0
-178091,Unemployment,50,DNF High School Education,Perth,1.0
-129280,Casual/Part time,25,DNF High School Education,Adelaide,1.5
-107262,Unemployment,67,Degree+,Canberra,1.0
-42752,Casual/Part time,26,Degree+,Hobart,2.0
-157932,Permenant Full Time,21,Degree+,Melbourne,1.5
-140794,Unemployment,30,High School/Diploma,Darwin,1.25
-194784,Casual/Part time,18,High School/Diploma,Sydney,1.5
-75441,Unemployment,33,DNF High School Education,Adelaide,1.5
-117022,Permenant Full Time,31,High School/Diploma,Sydney,1.25
-154487,Casual/Part time,58,Degree+,Sydney,1.0
-158907,Casual/Part time,60,DNF High School Education,Adelaide,1.0
-32922,Unemployment,32,Degree+,Brisbane,1.75
-177041,Unemployment,50,Degree+,Sydney,1.0
-166493,Permenant Full Time,68,Degree+,Sydney,1.0
-49087,Unemployment,43,DNF High School Education,Melbourne,1.75
-193750,Permenant Full Time,46,DNF High School Education,Darwin,1.0
-126746,Casual/Part time,37,Degree+,Hobart,1.25
-194753,Casual/Part time,15,DNF High School Education,Hobart,1.5
-49189,Permenant Full Time,41,DNF High School Education,Brisbane,1.75
-129219,Permenant Full Time,30,High School/Diploma,Hobart,1.25
-117607,Unemployment,44,Degree+,Sydney,1.0
-88736,Unemployment,36,High School/Diploma,Melbourne,1.5
-10271,Unemployment,68,High School/Diploma,Perth,1.5
-107533,Permenant Full Time,51,Degree+,Brisbane,1.0
-178962,Permenant Full Time,35,DNF High School Education,Brisbane,1.25
-90443,Unemployment,53,High School/Diploma,Sydney,1.25
-109602,Casual/Part time,55,High School/Diploma,Darwin,1.0
-182446,Unemployment,51,DNF High School Education,Perth,1.0
-135424,Unemployment,71,Degree+,Hobart,1.0
-175940,Casual/Part time,16,High School/Diploma,Hobart,1.5
-125385,Unemployment,72,DNF High School Education,Darwin,1.0
-155831,Casual/Part time,21,Degree+,Brisbane,1.5
-130603,Unemployment,52,High School/Diploma,Adelaide,1.0
-105631,Casual/Part time,35,Degree+,Darwin,1.25
-89808,Casual/Part time,40,High School/Diploma,Brisbane,1.5
-178887,Permenant Full Time,27,DNF High School Education,Sydney,1.5
-82739,Permenant Full Time,16,High School/Diploma,Hobart,1.75
-177645,Casual/Part time,52,Degree+,Hobart,1.0
-75165,Casual/Part time,37,DNF High School Education,Brisbane,1.5
-82770,Unemployment,54,High School/Diploma,Perth,1.25
-69135,Permenant Full Time,75,Degree+,Darwin,1.25
-157942,Casual/Part time,25,DNF High School Education,Perth,1.5
-98822,Permenant Full Time,75,DNF High School Education,Melbourne,1.25
-158595,Permenant Full Time,70,Degree+,Adelaide,1.0
-48006,Casual/Part time,72,Degree+,Brisbane,1.5
-140021,Casual/Part time,34,High School/Diploma,Sydney,1.25
-91896,Unemployment,50,DNF High School Education,Hobart,1.25
-78685,Permenant Full Time,72,Degree+,Sydney,1.25
-181228,Casual/Part time,66,DNF High School Education,Sydney,1.0
-139554,Unemployment,63,Degree+,Melbourne,1.0
-100780,Unemployment,85,DNF High School Education,Melbourne,1.0
-150440,Unemployment,54,High School/Diploma,Perth,1.0
-191567,Permenant Full Time,66,Degree+,Brisbane,1.0
-11252,Unemployment,51,High School/Diploma,Hobart,1.5
-76518,Unemployment,83,Degree+,Melbourne,1.25
-53657,Permenant Full Time,42,High School/Diploma,Sydney,1.5
-74142,Permenant Full Time,39,Degree+,Brisbane,1.5
-1264,Casual/Part time,53,High School/Diploma,Brisbane,1.5
-172657,Permenant Full Time,69,Degree+,Perth,1.0
-47944,Casual/Part time,38,DNF High School Education,Sydney,1.75
-190996,Unemployment,33,Degree+,Perth,1.25
-155330,Permenant Full Time,51,High School/Diploma,Adelaide,1.0
-159254,Permenant Full Time,72,DNF High School Education,Canberra,1.0
-47755,Casual/Part time,74,Degree+,Darwin,1.5
-24647,Permenant Full Time,44,Degree+,Melbourne,1.5
-122435,Permenant Full Time,49,DNF High School Education,Perth,1.0
-137470,Unemployment,24,Degree+,Adelaide,1.5
-189405,Unemployment,15,High School/Diploma,Brisbane,1.5
-141503,Permenant Full Time,19,Degree+,Adelaide,1.5
-5162,Permenant Full Time,41,Degree+,Perth,1.75
-32444,Casual/Part time,81,DNF High School Education,Canberra,1.5
-32175,Casual/Part time,24,DNF High School Education,Darwin,2.0
-184923,Casual/Part time,46,Degree+,Melbourne,1.0
-153413,Permenant Full Time,77,DNF High School Education,Sydney,1.0
-37114,Unemployment,48,Degree+,Melbourne,1.5
-90701,Permenant Full Time,65,DNF High School Education,Hobart,1.25
-99023,Casual/Part time,36,Degree+,Perth,1.5
-94108,Casual/Part time,35,High School/Diploma,Brisbane,1.5
-156901,Permenant Full Time,21,High School/Diploma,Sydney,1.5
-24857,Permenant Full Time,20,DNF High School Education,Darwin,2.0
-171843,Permenant Full Time,55,High School/Diploma,Sydney,1.0
-65080,Permenant Full Time,75,DNF High School Education,Melbourne,1.25
-115512,Casual/Part time,18,Degree+,Sydney,1.5
-61337,Casual/Part time,62,DNF High School Education,Melbourne,1.25
-135000,Permenant Full Time,40,Degree+,Perth,1.25
-157212,Casual/Part time,26,Degree+,Sydney,1.5
-57982,Unemployment,49,High School/Diploma,Perth,1.25
-26498,Casual/Part time,67,DNF High School Education,Hobart,1.5
-27736,Unemployment,69,DNF High School Education,Adelaide,1.5
-32633,Casual/Part time,29,Degree+,Adelaide,1.75
-192630,Unemployment,39,High School/Diploma,Brisbane,1.25
-71186,Permenant Full Time,32,Degree+,Sydney,1.5
-191395,Casual/Part time,15,High School/Diploma,Perth,1.5
-8360,Permenant Full Time,39,Degree+,Brisbane,1.75
-158491,Unemployment,18,High School/Diploma,Sydney,1.5
-101773,Unemployment,75,High School/Diploma,Darwin,1.0
-81185,Casual/Part time,85,Degree+,Canberra,1.25
-198159,Permenant Full Time,20,DNF High School Education,Sydney,1.5
-136491,Permenant Full Time,55,High School/Diploma,Adelaide,1.0
-69790,Unemployment,79,Degree+,Melbourne,1.25
-956,Permenant Full Time,80,DNF High School Education,Hobart,1.5
-190209,Permenant Full Time,82,DNF High School Education,Perth,1.0
-102032,Permenant Full Time,62,High School/Diploma,Perth,1.0
-115567,Casual/Part time,47,DNF High School Education,Perth,1.0
-28183,Permenant Full Time,56,Degree+,Adelaide,1.5
-14137,Casual/Part time,18,DNF High School Education,Canberra,2.0
-150435,Permenant Full Time,34,Degree+,Melbourne,1.25
-51717,Unemployment,19,DNF High School Education,Darwin,1.75
-171584,Permenant Full Time,57,Degree+,Brisbane,1.0
-22714,Permenant Full Time,56,DNF High School Education,Canberra,1.5
-11787,Unemployment,44,High School/Diploma,Melbourne,1.5
-74493,Casual/Part time,49,DNF High School Education,Canberra,1.25
-146047,Permenant Full Time,74,Degree+,Darwin,1.0
-122523,Unemployment,38,DNF High School Education,Brisbane,1.25
-29918,Unemployment,75,High School/Diploma,Canberra,1.5
-176162,Unemployment,75,High School/Diploma,Canberra,1.0
-87886,Casual/Part time,75,Degree+,Perth,1.25
-51313,Permenant Full Time,76,DNF High School Education,Melbourne,1.25
-125633,Permenant Full Time,41,Degree+,Sydney,1.25
-164560,Permenant Full Time,34,DNF High School Education,Darwin,1.25
-93399,Casual/Part time,22,High School/Diploma,Melbourne,1.75
-65687,Casual/Part time,44,Degree+,Melbourne,1.25
-18707,Casual/Part time,78,High School/Diploma,Sydney,1.5
-165805,Casual/Part time,45,Degree+,Perth,1.0
-7814,Casual/Part time,83,DNF High School Education,Brisbane,1.5
-66791,Unemployment,80,DNF High School Education,Adelaide,1.25
-35276,Casual/Part time,29,High School/Diploma,Hobart,1.75
-169580,Casual/Part time,46,High School/Diploma,Canberra,1.0
-61037,Permenant Full Time,71,High School/Diploma,Sydney,1.25
-171895,Unemployment,58,Degree+,Hobart,1.0
-18105,Permenant Full Time,74,High School/Diploma,Sydney,1.5
-140690,Permenant Full Time,50,DNF High School Education,Darwin,1.0
-174066,Unemployment,83,DNF High School Education,Sydney,1.0
-13977,Casual/Part time,61,Degree+,Adelaide,1.5
-193307,Casual/Part time,60,Degree+,Hobart,1.0
-180414,Unemployment,39,High School/Diploma,Darwin,1.25
-25487,Casual/Part time,31,DNF High School Education,Canberra,1.75
-13126,Permenant Full Time,22,DNF High School Education,Canberra,2.0
-33063,Casual/Part time,72,High School/Diploma,Canberra,1.5
-48230,Unemployment,45,Degree+,Adelaide,1.5
-187527,Permenant Full Time,30,DNF High School Education,Adelaide,1.25
-69233,Permenant Full Time,83,DNF High School Education,Melbourne,1.25
-83187,Unemployment,32,DNF High School Education,Brisbane,1.5
-79620,Unemployment,61,DNF High School Education,Canberra,1.25
-170851,Casual/Part time,78,Degree+,Sydney,1.0
-96580,Unemployment,36,High School/Diploma,Hobart,1.5
-52235,Casual/Part time,38,High School/Diploma,Brisbane,1.5
-127949,Permenant Full Time,66,Degree+,Adelaide,1.0
-185302,Casual/Part time,34,DNF High School Education,Melbourne,1.25
-109796,Permenant Full Time,42,High School/Diploma,Adelaide,1.25
-62551,Casual/Part time,78,Degree+,Sydney,1.25
-194557,Permenant Full Time,43,DNF High School Education,Perth,1.25
-31058,Permenant Full Time,82,High School/Diploma,Brisbane,1.5
-77636,Unemployment,82,Degree+,Sydney,1.25
-57167,Casual/Part time,41,Degree+,Canberra,1.5
-192860,Casual/Part time,37,High School/Diploma,Melbourne,1.25
-135433,Casual/Part time,42,High School/Diploma,Perth,1.25
-140280,Permenant Full Time,45,DNF High School Education,Sydney,1.0
-172670,Casual/Part time,19,High School/Diploma,Hobart,1.5
-80031,Permenant Full Time,37,DNF High School Education,Darwin,1.5
-163262,Permenant Full Time,45,High School/Diploma,Adelaide,1.0
-189757,Permenant Full Time,44,High School/Diploma,Darwin,1.0
-151738,Permenant Full Time,70,Degree+,Adelaide,1.0
-1767,Casual/Part time,30,Degree+,Adelaide,1.75
-43947,Unemployment,25,High School/Diploma,Melbourne,2.0
-173062,Casual/Part time,23,DNF High School Education,Hobart,1.5
-74086,Permenant Full Time,80,DNF High School Education,Sydney,1.25
-5107,Permenant Full Time,33,Degree+,Sydney,1.75
-166927,Permenant Full Time,60,Degree+,Sydney,1.0
-7083,Casual/Part time,48,High School/Diploma,Sydney,1.5
-150980,Permenant Full Time,72,DNF High School Education,Brisbane,1.0
-118405,Casual/Part time,68,DNF High School Education,Perth,1.0
-141614,Permenant Full Time,17,High School/Diploma,Perth,1.5
-156056,Casual/Part time,54,Degree+,Canberra,1.0
-132312,Permenant Full Time,73,High School/Diploma,Brisbane,1.0
-111554,Permenant Full Time,80,DNF High School Education,Brisbane,1.0
-100651,Casual/Part time,16,DNF High School Education,Hobart,1.5
-108552,Permenant Full Time,60,DNF High School Education,Hobart,1.0
-84363,Unemployment,20,DNF High School Education,Darwin,1.75
-147437,Permenant Full Time,21,High School/Diploma,Canberra,1.5
-18877,Permenant Full Time,23,Degree+,Adelaide,2.0
-119681,Unemployment,63,DNF High School Education,Hobart,1.0
-106217,Casual/Part time,22,High School/Diploma,Sydney,1.5
-152143,Permenant Full Time,57,High School/Diploma,Brisbane,1.0
-81268,Casual/Part time,74,DNF High School Education,Adelaide,1.25
-3720,Casual/Part time,22,High School/Diploma,Melbourne,2.0
-194417,Unemployment,31,DNF High School Education,Brisbane,1.25
-11573,Casual/Part time,66,High School/Diploma,Darwin,1.5
-27000,Permenant Full Time,64,DNF High School Education,Hobart,1.5
-14035,Permenant Full Time,62,Degree+,Canberra,1.5
-35286,Casual/Part time,59,DNF High School Education,Canberra,1.5
-100615,Casual/Part time,48,High School/Diploma,Darwin,1.0
-162516,Permenant Full Time,84,DNF High School Education,Sydney,1.0
-198301,Unemployment,65,DNF High School Education,Perth,1.0
-134141,Casual/Part time,61,High School/Diploma,Hobart,1.0
-74593,Unemployment,45,DNF High School Education,Perth,1.25
-119609,Casual/Part time,67,Degree+,Melbourne,1.0
-189672,Unemployment,21,Degree+,Canberra,1.5
-69885,Casual/Part time,38,Degree+,Perth,1.5
-155753,Casual/Part time,70,DNF High School Education,Adelaide,1.0
-131572,Permenant Full Time,31,DNF High School Education,Melbourne,1.25
-138227,Unemployment,44,DNF High School Education,Darwin,1.0
-77573,Permenant Full Time,41,DNF High School Education,Sydney,1.5
-139939,Casual/Part time,70,DNF High School Education,Melbourne,1.0
-40820,Unemployment,77,DNF High School Education,Perth,1.5
-91766,Casual/Part time,32,Degree+,Perth,1.5
-108874,Unemployment,33,High School/Diploma,Sydney,1.25
-20600,Permenant Full Time,50,DNF High School Education,Darwin,1.5
-96406,Permenant Full Time,22,DNF High School Education,Adelaide,1.75
-114106,Casual/Part time,78,DNF High School Education,Adelaide,1.0
-87042,Casual/Part time,69,High School/Diploma,Sydney,1.25
-63243,Casual/Part time,28,Degree+,Hobart,1.75
-79068,Permenant Full Time,51,Degree+,Sydney,1.25
-145755,Casual/Part time,72,DNF High School Education,Darwin,1.0
-166068,Permenant Full Time,69,High School/Diploma,Adelaide,1.0
-139782,Permenant Full Time,15,High School/Diploma,Perth,1.5
-82040,Casual/Part time,57,DNF High School Education,Brisbane,1.25
-82209,Permenant Full Time,61,DNF High School Education,Perth,1.25
-185496,Casual/Part time,36,Degree+,Darwin,1.25
-149586,Permenant Full Time,70,High School/Diploma,Adelaide,1.0
-125433,Permenant Full Time,26,High School/Diploma,Sydney,1.5
-9826,Permenant Full Time,35,DNF High School Education,Brisbane,1.75
-130618,Permenant Full Time,26,High School/Diploma,Melbourne,1.5
-193087,Unemployment,66,DNF High School Education,Brisbane,1.0
-74514,Casual/Part time,84,DNF High School Education,Adelaide,1.25
-110385,Unemployment,85,DNF High School Education,Adelaide,1.0
-170772,Unemployment,23,High School/Diploma,Brisbane,1.5
-185453,Unemployment,77,High School/Diploma,Brisbane,1.0
-124247,Permenant Full Time,28,DNF High School Education,Hobart,1.5
-62019,Permenant Full Time,31,Degree+,Brisbane,1.5
-138702,Unemployment,85,Degree+,Melbourne,1.0
-79873,Permenant Full Time,20,High School/Diploma,Adelaide,1.75
-3328,Permenant Full Time,29,DNF High School Education,Melbourne,1.75
-35904,Permenant Full Time,19,DNF High School Education,Brisbane,2.0
-83766,Permenant Full Time,32,DNF High School Education,Sydney,1.5
-117069,Unemployment,26,Degree+,Hobart,1.5
-78871,Permenant Full Time,85,High School/Diploma,Darwin,1.25
-119296,Casual/Part time,43,DNF High School Education,Sydney,1.25
-46039,Unemployment,24,High School/Diploma,Perth,2.0
-7821,Unemployment,43,Degree+,Melbourne,1.75
-13387,Permenant Full Time,40,Degree+,Sydney,1.75
-12718,Casual/Part time,19,Degree+,Melbourne,2.0
-16536,Unemployment,51,DNF High School Education,Brisbane,1.5
-133750,Unemployment,76,High School/Diploma,Perth,1.0
-52296,Permenant Full Time,61,High School/Diploma,Darwin,1.25
-70754,Unemployment,42,High School/Diploma,Melbourne,1.5
-52100,Permenant Full Time,80,DNF High School Education,Brisbane,1.25
-54500,Permenant Full Time,35,Degree+,Sydney,1.5
-124896,Unemployment,67,Degree+,Brisbane,1.0
-15571,Unemployment,21,High School/Diploma,Brisbane,2.0
-55009,Permenant Full Time,26,Degree+,Canberra,1.75
-196556,Unemployment,16,DNF High School Education,Perth,1.5
-117518,Unemployment,74,High School/Diploma,Sydney,1.0
-154750,Permenant Full Time,74,High School/Diploma,Hobart,1.0
-33078,Casual/Part time,16,DNF High School Education,Adelaide,2.0
-170752,Permenant Full Time,33,DNF High School Education,Brisbane,1.25
-31514,Casual/Part time,69,DNF High School Education,Darwin,1.5
-35180,Permenant Full Time,32,Degree+,Brisbane,1.75
-123374,Casual/Part time,78,High School/Diploma,Canberra,1.0
-57343,Casual/Part time,43,DNF High School Education,Canberra,1.5
-22793,Permenant Full Time,30,High School/Diploma,Canberra,1.75
-35267,Casual/Part time,67,Degree+,Canberra,1.5
-135948,Unemployment,36,DNF High School Education,Perth,1.25
-121792,Casual/Part time,43,DNF High School Education,Melbourne,1.25
-136935,Unemployment,76,High School/Diploma,Darwin,1.0
-36198,Casual/Part time,56,High School/Diploma,Sydney,1.5
-15568,Permenant Full Time,25,Degree+,Brisbane,2.0
-24976,Unemployment,71,DNF High School Education,Perth,1.5
-55633,Casual/Part time,57,DNF High School Education,Canberra,1.25
-29786,Casual/Part time,51,DNF High School Education,Darwin,1.5
-128367,Casual/Part time,45,High School/Diploma,Canberra,1.0
-38334,Casual/Part time,53,High School/Diploma,Melbourne,1.5
-12476,Casual/Part time,58,Degree+,Perth,1.5
-18956,Casual/Part time,64,High School/Diploma,Darwin,1.5
-72848,Casual/Part time,53,DNF High School Education,Darwin,1.25
-87646,Casual/Part time,23,DNF High School Education,Brisbane,1.75
-23189,Permenant Full Time,58,DNF High School Education,Melbourne,1.5
-18274,Casual/Part time,67,High School/Diploma,Melbourne,1.5
-42298,Casual/Part time,48,DNF High School Education,Brisbane,1.5
-48068,Unemployment,56,DNF High School Education,Sydney,1.5
-195223,Casual/Part time,49,Degree+,Darwin,1.0
-111636,Permenant Full Time,66,DNF High School Education,Darwin,1.0
-81103,Unemployment,52,Degree+,Adelaide,1.25
-71614,Unemployment,15,Degree+,Perth,1.75
-910,Casual/Part time,78,Degree+,Brisbane,1.5
-172530,Casual/Part time,26,Degree+,Adelaide,1.5
-73546,Casual/Part time,33,High School/Diploma,Melbourne,1.5
-178768,Casual/Part time,82,DNF High School Education,Melbourne,1.0
-164982,Casual/Part time,67,DNF High School Education,Perth,1.0
-36577,Unemployment,84,DNF High School Education,Adelaide,1.5
-110746,Permenant Full Time,27,DNF High School Education,Canberra,1.5
-113330,Unemployment,16,DNF High School Education,Sydney,1.5
-69246,Permenant Full Time,23,DNF High School Education,Darwin,1.75
-48475,Casual/Part time,49,Degree+,Hobart,1.5
-61196,Unemployment,21,DNF High School Education,Perth,1.75
-55710,Unemployment,40,DNF High School Education,Darwin,1.5
-90776,Unemployment,67,Degree+,Perth,1.25
-126596,Casual/Part time,58,DNF High School Education,Darwin,1.0
-193132,Casual/Part time,57,High School/Diploma,Melbourne,1.0
-64534,Casual/Part time,44,DNF High School Education,Canberra,1.25
-163475,Unemployment,46,Degree+,Melbourne,1.0
-145985,Casual/Part time,33,DNF High School Education,Sydney,1.25
-96880,Permenant Full Time,72,High School/Diploma,Canberra,1.25
-155993,Permenant Full Time,82,Degree+,Perth,1.0
-97793,Casual/Part time,78,Degree+,Adelaide,1.25
-149264,Unemployment,71,DNF High School Education,Melbourne,1.0
-190510,Casual/Part time,59,High School/Diploma,Sydney,1.0
-117809,Permenant Full Time,58,High School/Diploma,Melbourne,1.0
-67413,Permenant Full Time,26,DNF High School Education,Adelaide,1.75
-166396,Casual/Part time,69,DNF High School Education,Melbourne,1.0
-135398,Casual/Part time,16,High School/Diploma,Melbourne,1.5
-198384,Casual/Part time,62,High School/Diploma,Darwin,1.0
-98184,Casual/Part time,46,High School/Diploma,Brisbane,1.25
-118082,Unemployment,23,High School/Diploma,Brisbane,1.5
-163058,Permenant Full Time,75,Degree+,Melbourne,1.0
-148841,Unemployment,44,High School/Diploma,Hobart,1.0
-124638,Casual/Part time,23,High School/Diploma,Perth,1.5
-92976,Unemployment,68,Degree+,Brisbane,1.25
-144503,Permenant Full Time,22,DNF High School Education,Melbourne,1.5
-112107,Permenant Full Time,19,Degree+,Brisbane,1.5
-109706,Unemployment,23,High School/Diploma,Canberra,1.5
-35698,Unemployment,33,Degree+,Hobart,1.75
-194567,Unemployment,34,High School/Diploma,Canberra,1.25
-74771,Casual/Part time,52,DNF High School Education,Adelaide,1.25
-291,Unemployment,66,High School/Diploma,Adelaide,1.5
-48533,Unemployment,76,Degree+,Adelaide,1.5
-101392,Permenant Full Time,20,Degree+,Brisbane,1.5
-21221,Unemployment,42,High School/Diploma,Canberra,1.75
-174499,Unemployment,51,High School/Diploma,Sydney,1.0
-179989,Unemployment,82,DNF High School Education,Sydney,1.0
-186257,Permenant Full Time,63,Degree+,Adelaide,1.0
-31340,Permenant Full Time,69,DNF High School Education,Brisbane,1.5
-36152,Casual/Part time,65,Degree+,Melbourne,1.5
-9613,Casual/Part time,49,Degree+,Brisbane,1.5
-55603,Permenant Full Time,78,High School/Diploma,Brisbane,1.25
-48186,Permenant Full Time,80,High School/Diploma,Darwin,1.5
-19775,Casual/Part time,49,High School/Diploma,Melbourne,1.5
-144780,Permenant Full Time,79,High School/Diploma,Melbourne,1.0
-156265,Casual/Part time,64,High School/Diploma,Hobart,1.0
-164376,Casual/Part time,80,Degree+,Hobart,1.0
-95626,Permenant Full Time,16,High School/Diploma,Sydney,1.75
-13912,Casual/Part time,49,High School/Diploma,Perth,1.5
-3064,Permenant Full Time,35,High School/Diploma,Perth,1.75
-194857,Unemployment,74,Degree+,Brisbane,1.0
-174168,Permenant Full Time,79,Degree+,Perth,1.0
-59078,Casual/Part time,62,High School/Diploma,Canberra,1.25
-90064,Casual/Part time,74,Degree+,Canberra,1.25
-144199,Unemployment,85,High School/Diploma,Hobart,1.0
-100145,Permenant Full Time,40,High School/Diploma,Darwin,1.25
-179581,Permenant Full Time,78,DNF High School Education,Canberra,1.0
-165111,Permenant Full Time,43,High School/Diploma,Perth,1.25
-167378,Casual/Part time,18,High School/Diploma,Hobart,1.5
-16454,Permenant Full Time,57,DNF High School Education,Hobart,1.5
-42962,Casual/Part time,18,Degree+,Sydney,2.0
-68894,Permenant Full Time,60,Degree+,Brisbane,1.25
-9307,Casual/Part time,72,High School/Diploma,Adelaide,1.5
-154982,Permenant Full Time,15,High School/Diploma,Canberra,1.5
-170439,Permenant Full Time,33,High School/Diploma,Hobart,1.25
-129762,Permenant Full Time,47,DNF High School Education,Perth,1.0
-161520,Unemployment,24,DNF High School Education,Canberra,1.5
-168522,Permenant Full Time,17,High School/Diploma,Brisbane,1.5
-165221,Casual/Part time,36,DNF High School Education,Sydney,1.25
-46141,Permenant Full Time,77,High School/Diploma,Brisbane,1.5
-36575,Casual/Part time,22,Degree+,Sydney,2.0
-170902,Permenant Full Time,35,High School/Diploma,Canberra,1.25
-1094,Permenant Full Time,25,Degree+,Perth,2.0
-139540,Casual/Part time,39,High School/Diploma,Canberra,1.25
-89250,Unemployment,33,DNF High School Education,Adelaide,1.5
-137031,Casual/Part time,60,DNF High School Education,Darwin,1.0
-161920,Permenant Full Time,60,Degree+,Canberra,1.0
-188729,Permenant Full Time,60,DNF High School Education,Adelaide,1.0
-143841,Casual/Part time,35,High School/Diploma,Brisbane,1.25
-90276,Casual/Part time,37,DNF High School Education,Sydney,1.5
-40103,Casual/Part time,73,High School/Diploma,Darwin,1.5
-107032,Casual/Part time,84,DNF High School Education,Melbourne,1.0
-175962,Unemployment,16,High School/Diploma,Sydney,1.5
-149942,Casual/Part time,29,High School/Diploma,Adelaide,1.25
-178880,Casual/Part time,31,DNF High School Education,Darwin,1.25
-86544,Unemployment,48,DNF High School Education,Adelaide,1.25
-134233,Casual/Part time,75,High School/Diploma,Perth,1.0
-163201,Casual/Part time,67,Degree+,Hobart,1.0
-168047,Permenant Full Time,68,Degree+,Hobart,1.0
-20388,Casual/Part time,27,High School/Diploma,Canberra,2.0
-144104,Casual/Part time,45,Degree+,Perth,1.0
-180612,Unemployment,65,High School/Diploma,Canberra,1.0
-17854,Permenant Full Time,62,High School/Diploma,Perth,1.5
-105873,Unemployment,64,High School/Diploma,Brisbane,1.0
-93745,Casual/Part time,19,High School/Diploma,Brisbane,1.75
-76813,Casual/Part time,55,High School/Diploma,Darwin,1.25
-162871,Unemployment,72,High School/Diploma,Canberra,1.0
-87654,Unemployment,27,Degree+,Sydney,1.75
-104053,Permenant Full Time,49,Degree+,Darwin,1.0
-139976,Unemployment,32,DNF High School Education,Hobart,1.25
-141046,Permenant Full Time,66,DNF High School Education,Brisbane,1.0
-113061,Unemployment,51,High School/Diploma,Hobart,1.0
-166206,Casual/Part time,43,DNF High School Education,Hobart,1.25
-178404,Permenant Full Time,22,High School/Diploma,Sydney,1.5
-43504,Casual/Part time,16,Degree+,Adelaide,2.0
-19262,Unemployment,18,Degree+,Brisbane,2.0
-30247,Permenant Full Time,40,Degree+,Melbourne,1.75
-65635,Unemployment,76,Degree+,Melbourne,1.25
-63961,Unemployment,36,High School/Diploma,Canberra,1.5
-66220,Unemployment,35,High School/Diploma,Perth,1.5
-142243,Permenant Full Time,75,DNF High School Education,Sydney,1.0
-126829,Casual/Part time,84,Degree+,Melbourne,1.0
-114566,Unemployment,28,Degree+,Adelaide,1.5
-36326,Casual/Part time,48,DNF High School Education,Brisbane,1.5
-172919,Permenant Full Time,73,High School/Diploma,Sydney,1.0
-191862,Casual/Part time,29,Degree+,Hobart,1.25
-169228,Casual/Part time,44,DNF High School Education,Perth,1.0
-33209,Casual/Part time,54,DNF High School Education,Hobart,1.5
-181137,Unemployment,49,Degree+,Canberra,1.0
-17676,Unemployment,27,High School/Diploma,Perth,2.0
-3560,Casual/Part time,43,High School/Diploma,Brisbane,1.75
-163451,Permenant Full Time,16,DNF High School Education,Canberra,1.5
-78965,Permenant Full Time,75,High School/Diploma,Sydney,1.25
-6569,Casual/Part time,33,DNF High School Education,Darwin,1.75
-163178,Permenant Full Time,73,DNF High School Education,Sydney,1.0
-67280,Permenant Full Time,76,Degree+,Perth,1.25
-89168,Permenant Full Time,74,Degree+,Adelaide,1.25
-124224,Casual/Part time,46,DNF High School Education,Brisbane,1.0
-69787,Unemployment,38,Degree+,Hobart,1.5
-169646,Unemployment,40,High School/Diploma,Adelaide,1.25
-68331,Unemployment,67,Degree+,Hobart,1.25
-190904,Permenant Full Time,45,DNF High School Education,Canberra,1.0
-143460,Permenant Full Time,47,Degree+,Brisbane,1.0
-131692,Casual/Part time,57,Degree+,Canberra,1.0
-44281,Unemployment,20,High School/Diploma,Hobart,2.0
-11758,Unemployment,34,High School/Diploma,Hobart,1.75
-8231,Casual/Part time,18,Degree+,Brisbane,2.0
-128337,Casual/Part time,50,Degree+,Hobart,1.0
-152008,Permenant Full Time,72,DNF High School Education,Darwin,1.0
-73724,Casual/Part time,70,DNF High School Education,Darwin,1.25
-148287,Permenant Full Time,55,DNF High School Education,Perth,1.0
-49842,Casual/Part time,24,DNF High School Education,Canberra,2.0
-182553,Unemployment,27,DNF High School Education,Hobart,1.5
-72208,Permenant Full Time,83,DNF High School Education,Melbourne,1.25
-119143,Permenant Full Time,15,Degree+,Perth,1.5
-18435,Permenant Full Time,42,Degree+,Sydney,1.75
-62247,Casual/Part time,42,Degree+,Canberra,1.5
-16548,Permenant Full Time,31,DNF High School Education,Brisbane,1.75
-3862,Unemployment,77,High School/Diploma,Brisbane,1.5
-94937,Permenant Full Time,20,Degree+,Perth,1.75
-96318,Unemployment,36,Degree+,Darwin,1.5
-32842,Permenant Full Time,52,High School/Diploma,Brisbane,1.5
-21620,Unemployment,50,High School/Diploma,Hobart,1.5
-144015,Unemployment,64,DNF High School Education,Adelaide,1.0
-53964,Permenant Full Time,23,High School/Diploma,Brisbane,1.75
-163258,Permenant Full Time,71,Degree+,Adelaide,1.0
-182314,Permenant Full Time,75,High School/Diploma,Darwin,1.0
-141941,Permenant Full Time,62,Degree+,Hobart,1.0
-60359,Permenant Full Time,61,High School/Diploma,Sydney,1.25
-87824,Unemployment,15,DNF High School Education,Brisbane,1.75
-170228,Unemployment,56,DNF High School Education,Adelaide,1.0
-187318,Unemployment,40,DNF High School Education,Adelaide,1.25
-165747,Casual/Part time,76,High School/Diploma,Darwin,1.0
-1693,Casual/Part time,39,High School/Diploma,Sydney,1.75
-39450,Unemployment,38,DNF High School Education,Brisbane,1.75
-102517,Unemployment,67,DNF High School Education,Melbourne,1.0
-62251,Casual/Part time,39,High School/Diploma,Perth,1.5
-24442,Unemployment,50,DNF High School Education,Darwin,1.5
-103112,Permenant Full Time,75,DNF High School Education,Darwin,1.0
-190600,Permenant Full Time,28,High School/Diploma,Adelaide,1.5
-144752,Permenant Full Time,55,Degree+,Brisbane,1.0
-41908,Permenant Full Time,81,DNF High School Education,Sydney,1.5
-143371,Casual/Part time,80,Degree+,Darwin,1.0
-107144,Casual/Part time,56,High School/Diploma,Adelaide,1.0
-174,Unemployment,72,DNF High School Education,Canberra,1.5
-53270,Unemployment,58,Degree+,Brisbane,1.25
-14327,Unemployment,54,DNF High School Education,Adelaide,1.5
-13926,Permenant Full Time,84,High School/Diploma,Hobart,1.5
-123155,Permenant Full Time,78,DNF High School Education,Perth,1.0
-120100,Permenant Full Time,25,Degree+,Darwin,1.5
-11213,Unemployment,43,DNF High School Education,Darwin,1.75
-163242,Permenant Full Time,35,High School/Diploma,Melbourne,1.25
-116610,Unemployment,51,Degree+,Canberra,1.0
-73314,Unemployment,65,DNF High School Education,Melbourne,1.25
-33806,Unemployment,58,High School/Diploma,Perth,1.5
-94452,Casual/Part time,16,DNF High School Education,Brisbane,1.75
-37026,Unemployment,66,Degree+,Canberra,1.5
-133295,Unemployment,84,High School/Diploma,Adelaide,1.0
-72137,Casual/Part time,50,Degree+,Hobart,1.25
-127562,Casual/Part time,49,Degree+,Darwin,1.0
-189745,Permenant Full Time,27,Degree+,Hobart,1.5
-35661,Casual/Part time,78,Degree+,Perth,1.5
-134384,Casual/Part time,20,DNF High School Education,Melbourne,1.5
-186058,Casual/Part time,80,DNF High School Education,Sydney,1.0
-54305,Casual/Part time,20,Degree+,Darwin,1.75
-11558,Unemployment,51,High School/Diploma,Darwin,1.5
-117901,Casual/Part time,39,High School/Diploma,Brisbane,1.25
-126321,Permenant Full Time,41,DNF High School Education,Darwin,1.25
-140774,Permenant Full Time,30,DNF High School Education,Adelaide,1.25
-70158,Unemployment,46,DNF High School Education,Canberra,1.25
-23981,Casual/Part time,71,DNF High School Education,Perth,1.5
-77112,Casual/Part time,45,High School/Diploma,Perth,1.25
-153170,Unemployment,27,DNF High School Education,Brisbane,1.5
-124260,Casual/Part time,62,High School/Diploma,Sydney,1.0
-93681,Unemployment,56,DNF High School Education,Hobart,1.25
-41941,Unemployment,66,High School/Diploma,Melbourne,1.5
-149317,Casual/Part time,19,High School/Diploma,Sydney,1.5
-123920,Unemployment,70,High School/Diploma,Perth,1.0
-47557,Permenant Full Time,50,Degree+,Perth,1.5
-169624,Casual/Part time,33,Degree+,Perth,1.25
-37915,Unemployment,32,High School/Diploma,Adelaide,1.75
-159124,Permenant Full Time,67,DNF High School Education,Canberra,1.0
-126296,Casual/Part time,34,Degree+,Adelaide,1.25
-78915,Casual/Part time,82,DNF High School Education,Melbourne,1.25
-81462,Unemployment,45,High School/Diploma,Canberra,1.25
-82709,Casual/Part time,82,High School/Diploma,Perth,1.25
-101390,Unemployment,72,DNF High School Education,Canberra,1.0
-154541,Permenant Full Time,25,DNF High School Education,Sydney,1.5
-52601,Unemployment,78,High School/Diploma,Perth,1.25
-172546,Permenant Full Time,51,High School/Diploma,Darwin,1.0
-95790,Casual/Part time,54,DNF High School Education,Sydney,1.25
-176808,Permenant Full Time,44,DNF High School Education,Sydney,1.0
-167861,Permenant Full Time,83,Degree+,Melbourne,1.0
-50695,Permenant Full Time,59,Degree+,Canberra,1.25
-147850,Unemployment,30,DNF High School Education,Perth,1.25
-5741,Permenant Full Time,50,High School/Diploma,Darwin,1.5
-4313,Permenant Full Time,45,High School/Diploma,Adelaide,1.5
-6811,Permenant Full Time,32,DNF High School Education,Sydney,1.75
-95315,Permenant Full Time,62,High School/Diploma,Perth,1.25
-150727,Permenant Full Time,42,DNF High School Education,Darwin,1.25
-23752,Unemployment,76,Degree+,Canberra,1.5
-36716,Casual/Part time,64,High School/Diploma,Darwin,1.5
-4398,Unemployment,29,DNF High School Education,Hobart,1.75
-143566,Casual/Part time,31,DNF High School Education,Sydney,1.25
-116515,Casual/Part time,50,DNF High School Education,Brisbane,1.0
-79001,Unemployment,21,Degree+,Melbourne,1.75
-65540,Unemployment,66,Degree+,Darwin,1.25
-7546,Unemployment,75,High School/Diploma,Darwin,1.5
-184746,Casual/Part time,61,Degree+,Adelaide,1.0
-25615,Permenant Full Time,66,Degree+,Hobart,1.5
-158925,Casual/Part time,72,High School/Diploma,Canberra,1.0
-165026,Unemployment,27,High School/Diploma,Melbourne,1.5
-34769,Permenant Full Time,76,DNF High School Education,Canberra,1.5
-118050,Permenant Full Time,49,High School/Diploma,Canberra,1.0
-114182,Permenant Full Time,67,Degree+,Perth,1.0
-80595,Unemployment,60,High School/Diploma,Melbourne,1.25
-55954,Casual/Part time,57,DNF High School Education,Sydney,1.25
-1958,Permenant Full Time,35,DNF High School Education,Perth,1.75
-180593,Unemployment,85,DNF High School Education,Sydney,1.0
-68454,Casual/Part time,28,DNF High School Education,Perth,1.75
-40674,Permenant Full Time,60,High School/Diploma,Perth,1.5
-16655,Permenant Full Time,33,DNF High School Education,Adelaide,1.75
-137052,Unemployment,56,DNF High School Education,Adelaide,1.0
-124561,Unemployment,46,Degree+,Melbourne,1.0
-79640,Casual/Part time,74,High School/Diploma,Canberra,1.25
-67052,Unemployment,51,DNF High School Education,Brisbane,1.25
-185090,Unemployment,62,High School/Diploma,Adelaide,1.0
-119827,Unemployment,61,High School/Diploma,Canberra,1.0
-83859,Unemployment,40,High School/Diploma,Canberra,1.5
-58737,Unemployment,32,High School/Diploma,Darwin,1.5
-5892,Unemployment,24,Degree+,Adelaide,2.0
-184708,Permenant Full Time,26,DNF High School Education,Melbourne,1.5
-134248,Casual/Part time,49,High School/Diploma,Canberra,1.0
-128513,Unemployment,68,High School/Diploma,Adelaide,1.0
-40707,Unemployment,71,Degree+,Perth,1.5
-34484,Casual/Part time,50,Degree+,Hobart,1.5
-25067,Casual/Part time,24,Degree+,Adelaide,2.0
-67985,Casual/Part time,16,Degree+,Brisbane,1.75
-117209,Unemployment,63,High School/Diploma,Adelaide,1.0
-148953,Permenant Full Time,79,Degree+,Adelaide,1.0
-105827,Permenant Full Time,17,High School/Diploma,Darwin,1.5
-65427,Casual/Part time,29,Degree+,Canberra,1.5
-106051,Casual/Part time,47,DNF High School Education,Adelaide,1.0
-130820,Permenant Full Time,59,High School/Diploma,Perth,1.0
-78793,Unemployment,53,Degree+,Brisbane,1.25
-59845,Casual/Part time,58,Degree+,Hobart,1.25
-63449,Permenant Full Time,47,DNF High School Education,Melbourne,1.25
-81281,Unemployment,79,High School/Diploma,Sydney,1.25
-199903,Casual/Part time,82,Degree+,Perth,1.0
-26075,Permenant Full Time,27,DNF High School Education,Adelaide,2.0
-144981,Permenant Full Time,85,Degree+,Hobart,1.0
-55321,Casual/Part time,85,High School/Diploma,Melbourne,1.25
-112896,Unemployment,28,Degree+,Darwin,1.5
-93188,Unemployment,52,Degree+,Darwin,1.25
-79819,Casual/Part time,71,Degree+,Hobart,1.25
-9829,Casual/Part time,64,DNF High School Education,Canberra,1.5
-193452,Unemployment,36,High School/Diploma,Darwin,1.25
-138106,Permenant Full Time,83,Degree+,Perth,1.0
-59100,Permenant Full Time,85,High School/Diploma,Hobart,1.25
-78779,Permenant Full Time,58,DNF High School Education,Darwin,1.25
-28238,Unemployment,26,Degree+,Canberra,2.0
-131547,Casual/Part time,28,DNF High School Education,Darwin,1.5
-13882,Permenant Full Time,27,High School/Diploma,Adelaide,2.0
-135157,Casual/Part time,78,DNF High School Education,Canberra,1.0
-160921,Unemployment,21,Degree+,Perth,1.5
-170965,Unemployment,49,DNF High School Education,Darwin,1.0
-55651,Casual/Part time,53,DNF High School Education,Adelaide,1.25
-30493,Unemployment,45,Degree+,Melbourne,1.5
-63867,Permenant Full Time,75,Degree+,Perth,1.25
-8800,Permenant Full Time,24,Degree+,Perth,2.0
-172613,Permenant Full Time,17,Degree+,Darwin,1.5
-6607,Unemployment,22,High School/Diploma,Hobart,2.0
-46582,Unemployment,66,Degree+,Sydney,1.5
-112514,Casual/Part time,59,DNF High School Education,Perth,1.0
-29656,Permenant Full Time,62,High School/Diploma,Hobart,1.5
-124469,Casual/Part time,75,DNF High School Education,Brisbane,1.0
-23938,Permenant Full Time,54,High School/Diploma,Brisbane,1.5
-129699,Permenant Full Time,16,DNF High School Education,Canberra,1.5
-159889,Permenant Full Time,56,High School/Diploma,Brisbane,1.0
-90858,Casual/Part time,62,Degree+,Melbourne,1.25
-14113,Permenant Full Time,57,Degree+,Sydney,1.5
-177176,Casual/Part time,58,High School/Diploma,Melbourne,1.0
-174636,Unemployment,39,DNF High School Education,Adelaide,1.25
-7194,Unemployment,37,High School/Diploma,Perth,1.75
-189025,Unemployment,46,DNF High School Education,Hobart,1.0
-185622,Unemployment,64,DNF High School Education,Canberra,1.0
-198124,Permenant Full Time,77,Degree+,Brisbane,1.0
-128453,Casual/Part time,80,Degree+,Adelaide,1.0
-45007,Permenant Full Time,35,DNF High School Education,Hobart,1.75
-182213,Casual/Part time,47,High School/Diploma,Adelaide,1.0
-172561,Casual/Part time,58,DNF High School Education,Hobart,1.0
-125983,Casual/Part time,46,DNF High School Education,Perth,1.0
-161504,Permenant Full Time,84,DNF High School Education,Melbourne,1.0
-174204,Permenant Full Time,28,High School/Diploma,Adelaide,1.5
-193676,Permenant Full Time,22,DNF High School Education,Melbourne,1.5
-158525,Permenant Full Time,78,Degree+,Perth,1.0
-196009,Permenant Full Time,45,Degree+,Hobart,1.0
-95591,Unemployment,80,High School/Diploma,Hobart,1.25
-53019,Permenant Full Time,17,DNF High School Education,Perth,1.75
-103294,Unemployment,74,High School/Diploma,Darwin,1.0
-111854,Unemployment,26,Degree+,Darwin,1.5
-171554,Unemployment,62,Degree+,Hobart,1.0
-163011,Permenant Full Time,54,Degree+,Melbourne,1.0
-1194,Permenant Full Time,57,High School/Diploma,Sydney,1.5
-4554,Permenant Full Time,49,Degree+,Hobart,1.5
-72993,Casual/Part time,37,DNF High School Education,Brisbane,1.5
-47870,Unemployment,63,High School/Diploma,Melbourne,1.5
-14214,Casual/Part time,70,High School/Diploma,Adelaide,1.5
-42379,Casual/Part time,53,High School/Diploma,Canberra,1.5
-115585,Permenant Full Time,34,Degree+,Darwin,1.25
-172747,Unemployment,57,DNF High School Education,Darwin,1.0
-147603,Unemployment,71,Degree+,Melbourne,1.0
-180856,Casual/Part time,53,DNF High School Education,Adelaide,1.0
-123719,Unemployment,29,DNF High School Education,Hobart,1.25
-86204,Permenant Full Time,84,Degree+,Darwin,1.25
-186075,Unemployment,39,DNF High School Education,Canberra,1.25
-195542,Casual/Part time,53,Degree+,Brisbane,1.0
-113108,Permenant Full Time,60,Degree+,Darwin,1.0
-128379,Permenant Full Time,59,High School/Diploma,Perth,1.0
-143195,Casual/Part time,42,DNF High School Education,Darwin,1.25
-119723,Permenant Full Time,64,High School/Diploma,Darwin,1.0
-33171,Permenant Full Time,25,Degree+,Adelaide,2.0
-81076,Casual/Part time,65,High School/Diploma,Melbourne,1.25
-102989,Casual/Part time,23,High School/Diploma,Darwin,1.5
-101825,Casual/Part time,73,High School/Diploma,Melbourne,1.0
-186098,Unemployment,30,High School/Diploma,Adelaide,1.25
-170942,Casual/Part time,34,DNF High School Education,Sydney,1.25
-13880,Unemployment,47,DNF High School Education,Melbourne,1.5
-131950,Unemployment,80,Degree+,Perth,1.0
-194676,Casual/Part time,55,DNF High School Education,Canberra,1.0
-4173,Permenant Full Time,66,High School/Diploma,Hobart,1.5
-12271,Permenant Full Time,32,DNF High School Education,Perth,1.75
-184963,Permenant Full Time,59,Degree+,Perth,1.0
-177558,Unemployment,31,Degree+,Adelaide,1.25
-116162,Permenant Full Time,77,DNF High School Education,Sydney,1.0
-18225,Casual/Part time,52,DNF High School Education,Brisbane,1.5
-88789,Casual/Part time,81,High School/Diploma,Brisbane,1.25
-115337,Casual/Part time,36,Degree+,Adelaide,1.25
-149246,Casual/Part time,42,High School/Diploma,Darwin,1.25
-90015,Permenant Full Time,25,High School/Diploma,Sydney,1.75
-141057,Unemployment,38,High School/Diploma,Adelaide,1.25
-93730,Casual/Part time,78,Degree+,Perth,1.25
-133442,Permenant Full Time,63,DNF High School Education,Darwin,1.0
-69103,Unemployment,25,High School/Diploma,Hobart,1.75
-75778,Permenant Full Time,85,Degree+,Sydney,1.25
-3384,Casual/Part time,74,Degree+,Perth,1.5
-128276,Permenant Full Time,72,Degree+,Perth,1.0
-80117,Permenant Full Time,49,Degree+,Perth,1.25
-34830,Unemployment,81,Degree+,Hobart,1.5
-179377,Permenant Full Time,59,High School/Diploma,Canberra,1.0
-120302,Unemployment,42,High School/Diploma,Brisbane,1.25
-22109,Permenant Full Time,65,Degree+,Adelaide,1.5
-179796,Unemployment,30,DNF High School Education,Adelaide,1.25
-42673,Unemployment,74,Degree+,Adelaide,1.5
-161835,Casual/Part time,58,High School/Diploma,Brisbane,1.0
-114388,Unemployment,40,DNF High School Education,Perth,1.25
-136262,Casual/Part time,70,High School/Diploma,Adelaide,1.0
-98478,Casual/Part time,30,High School/Diploma,Adelaide,1.5
-2672,Unemployment,50,DNF High School Education,Hobart,1.5
-114466,Unemployment,81,Degree+,Canberra,1.0
-120532,Permenant Full Time,53,Degree+,Darwin,1.0
-144364,Unemployment,35,DNF High School Education,Darwin,1.25
-149432,Unemployment,81,DNF High School Education,Sydney,1.0
-12641,Permenant Full Time,35,High School/Diploma,Adelaide,1.75
-104667,Permenant Full Time,76,High School/Diploma,Adelaide,1.0
-93903,Unemployment,80,Degree+,Hobart,1.25
-159404,Casual/Part time,39,Degree+,Adelaide,1.25
-129054,Casual/Part time,62,High School/Diploma,Brisbane,1.0
-73157,Unemployment,40,Degree+,Perth,1.5
-61075,Permenant Full Time,51,High School/Diploma,Canberra,1.25
-91321,Unemployment,37,High School/Diploma,Adelaide,1.5
-124914,Permenant Full Time,75,High School/Diploma,Adelaide,1.0
-35561,Casual/Part time,81,Degree+,Darwin,1.5
-143539,Unemployment,85,Degree+,Hobart,1.0
-49346,Casual/Part time,68,Degree+,Hobart,1.5
-103108,Permenant Full Time,45,Degree+,Sydney,1.0
-196923,Unemployment,68,High School/Diploma,Adelaide,1.0
-23309,Casual/Part time,53,High School/Diploma,Adelaide,1.5
-143750,Permenant Full Time,20,DNF High School Education,Perth,1.5
-36803,Permenant Full Time,39,DNF High School Education,Canberra,1.75
-91494,Casual/Part time,19,Degree+,Brisbane,1.75
-70719,Casual/Part time,25,DNF High School Education,Sydney,1.75
-36229,Unemployment,81,High School/Diploma,Adelaide,1.5
-168624,Unemployment,31,High School/Diploma,Canberra,1.25
-94783,Casual/Part time,19,DNF High School Education,Hobart,1.75
-122056,Casual/Part time,22,DNF High School Education,Sydney,1.5
-104678,Permenant Full Time,52,High School/Diploma,Sydney,1.0
-113229,Unemployment,31,DNF High School Education,Hobart,1.25
-52972,Casual/Part time,76,High School/Diploma,Perth,1.25
-16407,Permenant Full Time,85,Degree+,Perth,1.5
-128988,Casual/Part time,39,High School/Diploma,Melbourne,1.25
-161898,Unemployment,53,Degree+,Sydney,1.0
-98657,Permenant Full Time,45,Degree+,Melbourne,1.25
-20074,Permenant Full Time,75,DNF High School Education,Adelaide,1.5
-76620,Casual/Part time,77,Degree+,Melbourne,1.25
-161920,Permenant Full Time,23,DNF High School Education,Canberra,1.5
-159502,Permenant Full Time,50,High School/Diploma,Hobart,1.0
-152114,Permenant Full Time,48,Degree+,Hobart,1.0
-106309,Unemployment,15,DNF High School Education,Canberra,1.5
-100511,Unemployment,34,High School/Diploma,Canberra,1.25
-52990,Permenant Full Time,43,Degree+,Brisbane,1.5
-9685,Unemployment,17,Degree+,Hobart,2.0
-39816,Permenant Full Time,26,Degree+,Darwin,2.0
-21516,Permenant Full Time,30,High School/Diploma,Hobart,1.75
-66868,Permenant Full Time,82,DNF High School Education,Hobart,1.25
-146768,Unemployment,69,DNF High School Education,Melbourne,1.0
-171615,Permenant Full Time,50,High School/Diploma,Canberra,1.0
-99091,Permenant Full Time,47,DNF High School Education,Perth,1.25
-165215,Permenant Full Time,65,DNF High School Education,Melbourne,1.0
-158536,Unemployment,29,Degree+,Perth,1.25
-60752,Casual/Part time,45,High School/Diploma,Adelaide,1.25
-198213,Unemployment,53,High School/Diploma,Canberra,1.0
-153693,Permenant Full Time,48,High School/Diploma,Sydney,1.0
-82504,Casual/Part time,56,Degree+,Hobart,1.25
-27272,Permenant Full Time,60,DNF High School Education,Darwin,1.5
-143968,Unemployment,28,High School/Diploma,Brisbane,1.5
-145102,Permenant Full Time,25,Degree+,Perth,1.5
-126083,Casual/Part time,20,DNF High School Education,Perth,1.5
-97587,Casual/Part time,27,Degree+,Melbourne,1.75
-3724,Casual/Part time,51,DNF High School Education,Canberra,1.5
-137961,Unemployment,35,High School/Diploma,Melbourne,1.25
-31216,Permenant Full Time,73,High School/Diploma,Darwin,1.5
-131350,Permenant Full Time,47,High School/Diploma,Darwin,1.0
-145146,Casual/Part time,33,High School/Diploma,Adelaide,1.25
-117027,Permenant Full Time,21,DNF High School Education,Adelaide,1.5
-42934,Unemployment,15,Degree+,Adelaide,2.0
-149240,Permenant Full Time,57,High School/Diploma,Hobart,1.0
-27377,Unemployment,32,Degree+,Hobart,1.75
-110107,Permenant Full Time,45,DNF High School Education,Darwin,1.0
-40291,Unemployment,15,Degree+,Canberra,2.0
-85931,Permenant Full Time,79,High School/Diploma,Sydney,1.25
-6618,Permenant Full Time,44,DNF High School Education,Sydney,1.5
-52842,Permenant Full Time,44,High School/Diploma,Melbourne,1.25
-130214,Casual/Part time,65,High School/Diploma,Hobart,1.0
-143193,Permenant Full Time,17,Degree+,Darwin,1.5
-163478,Casual/Part time,49,High School/Diploma,Melbourne,1.0
-55196,Casual/Part time,33,Degree+,Melbourne,1.5
-42722,Unemployment,50,High School/Diploma,Hobart,1.5
-20921,Permenant Full Time,58,DNF High School Education,Canberra,1.5
-99108,Permenant Full Time,49,Degree+,Darwin,1.25
-32893,Casual/Part time,78,Degree+,Sydney,1.5
-45292,Unemployment,24,DNF High School Education,Adelaide,2.0
-30826,Unemployment,53,DNF High School Education,Canberra,1.5
-97971,Permenant Full Time,85,DNF High School Education,Sydney,1.25
-132730,Casual/Part time,39,DNF High School Education,Brisbane,1.25
-182599,Unemployment,76,Degree+,Sydney,1.0
-10753,Unemployment,77,Degree+,Perth,1.5
-139649,Permenant Full Time,27,DNF High School Education,Hobart,1.5
-92115,Permenant Full Time,18,High School/Diploma,Hobart,1.75
-118480,Permenant Full Time,21,DNF High School Education,Hobart,1.5
-8463,Unemployment,63,High School/Diploma,Darwin,1.5
-145882,Permenant Full Time,50,DNF High School Education,Brisbane,1.0
-145857,Casual/Part time,30,High School/Diploma,Hobart,1.25
-161402,Unemployment,81,Degree+,Canberra,1.0
-64508,Unemployment,18,DNF High School Education,Sydney,1.75
-111936,Permenant Full Time,78,DNF High School Education,Darwin,1.0
-118661,Unemployment,15,Degree+,Perth,1.5
-105677,Casual/Part time,72,Degree+,Brisbane,1.0
-12243,Casual/Part time,83,Degree+,Melbourne,1.5
-133112,Permenant Full Time,41,High School/Diploma,Darwin,1.25
-81978,Permenant Full Time,47,DNF High School Education,Melbourne,1.25
-142921,Unemployment,43,Degree+,Perth,1.25
-104762,Unemployment,57,Degree+,Brisbane,1.0
-92298,Permenant Full Time,50,Degree+,Darwin,1.25
-26295,Casual/Part time,67,High School/Diploma,Adelaide,1.5
-29806,Unemployment,75,Degree+,Adelaide,1.5
-92139,Unemployment,33,High School/Diploma,Melbourne,1.5
-155120,Permenant Full Time,24,DNF High School Education,Canberra,1.5
-14448,Casual/Part time,30,Degree+,Brisbane,1.75
-25515,Casual/Part time,82,Degree+,Melbourne,1.5
-16477,Unemployment,83,High School/Diploma,Adelaide,1.5
-38531,Unemployment,83,DNF High School Education,Perth,1.5
-183763,Unemployment,80,Degree+,Brisbane,1.0
-41468,Casual/Part time,33,Degree+,Adelaide,1.75
-114468,Permenant Full Time,48,DNF High School Education,Darwin,1.0
-186578,Unemployment,37,DNF High School Education,Sydney,1.25
-159552,Unemployment,15,High School/Diploma,Adelaide,1.5
-17421,Permenant Full Time,38,High School/Diploma,Perth,1.75
-132132,Permenant Full Time,44,High School/Diploma,Adelaide,1.0
-132536,Casual/Part time,37,DNF High School Education,Adelaide,1.25
-99536,Casual/Part time,82,DNF High School Education,Darwin,1.25
-189294,Unemployment,73,Degree+,Melbourne,1.0
-167642,Permenant Full Time,23,DNF High School Education,Sydney,1.5
-118785,Unemployment,31,DNF High School Education,Hobart,1.25
-24696,Permenant Full Time,31,DNF High School Education,Brisbane,1.75
-82562,Casual/Part time,34,Degree+,Brisbane,1.5
-192348,Permenant Full Time,44,DNF High School Education,Melbourne,1.0
-32318,Casual/Part time,81,DNF High School Education,Adelaide,1.5
-98366,Unemployment,64,Degree+,Darwin,1.25
-144424,Casual/Part time,32,High School/Diploma,Perth,1.25
-46857,Casual/Part time,38,Degree+,Hobart,1.75
-47831,Permenant Full Time,51,DNF High School Education,Adelaide,1.5
-178588,Permenant Full Time,50,Degree+,Melbourne,1.0
-127639,Unemployment,37,Degree+,Canberra,1.25
-74962,Permenant Full Time,37,DNF High School Education,Melbourne,1.5
-146285,Casual/Part time,79,High School/Diploma,Sydney,1.0
-184293,Unemployment,76,High School/Diploma,Darwin,1.0
-105981,Permenant Full Time,46,DNF High School Education,Sydney,1.0
-16941,Permenant Full Time,25,High School/Diploma,Melbourne,2.0
-145491,Unemployment,66,Degree+,Darwin,1.0
-190685,Casual/Part time,17,Degree+,Perth,1.5
-4019,Unemployment,30,Degree+,Melbourne,1.75
-53419,Casual/Part time,34,High School/Diploma,Brisbane,1.5
-81355,Casual/Part time,75,Degree+,Sydney,1.25
-101301,Unemployment,56,DNF High School Education,Sydney,1.0
-3645,Casual/Part time,60,High School/Diploma,Canberra,1.5
-12717,Unemployment,49,Degree+,Melbourne,1.5
-99228,Permenant Full Time,48,High School/Diploma,Hobart,1.25
-71769,Permenant Full Time,34,Degree+,Canberra,1.5
-101079,Casual/Part time,28,High School/Diploma,Sydney,1.5
-19047,Casual/Part time,79,Degree+,Hobart,1.5
-139770,Casual/Part time,25,DNF High School Education,Sydney,1.5
-120371,Unemployment,29,Degree+,Adelaide,1.25
-4742,Casual/Part time,79,DNF High School Education,Darwin,1.5
-98825,Casual/Part time,65,Degree+,Perth,1.25
-113227,Unemployment,40,Degree+,Perth,1.25
-71811,Unemployment,60,High School/Diploma,Melbourne,1.25
-151630,Unemployment,34,High School/Diploma,Sydney,1.25
-159792,Unemployment,75,DNF High School Education,Adelaide,1.0
-80335,Casual/Part time,41,Degree+,Perth,1.5
-160002,Permenant Full Time,41,Degree+,Canberra,1.25
-31896,Casual/Part time,76,High School/Diploma,Sydney,1.5
-64551,Unemployment,80,Degree+,Brisbane,1.25
-154514,Permenant Full Time,81,High School/Diploma,Canberra,1.0
-176136,Permenant Full Time,84,Degree+,Brisbane,1.0
-146574,Unemployment,20,Degree+,Brisbane,1.5
-149223,Unemployment,24,Degree+,Melbourne,1.5
-196714,Unemployment,18,Degree+,Hobart,1.5
-44321,Permenant Full Time,40,Degree+,Sydney,1.75
-183910,Unemployment,19,Degree+,Perth,1.5
-65917,Casual/Part time,25,Degree+,Darwin,1.75
-154787,Permenant Full Time,38,High School/Diploma,Perth,1.25
-148032,Permenant Full Time,61,DNF High School Education,Brisbane,1.0
-175436,Permenant Full Time,65,DNF High School Education,Darwin,1.0
-31949,Unemployment,54,Degree+,Canberra,1.5
-155960,Unemployment,66,High School/Diploma,Melbourne,1.0
-178430,Casual/Part time,50,High School/Diploma,Darwin,1.0
-14445,Unemployment,22,High School/Diploma,Canberra,2.0
-172502,Unemployment,59,DNF High School Education,Brisbane,1.0
-51112,Casual/Part time,38,High School/Diploma,Sydney,1.5
-42284,Unemployment,24,DNF High School Education,Darwin,2.0
-12359,Casual/Part time,23,High School/Diploma,Perth,2.0
-135642,Permenant Full Time,50,Degree+,Brisbane,1.0
-78616,Unemployment,79,High School/Diploma,Brisbane,1.25
-64154,Casual/Part time,52,High School/Diploma,Sydney,1.25
-180701,Unemployment,72,DNF High School Education,Brisbane,1.0
-11323,Unemployment,58,High School/Diploma,Adelaide,1.5
-130079,Permenant Full Time,53,High School/Diploma,Darwin,1.0
-6022,Unemployment,65,DNF High School Education,Perth,1.5
-10270,Unemployment,45,Degree+,Hobart,1.5
-77491,Unemployment,35,DNF High School Education,Darwin,1.5
-32944,Permenant Full Time,18,DNF High School Education,Hobart,2.0
-61266,Casual/Part time,48,Degree+,Canberra,1.25
-46899,Casual/Part time,71,Degree+,Brisbane,1.5
-113345,Casual/Part time,30,High School/Diploma,Melbourne,1.25
-107235,Casual/Part time,16,Degree+,Canberra,1.5
-74632,Unemployment,57,Degree+,Brisbane,1.25
-176850,Unemployment,56,Degree+,Brisbane,1.0
+income,employement_status,age,education_level,state,risk
+49434,Unemployment,40,Degree+,Brisbane,1.75
+18737,Unemployment,26,DNF High School Education,Adelaide,2.0
+64740,Casual/Part time,50,Degree+,Brisbane,1.25
+130955,Permenant Full Time,35,DNF High School Education,Hobart,1.25
+103097,Permenant Full Time,22,Degree+,Brisbane,1.5
+44348,Unemployment,77,Degree+,Hobart,1.5
+103416,Unemployment,31,High School/Diploma,Adelaide,1.25
+12855,Casual/Part time,29,High School/Diploma,Darwin,1.75
+123663,Unemployment,36,Degree+,Darwin,1.25
+6429,Casual/Part time,69,High School/Diploma,Sydney,1.5
+196040,Permenant Full Time,25,High School/Diploma,Perth,1.5
+114905,Casual/Part time,79,DNF High School Education,Canberra,1.0
+122064,Unemployment,49,High School/Diploma,Adelaide,1.0
+26405,Permenant Full Time,36,Degree+,Hobart,1.75
+184423,Unemployment,20,DNF High School Education,Brisbane,1.5
+137434,Unemployment,26,High School/Diploma,Perth,1.5
+135605,Casual/Part time,69,DNF High School Education,Perth,1.0
+115864,Permenant Full Time,63,DNF High School Education,Melbourne,1.0
+15202,Permenant Full Time,29,DNF High School Education,Hobart,1.75
+44513,Casual/Part time,18,Degree+,Canberra,2.0
+22285,Permenant Full Time,66,High School/Diploma,Hobart,1.5
+73241,Casual/Part time,66,High School/Diploma,Adelaide,1.25
+87288,Unemployment,64,High School/Diploma,Melbourne,1.25
+100354,Unemployment,62,DNF High School Education,Sydney,1.0
+79271,Unemployment,52,Degree+,Perth,1.25
+116637,Unemployment,46,DNF High School Education,Brisbane,1.0
+145890,Permenant Full Time,44,DNF High School Education,Perth,1.0
+165725,Unemployment,71,Degree+,Hobart,1.0
+70156,Unemployment,40,DNF High School Education,Perth,1.5
+69944,Unemployment,68,Degree+,Brisbane,1.25
+190498,Unemployment,51,DNF High School Education,Hobart,1.0
+147209,Casual/Part time,65,High School/Diploma,Hobart,1.0
+196205,Permenant Full Time,44,High School/Diploma,Melbourne,1.0
+155940,Unemployment,78,DNF High School Education,Canberra,1.0
+78659,Casual/Part time,68,High School/Diploma,Adelaide,1.25
+167506,Permenant Full Time,47,DNF High School Education,Darwin,1.0
+69743,Permenant Full Time,24,Degree+,Adelaide,1.75
+73733,Casual/Part time,25,Degree+,Hobart,1.75
+139894,Permenant Full Time,31,Degree+,Sydney,1.25
+123987,Casual/Part time,74,Degree+,Perth,1.0
+176132,Permenant Full Time,53,Degree+,Sydney,1.0
+85801,Casual/Part time,59,Degree+,Brisbane,1.25
+52350,Unemployment,51,Degree+,Hobart,1.25
+159118,Casual/Part time,64,High School/Diploma,Brisbane,1.0
+155964,Casual/Part time,31,High School/Diploma,Hobart,1.25
+144966,Unemployment,74,Degree+,Canberra,1.0
+55473,Permenant Full Time,16,DNF High School Education,Darwin,1.75
+84738,Permenant Full Time,44,DNF High School Education,Canberra,1.25
+146553,Permenant Full Time,80,High School/Diploma,Hobart,1.0
+189202,Unemployment,52,Degree+,Hobart,1.0
+41680,Casual/Part time,45,Degree+,Darwin,1.5
+166719,Casual/Part time,32,High School/Diploma,Hobart,1.25
+108303,Permenant Full Time,21,DNF High School Education,Darwin,1.5
+184754,Casual/Part time,17,DNF High School Education,Sydney,1.5
+106345,Permenant Full Time,31,High School/Diploma,Adelaide,1.25
+74314,Unemployment,63,High School/Diploma,Adelaide,1.25
+81133,Permenant Full Time,25,High School/Diploma,Canberra,1.75
+150626,Unemployment,51,DNF High School Education,Melbourne,1.0
+122282,Unemployment,68,DNF High School Education,Perth,1.0
+84504,Casual/Part time,85,DNF High School Education,Brisbane,1.25
+148466,Unemployment,25,High School/Diploma,Perth,1.5
+37522,Casual/Part time,53,DNF High School Education,Perth,1.5
+140611,Casual/Part time,26,DNF High School Education,Melbourne,1.5
+96304,Unemployment,40,High School/Diploma,Brisbane,1.5
+75268,Permenant Full Time,64,DNF High School Education,Darwin,1.25
+70006,Unemployment,56,High School/Diploma,Melbourne,1.25
+19694,Permenant Full Time,85,High School/Diploma,Perth,1.5
+191445,Casual/Part time,44,High School/Diploma,Melbourne,1.0
+138460,Casual/Part time,41,High School/Diploma,Brisbane,1.25
+167202,Permenant Full Time,38,High School/Diploma,Melbourne,1.25
+160625,Casual/Part time,42,High School/Diploma,Sydney,1.25
+15777,Permenant Full Time,45,High School/Diploma,Melbourne,1.5
+92234,Permenant Full Time,71,High School/Diploma,Adelaide,1.25
+43642,Unemployment,33,DNF High School Education,Perth,1.75
+142101,Unemployment,39,DNF High School Education,Sydney,1.25
+139510,Unemployment,70,High School/Diploma,Melbourne,1.0
+97804,Permenant Full Time,49,DNF High School Education,Adelaide,1.25
+131576,Casual/Part time,78,DNF High School Education,Darwin,1.0
+153016,Casual/Part time,41,High School/Diploma,Hobart,1.25
+71253,Permenant Full Time,34,DNF High School Education,Hobart,1.5
+174918,Casual/Part time,24,High School/Diploma,Canberra,1.5
+4473,Permenant Full Time,59,Degree+,Adelaide,1.5
+25077,Unemployment,70,DNF High School Education,Hobart,1.5
+183482,Permenant Full Time,83,DNF High School Education,Canberra,1.0
+145415,Casual/Part time,17,High School/Diploma,Brisbane,1.5
+13866,Casual/Part time,30,High School/Diploma,Melbourne,1.75
+32926,Casual/Part time,37,Degree+,Sydney,1.75
+159001,Unemployment,25,High School/Diploma,Perth,1.5
+97262,Permenant Full Time,71,DNF High School Education,Hobart,1.25
+79444,Permenant Full Time,74,DNF High School Education,Canberra,1.25
+95954,Unemployment,30,High School/Diploma,Sydney,1.5
+45771,Permenant Full Time,31,High School/Diploma,Canberra,1.75
+103896,Casual/Part time,53,Degree+,Canberra,1.0
+128009,Casual/Part time,38,DNF High School Education,Brisbane,1.25
+143439,Casual/Part time,54,DNF High School Education,Canberra,1.0
+69021,Permenant Full Time,55,Degree+,Brisbane,1.25
+6926,Unemployment,33,Degree+,Sydney,1.75
+21329,Unemployment,70,DNF High School Education,Brisbane,1.5
+21195,Casual/Part time,25,Degree+,Melbourne,2.0
+55118,Casual/Part time,21,Degree+,Hobart,1.75
+162868,Casual/Part time,27,Degree+,Darwin,1.5
+51917,Unemployment,23,High School/Diploma,Brisbane,1.75
+76066,Casual/Part time,53,Degree+,Sydney,1.25
+1734,Casual/Part time,62,Degree+,Hobart,1.5
+195090,Casual/Part time,32,Degree+,Melbourne,1.25
+140136,Permenant Full Time,71,High School/Diploma,Sydney,1.0
+96498,Casual/Part time,18,DNF High School Education,Adelaide,1.75
+56808,Unemployment,78,DNF High School Education,Sydney,1.25
+134129,Unemployment,74,DNF High School Education,Adelaide,1.0
+17699,Casual/Part time,30,DNF High School Education,Darwin,1.75
+159146,Permenant Full Time,68,Degree+,Sydney,1.0
+50227,Permenant Full Time,38,Degree+,Brisbane,1.5
+181011,Permenant Full Time,46,DNF High School Education,Canberra,1.0
+194807,Unemployment,45,Degree+,Darwin,1.0
+61404,Permenant Full Time,71,Degree+,Darwin,1.25
+144298,Casual/Part time,61,DNF High School Education,Melbourne,1.0
+53132,Permenant Full Time,31,High School/Diploma,Sydney,1.5
+6682,Permenant Full Time,77,Degree+,Darwin,1.5
+7316,Unemployment,43,Degree+,Adelaide,1.75
+73212,Permenant Full Time,50,DNF High School Education,Brisbane,1.25
+39515,Casual/Part time,83,Degree+,Adelaide,1.5
+190821,Permenant Full Time,34,DNF High School Education,Perth,1.25
+78705,Casual/Part time,78,Degree+,Perth,1.25
+159686,Permenant Full Time,64,DNF High School Education,Brisbane,1.0
+115507,Casual/Part time,49,DNF High School Education,Brisbane,1.0
+45200,Unemployment,72,High School/Diploma,Perth,1.5
+108884,Casual/Part time,31,High School/Diploma,Darwin,1.25
+9710,Casual/Part time,80,DNF High School Education,Brisbane,1.5
+135068,Unemployment,25,DNF High School Education,Melbourne,1.5
+105915,Permenant Full Time,46,Degree+,Sydney,1.0
+43229,Permenant Full Time,70,Degree+,Brisbane,1.5
+86209,Casual/Part time,51,Degree+,Hobart,1.25
+62617,Casual/Part time,48,DNF High School Education,Darwin,1.25
+48325,Casual/Part time,16,DNF High School Education,Darwin,2.0
+128569,Casual/Part time,24,Degree+,Perth,1.5
+190653,Casual/Part time,17,DNF High School Education,Hobart,1.5
+186198,Permenant Full Time,21,High School/Diploma,Hobart,1.5
+13837,Permenant Full Time,40,High School/Diploma,Adelaide,1.75
+122738,Unemployment,16,High School/Diploma,Perth,1.5
+11634,Casual/Part time,17,Degree+,Sydney,2.0
+3360,Permenant Full Time,57,Degree+,Hobart,1.5
+58021,Permenant Full Time,55,High School/Diploma,Perth,1.25
+139784,Unemployment,27,Degree+,Sydney,1.5
+42451,Casual/Part time,75,High School/Diploma,Adelaide,1.5
+18265,Permenant Full Time,77,High School/Diploma,Melbourne,1.5
+88401,Permenant Full Time,79,Degree+,Brisbane,1.25
+196906,Permenant Full Time,16,Degree+,Melbourne,1.5
+22557,Permenant Full Time,46,High School/Diploma,Perth,1.5
+80499,Casual/Part time,37,High School/Diploma,Sydney,1.5
+64253,Permenant Full Time,34,DNF High School Education,Adelaide,1.5
+69589,Permenant Full Time,85,High School/Diploma,Brisbane,1.25
+3981,Casual/Part time,55,DNF High School Education,Sydney,1.5
+65388,Casual/Part time,32,DNF High School Education,Perth,1.5
+170356,Unemployment,54,High School/Diploma,Adelaide,1.0
+194893,Unemployment,79,Degree+,Sydney,1.0
+72345,Casual/Part time,16,DNF High School Education,Hobart,1.75
+74481,Casual/Part time,76,Degree+,Perth,1.25
+160439,Permenant Full Time,38,DNF High School Education,Sydney,1.25
+46497,Casual/Part time,45,High School/Diploma,Perth,1.5
+164025,Casual/Part time,58,Degree+,Sydney,1.0
+60133,Casual/Part time,19,Degree+,Darwin,1.75
+25543,Permenant Full Time,18,Degree+,Melbourne,2.0
+91096,Permenant Full Time,35,DNF High School Education,Canberra,1.5
+12037,Casual/Part time,70,Degree+,Sydney,1.5
+155592,Casual/Part time,83,High School/Diploma,Sydney,1.0
+171882,Casual/Part time,17,DNF High School Education,Sydney,1.5
+166844,Unemployment,82,DNF High School Education,Perth,1.0
+127806,Permenant Full Time,81,Degree+,Darwin,1.0
+141652,Permenant Full Time,40,DNF High School Education,Melbourne,1.25
+187946,Casual/Part time,67,High School/Diploma,Adelaide,1.0
+116272,Unemployment,81,High School/Diploma,Brisbane,1.0
+162336,Permenant Full Time,57,DNF High School Education,Adelaide,1.0
+86606,Unemployment,19,High School/Diploma,Hobart,1.75
+74396,Casual/Part time,17,DNF High School Education,Hobart,1.75
+33585,Casual/Part time,53,DNF High School Education,Darwin,1.5
+53764,Casual/Part time,29,High School/Diploma,Adelaide,1.5
+16875,Unemployment,69,DNF High School Education,Sydney,1.5
+168399,Permenant Full Time,81,DNF High School Education,Melbourne,1.0
+98082,Unemployment,27,Degree+,Hobart,1.75
+186790,Casual/Part time,33,High School/Diploma,Perth,1.25
+82527,Casual/Part time,84,Degree+,Canberra,1.25
+103183,Casual/Part time,79,Degree+,Hobart,1.0
+79759,Permenant Full Time,25,High School/Diploma,Darwin,1.75
+128875,Unemployment,80,Degree+,Canberra,1.0
+195486,Unemployment,69,DNF High School Education,Brisbane,1.0
+66221,Casual/Part time,43,DNF High School Education,Perth,1.5
+173899,Permenant Full Time,17,DNF High School Education,Brisbane,1.5
+52284,Permenant Full Time,56,High School/Diploma,Perth,1.25
+198352,Permenant Full Time,36,Degree+,Brisbane,1.25
+11830,Casual/Part time,40,Degree+,Darwin,1.75
+51092,Casual/Part time,77,High School/Diploma,Perth,1.25
+89018,Permenant Full Time,58,Degree+,Sydney,1.25
+109590,Casual/Part time,15,High School/Diploma,Melbourne,1.5
+165198,Casual/Part time,47,DNF High School Education,Canberra,1.0
+32989,Casual/Part time,42,High School/Diploma,Perth,1.75
+181566,Casual/Part time,54,Degree+,Adelaide,1.0
+144607,Unemployment,49,Degree+,Sydney,1.0
+75854,Permenant Full Time,27,DNF High School Education,Hobart,1.75
+97569,Unemployment,31,Degree+,Perth,1.5
+86085,Casual/Part time,25,DNF High School Education,Hobart,1.75
+95928,Unemployment,56,High School/Diploma,Darwin,1.25
+157972,Unemployment,16,DNF High School Education,Melbourne,1.5
+195759,Permenant Full Time,60,Degree+,Darwin,1.0
+161621,Permenant Full Time,56,DNF High School Education,Sydney,1.0
+178569,Unemployment,26,Degree+,Perth,1.5
+101747,Permenant Full Time,85,Degree+,Adelaide,1.0
+45406,Casual/Part time,46,DNF High School Education,Adelaide,1.5
+101032,Casual/Part time,22,DNF High School Education,Melbourne,1.5
+54764,Casual/Part time,28,DNF High School Education,Adelaide,1.75
+94492,Unemployment,54,Degree+,Darwin,1.25
+60856,Permenant Full Time,49,Degree+,Perth,1.25
+100985,Permenant Full Time,66,High School/Diploma,Darwin,1.0
+79379,Unemployment,69,High School/Diploma,Perth,1.25
+82428,Permenant Full Time,61,Degree+,Brisbane,1.25
+76824,Casual/Part time,45,High School/Diploma,Darwin,1.25
+144131,Casual/Part time,44,DNF High School Education,Perth,1.0
+196701,Casual/Part time,62,Degree+,Canberra,1.0
+91988,Permenant Full Time,64,High School/Diploma,Hobart,1.25
+21894,Casual/Part time,32,Degree+,Darwin,1.75
+168022,Casual/Part time,53,High School/Diploma,Melbourne,1.0
+28985,Permenant Full Time,79,Degree+,Perth,1.5
+158459,Unemployment,19,Degree+,Adelaide,1.5
+113013,Permenant Full Time,76,Degree+,Adelaide,1.0
+100040,Permenant Full Time,17,Degree+,Melbourne,1.5
+120181,Unemployment,85,High School/Diploma,Darwin,1.0
+407,Unemployment,52,DNF High School Education,Darwin,1.5
+124799,Permenant Full Time,85,DNF High School Education,Brisbane,1.0
+9572,Permenant Full Time,24,Degree+,Brisbane,2.0
+77429,Casual/Part time,73,High School/Diploma,Hobart,1.25
+106828,Permenant Full Time,61,DNF High School Education,Perth,1.0
+105012,Unemployment,61,Degree+,Sydney,1.0
+133977,Casual/Part time,16,DNF High School Education,Adelaide,1.5
+170729,Permenant Full Time,32,DNF High School Education,Melbourne,1.25
+52552,Casual/Part time,29,Degree+,Hobart,1.5
+122439,Casual/Part time,18,DNF High School Education,Hobart,1.5
+38516,Unemployment,46,DNF High School Education,Canberra,1.5
+9448,Unemployment,81,High School/Diploma,Canberra,1.5
+81018,Unemployment,28,Degree+,Darwin,1.75
+133744,Casual/Part time,74,Degree+,Perth,1.0
+35895,Unemployment,65,High School/Diploma,Hobart,1.5
+25676,Unemployment,54,High School/Diploma,Darwin,1.5
+30374,Casual/Part time,78,Degree+,Melbourne,1.5
+132548,Casual/Part time,38,High School/Diploma,Darwin,1.25
+89704,Unemployment,47,DNF High School Education,Brisbane,1.25
+143034,Unemployment,23,High School/Diploma,Darwin,1.5
+117976,Casual/Part time,83,High School/Diploma,Canberra,1.0
+65688,Casual/Part time,85,DNF High School Education,Melbourne,1.25
+175553,Casual/Part time,62,Degree+,Hobart,1.0
+17983,Unemployment,44,DNF High School Education,Melbourne,1.5
+7196,Unemployment,22,High School/Diploma,Sydney,2.0
+28465,Unemployment,52,DNF High School Education,Adelaide,1.5
+1350,Casual/Part time,49,High School/Diploma,Canberra,1.5
+118919,Permenant Full Time,37,High School/Diploma,Hobart,1.25
+92951,Unemployment,25,High School/Diploma,Brisbane,1.75
+4053,Unemployment,16,High School/Diploma,Darwin,2.0
+4654,Permenant Full Time,19,DNF High School Education,Melbourne,2.0
+146100,Permenant Full Time,19,Degree+,Hobart,1.5
+180195,Unemployment,59,High School/Diploma,Perth,1.0
+138500,Casual/Part time,79,High School/Diploma,Adelaide,1.0
+88186,Unemployment,28,High School/Diploma,Darwin,1.75
+2663,Unemployment,39,Degree+,Canberra,1.75
+179309,Casual/Part time,73,DNF High School Education,Darwin,1.0
+76285,Unemployment,35,High School/Diploma,Brisbane,1.5
+149694,Unemployment,81,Degree+,Brisbane,1.0
+70821,Permenant Full Time,28,Degree+,Darwin,1.75
+91633,Unemployment,60,Degree+,Brisbane,1.25
+150719,Casual/Part time,68,High School/Diploma,Hobart,1.0
+190162,Unemployment,66,High School/Diploma,Perth,1.0
+98976,Unemployment,52,Degree+,Perth,1.25
+91834,Unemployment,31,Degree+,Sydney,1.5
+106427,Casual/Part time,21,High School/Diploma,Hobart,1.5
+183562,Permenant Full Time,64,DNF High School Education,Adelaide,1.0
+85729,Permenant Full Time,42,High School/Diploma,Melbourne,1.5
+39641,Permenant Full Time,45,DNF High School Education,Hobart,1.5
+3172,Permenant Full Time,83,Degree+,Melbourne,1.5
+105693,Permenant Full Time,19,DNF High School Education,Hobart,1.5
+140532,Permenant Full Time,24,DNF High School Education,Melbourne,1.5
+61356,Unemployment,80,DNF High School Education,Adelaide,1.25
+74972,Unemployment,23,High School/Diploma,Canberra,1.75
+139428,Unemployment,33,DNF High School Education,Sydney,1.25
+30283,Unemployment,70,High School/Diploma,Hobart,1.5
+93819,Permenant Full Time,66,DNF High School Education,Sydney,1.25
+31571,Unemployment,82,Degree+,Sydney,1.5
+193850,Permenant Full Time,79,DNF High School Education,Adelaide,1.0
+12,Unemployment,40,DNF High School Education,Perth,1.75
+38392,Casual/Part time,53,High School/Diploma,Adelaide,1.5
+9782,Casual/Part time,62,High School/Diploma,Darwin,1.5
+26990,Casual/Part time,29,DNF High School Education,Darwin,1.75
+101566,Permenant Full Time,30,High School/Diploma,Canberra,1.25
+114954,Casual/Part time,58,High School/Diploma,Darwin,1.0
+94619,Permenant Full Time,53,High School/Diploma,Perth,1.25
+169919,Casual/Part time,47,Degree+,Sydney,1.0
+61661,Casual/Part time,20,Degree+,Brisbane,1.75
+94652,Unemployment,23,DNF High School Education,Melbourne,1.75
+35854,Unemployment,19,Degree+,Hobart,2.0
+170361,Unemployment,57,Degree+,Brisbane,1.0
+76322,Permenant Full Time,84,Degree+,Sydney,1.25
+84209,Casual/Part time,72,Degree+,Hobart,1.25
+169891,Permenant Full Time,73,High School/Diploma,Hobart,1.0
+8110,Permenant Full Time,57,Degree+,Perth,1.5
+164089,Unemployment,40,High School/Diploma,Hobart,1.25
+154730,Casual/Part time,65,DNF High School Education,Darwin,1.0
+133567,Permenant Full Time,60,High School/Diploma,Darwin,1.0
+83701,Casual/Part time,41,High School/Diploma,Perth,1.5
+39184,Unemployment,42,Degree+,Darwin,1.75
+159758,Casual/Part time,16,DNF High School Education,Darwin,1.5
+160819,Casual/Part time,53,High School/Diploma,Melbourne,1.0
+144132,Permenant Full Time,52,High School/Diploma,Canberra,1.0
+165898,Casual/Part time,85,High School/Diploma,Canberra,1.0
+179191,Permenant Full Time,52,Degree+,Sydney,1.0
+100962,Unemployment,78,Degree+,Adelaide,1.0
+111334,Casual/Part time,71,Degree+,Darwin,1.0
+59688,Casual/Part time,81,Degree+,Darwin,1.25
+128935,Casual/Part time,33,DNF High School Education,Canberra,1.25
+55669,Casual/Part time,31,DNF High School Education,Darwin,1.5
+81210,Casual/Part time,39,DNF High School Education,Perth,1.5
+45428,Unemployment,63,High School/Diploma,Perth,1.5
+55361,Unemployment,28,DNF High School Education,Canberra,1.75
+159965,Permenant Full Time,52,DNF High School Education,Hobart,1.0
+86522,Unemployment,85,Degree+,Melbourne,1.25
+146604,Permenant Full Time,77,Degree+,Melbourne,1.0
+122349,Permenant Full Time,55,High School/Diploma,Perth,1.0
+194990,Unemployment,74,DNF High School Education,Perth,1.0
+103808,Unemployment,31,Degree+,Darwin,1.25
+104337,Unemployment,36,DNF High School Education,Melbourne,1.25
+109901,Permenant Full Time,83,DNF High School Education,Perth,1.0
+18800,Casual/Part time,74,Degree+,Canberra,1.5
+47153,Unemployment,15,High School/Diploma,Darwin,2.0
+49725,Casual/Part time,67,Degree+,Hobart,1.5
+28305,Casual/Part time,73,DNF High School Education,Adelaide,1.5
+196227,Unemployment,22,Degree+,Sydney,1.5
+151800,Permenant Full Time,60,DNF High School Education,Melbourne,1.0
+134930,Permenant Full Time,26,DNF High School Education,Sydney,1.5
+138625,Casual/Part time,31,DNF High School Education,Brisbane,1.25
+112174,Permenant Full Time,73,Degree+,Perth,1.0
+170814,Casual/Part time,82,Degree+,Perth,1.0
+82409,Permenant Full Time,47,DNF High School Education,Adelaide,1.25
+60649,Casual/Part time,43,Degree+,Sydney,1.5
+76612,Unemployment,63,High School/Diploma,Adelaide,1.25
+115237,Unemployment,41,Degree+,Canberra,1.25
+60683,Permenant Full Time,29,Degree+,Brisbane,1.5
+100400,Unemployment,50,DNF High School Education,Darwin,1.0
+140335,Unemployment,77,High School/Diploma,Brisbane,1.0
+78070,Permenant Full Time,35,DNF High School Education,Perth,1.5
+87528,Unemployment,28,High School/Diploma,Adelaide,1.75
+129050,Unemployment,28,High School/Diploma,Canberra,1.5
+58815,Permenant Full Time,82,Degree+,Adelaide,1.25
+163087,Permenant Full Time,63,DNF High School Education,Hobart,1.0
+188546,Unemployment,38,DNF High School Education,Perth,1.25
+100723,Permenant Full Time,73,DNF High School Education,Brisbane,1.0
+184247,Permenant Full Time,50,Degree+,Sydney,1.0
+169519,Unemployment,29,DNF High School Education,Adelaide,1.25
+103804,Unemployment,47,DNF High School Education,Hobart,1.0
+8758,Casual/Part time,54,Degree+,Brisbane,1.5
+96304,Casual/Part time,54,High School/Diploma,Canberra,1.25
+99104,Permenant Full Time,20,High School/Diploma,Brisbane,1.75
+66359,Unemployment,80,Degree+,Adelaide,1.25
+174495,Casual/Part time,59,DNF High School Education,Perth,1.0
+71436,Permenant Full Time,49,DNF High School Education,Hobart,1.25
+137953,Unemployment,57,Degree+,Brisbane,1.0
+135855,Casual/Part time,67,DNF High School Education,Perth,1.0
+163472,Casual/Part time,18,Degree+,Adelaide,1.5
+31572,Unemployment,55,High School/Diploma,Perth,1.5
+150995,Unemployment,77,High School/Diploma,Canberra,1.0
+125131,Casual/Part time,36,High School/Diploma,Darwin,1.25
+37715,Unemployment,32,DNF High School Education,Canberra,1.75
+67355,Casual/Part time,39,High School/Diploma,Melbourne,1.5
+20389,Casual/Part time,15,High School/Diploma,Brisbane,2.0
+8807,Unemployment,70,Degree+,Canberra,1.5
+171339,Casual/Part time,68,Degree+,Sydney,1.0
+77120,Unemployment,54,DNF High School Education,Canberra,1.25
+136057,Permenant Full Time,53,High School/Diploma,Melbourne,1.0
+94607,Permenant Full Time,75,High School/Diploma,Perth,1.25
+134928,Permenant Full Time,71,DNF High School Education,Canberra,1.0
+94254,Casual/Part time,38,Degree+,Brisbane,1.5
+99482,Permenant Full Time,42,Degree+,Hobart,1.5
+25568,Unemployment,45,DNF High School Education,Melbourne,1.5
+110686,Permenant Full Time,29,High School/Diploma,Adelaide,1.25
+13150,Unemployment,27,High School/Diploma,Melbourne,2.0
+132498,Permenant Full Time,40,High School/Diploma,Hobart,1.25
+30254,Casual/Part time,80,High School/Diploma,Brisbane,1.5
+18093,Casual/Part time,83,Degree+,Brisbane,1.5
+147240,Casual/Part time,75,Degree+,Adelaide,1.0
+122069,Unemployment,41,DNF High School Education,Canberra,1.25
+191156,Casual/Part time,76,High School/Diploma,Hobart,1.0
+139337,Unemployment,66,High School/Diploma,Perth,1.0
+193873,Unemployment,52,Degree+,Darwin,1.0
+185109,Casual/Part time,41,High School/Diploma,Darwin,1.25
+180652,Permenant Full Time,17,DNF High School Education,Darwin,1.5
+150742,Casual/Part time,48,High School/Diploma,Perth,1.0
+118623,Casual/Part time,33,Degree+,Adelaide,1.25
+139212,Permenant Full Time,31,High School/Diploma,Perth,1.25
+73913,Permenant Full Time,26,Degree+,Melbourne,1.75
+125515,Unemployment,48,Degree+,Hobart,1.0
+91894,Casual/Part time,17,Degree+,Melbourne,1.75
+11110,Casual/Part time,50,Degree+,Hobart,1.5
+69286,Unemployment,24,DNF High School Education,Perth,1.75
+10549,Permenant Full Time,29,High School/Diploma,Sydney,1.75
+2091,Unemployment,81,High School/Diploma,Hobart,1.5
+67889,Permenant Full Time,30,DNF High School Education,Perth,1.5
+179173,Permenant Full Time,19,DNF High School Education,Sydney,1.5
+128862,Permenant Full Time,28,High School/Diploma,Sydney,1.5
+61992,Unemployment,81,DNF High School Education,Hobart,1.25
+159251,Permenant Full Time,49,Degree+,Darwin,1.0
+39273,Permenant Full Time,29,Degree+,Brisbane,1.75
+99659,Unemployment,47,DNF High School Education,Darwin,1.25
+183063,Permenant Full Time,68,High School/Diploma,Melbourne,1.0
+114046,Permenant Full Time,42,Degree+,Hobart,1.25
+196092,Casual/Part time,58,DNF High School Education,Hobart,1.0
+169505,Permenant Full Time,37,Degree+,Melbourne,1.25
+9881,Casual/Part time,79,High School/Diploma,Sydney,1.5
+119343,Permenant Full Time,26,DNF High School Education,Adelaide,1.5
+197592,Permenant Full Time,51,High School/Diploma,Sydney,1.0
+72591,Permenant Full Time,18,High School/Diploma,Darwin,1.75
+152247,Unemployment,78,High School/Diploma,Perth,1.0
+45174,Casual/Part time,32,DNF High School Education,Canberra,1.75
+21589,Permenant Full Time,70,DNF High School Education,Hobart,1.5
+40163,Unemployment,22,DNF High School Education,Melbourne,2.0
+153222,Permenant Full Time,82,Degree+,Brisbane,1.0
+2044,Casual/Part time,59,DNF High School Education,Adelaide,1.5
+82309,Unemployment,47,DNF High School Education,Perth,1.25
+36189,Unemployment,20,High School/Diploma,Darwin,2.0
+182212,Unemployment,66,Degree+,Sydney,1.0
+43468,Permenant Full Time,51,Degree+,Sydney,1.5
+102811,Permenant Full Time,67,DNF High School Education,Hobart,1.0
+47253,Unemployment,85,High School/Diploma,Sydney,1.5
+37498,Casual/Part time,47,High School/Diploma,Perth,1.5
+97714,Permenant Full Time,63,DNF High School Education,Darwin,1.25
+111470,Casual/Part time,76,High School/Diploma,Canberra,1.0
+183875,Unemployment,42,High School/Diploma,Canberra,1.25
+35372,Casual/Part time,40,Degree+,Hobart,1.75
+162003,Permenant Full Time,76,DNF High School Education,Hobart,1.0
+190278,Permenant Full Time,59,DNF High School Education,Melbourne,1.0
+6114,Unemployment,66,Degree+,Hobart,1.5
+36628,Casual/Part time,37,DNF High School Education,Melbourne,1.75
+183616,Unemployment,52,High School/Diploma,Hobart,1.0
+116081,Casual/Part time,36,High School/Diploma,Adelaide,1.25
+139226,Unemployment,27,DNF High School Education,Hobart,1.5
+157664,Permenant Full Time,38,DNF High School Education,Adelaide,1.25
+134640,Casual/Part time,29,DNF High School Education,Hobart,1.25
+28711,Unemployment,54,High School/Diploma,Canberra,1.5
+190434,Unemployment,51,Degree+,Brisbane,1.0
+195335,Unemployment,50,High School/Diploma,Perth,1.0
+158220,Unemployment,72,High School/Diploma,Hobart,1.0
+10204,Permenant Full Time,40,Degree+,Melbourne,1.75
+62005,Unemployment,27,Degree+,Hobart,1.75
+190188,Casual/Part time,66,Degree+,Brisbane,1.0
+199423,Casual/Part time,33,Degree+,Darwin,1.25
+74527,Permenant Full Time,59,Degree+,Perth,1.25
+24105,Casual/Part time,16,Degree+,Brisbane,2.0
+130858,Casual/Part time,43,DNF High School Education,Canberra,1.25
+91678,Casual/Part time,64,DNF High School Education,Brisbane,1.25
+147259,Unemployment,80,DNF High School Education,Sydney,1.0
+18795,Casual/Part time,46,DNF High School Education,Melbourne,1.5
+104064,Unemployment,64,High School/Diploma,Darwin,1.0
+47798,Unemployment,22,DNF High School Education,Sydney,2.0
+109608,Permenant Full Time,63,Degree+,Darwin,1.0
+69523,Casual/Part time,84,Degree+,Adelaide,1.25
+24358,Permenant Full Time,46,Degree+,Sydney,1.5
+70499,Casual/Part time,58,High School/Diploma,Canberra,1.25
+71019,Casual/Part time,38,High School/Diploma,Brisbane,1.5
+31375,Casual/Part time,83,Degree+,Brisbane,1.5
+4107,Permenant Full Time,56,DNF High School Education,Sydney,1.5
+38140,Casual/Part time,68,Degree+,Melbourne,1.5
+6182,Permenant Full Time,33,DNF High School Education,Brisbane,1.75
+9958,Casual/Part time,23,DNF High School Education,Canberra,2.0
+122176,Unemployment,54,Degree+,Canberra,1.0
+75367,Unemployment,79,High School/Diploma,Melbourne,1.25
+32565,Casual/Part time,41,High School/Diploma,Darwin,1.75
+29550,Unemployment,84,Degree+,Hobart,1.5
+189119,Casual/Part time,59,Degree+,Darwin,1.0
+104757,Permenant Full Time,60,DNF High School Education,Canberra,1.0
+148561,Unemployment,22,High School/Diploma,Sydney,1.5
+177924,Unemployment,82,High School/Diploma,Hobart,1.0
+107192,Casual/Part time,75,Degree+,Sydney,1.0
+152281,Casual/Part time,81,DNF High School Education,Canberra,1.0
+70842,Permenant Full Time,42,High School/Diploma,Canberra,1.5
+5660,Casual/Part time,17,High School/Diploma,Perth,2.0
+59920,Permenant Full Time,54,Degree+,Melbourne,1.25
+78370,Casual/Part time,60,DNF High School Education,Melbourne,1.25
+17333,Permenant Full Time,45,High School/Diploma,Adelaide,1.5
+99322,Unemployment,27,DNF High School Education,Darwin,1.75
+56601,Permenant Full Time,60,Degree+,Hobart,1.25
+93541,Unemployment,47,DNF High School Education,Melbourne,1.25
+79562,Unemployment,51,DNF High School Education,Darwin,1.25
+194268,Unemployment,32,Degree+,Adelaide,1.25
+161668,Unemployment,33,DNF High School Education,Sydney,1.25
+150271,Casual/Part time,71,High School/Diploma,Perth,1.0
+133760,Unemployment,27,Degree+,Canberra,1.5
+179896,Permenant Full Time,20,Degree+,Hobart,1.5
+184717,Casual/Part time,26,High School/Diploma,Adelaide,1.5
+80014,Permenant Full Time,32,Degree+,Sydney,1.5
+84069,Unemployment,34,High School/Diploma,Hobart,1.5
+196520,Unemployment,85,DNF High School Education,Darwin,1.0
+154101,Casual/Part time,38,DNF High School Education,Hobart,1.25
+50460,Unemployment,18,High School/Diploma,Brisbane,1.75
+95294,Unemployment,82,High School/Diploma,Canberra,1.25
+115507,Casual/Part time,54,DNF High School Education,Darwin,1.0
+120413,Casual/Part time,83,Degree+,Canberra,1.0
+16078,Casual/Part time,55,High School/Diploma,Hobart,1.5
+181961,Unemployment,61,DNF High School Education,Sydney,1.0
+43183,Casual/Part time,54,High School/Diploma,Sydney,1.5
+41932,Unemployment,38,Degree+,Sydney,1.75
+56610,Casual/Part time,29,High School/Diploma,Adelaide,1.5
+35168,Casual/Part time,42,Degree+,Hobart,1.75
+4026,Casual/Part time,46,DNF High School Education,Darwin,1.5
+61328,Unemployment,57,High School/Diploma,Melbourne,1.25
+69272,Permenant Full Time,71,High School/Diploma,Brisbane,1.25
+99313,Casual/Part time,52,DNF High School Education,Darwin,1.25
+183816,Permenant Full Time,73,Degree+,Brisbane,1.0
+126335,Casual/Part time,38,DNF High School Education,Darwin,1.25
+54359,Permenant Full Time,63,DNF High School Education,Perth,1.25
+20006,Permenant Full Time,80,Degree+,Perth,1.5
+115942,Casual/Part time,49,Degree+,Adelaide,1.0
+44316,Unemployment,60,Degree+,Canberra,1.5
+34082,Casual/Part time,81,Degree+,Canberra,1.5
+91908,Permenant Full Time,33,High School/Diploma,Adelaide,1.5
+184492,Permenant Full Time,62,Degree+,Brisbane,1.0
+161455,Permenant Full Time,75,DNF High School Education,Melbourne,1.0
+979,Unemployment,27,DNF High School Education,Adelaide,2.0
+55350,Permenant Full Time,83,Degree+,Darwin,1.25
+77679,Permenant Full Time,49,DNF High School Education,Darwin,1.25
+44598,Casual/Part time,28,DNF High School Education,Adelaide,2.0
+185680,Casual/Part time,18,DNF High School Education,Adelaide,1.5
+8394,Permenant Full Time,72,DNF High School Education,Sydney,1.5
+95428,Casual/Part time,60,DNF High School Education,Hobart,1.25
+117158,Unemployment,17,High School/Diploma,Sydney,1.5
+161368,Casual/Part time,35,Degree+,Melbourne,1.25
+183463,Casual/Part time,71,Degree+,Darwin,1.0
+89052,Casual/Part time,58,Degree+,Brisbane,1.25
+87184,Unemployment,43,Degree+,Darwin,1.5
+121709,Casual/Part time,83,Degree+,Hobart,1.0
+111989,Permenant Full Time,56,Degree+,Perth,1.0
+57925,Casual/Part time,54,High School/Diploma,Sydney,1.25
+97105,Permenant Full Time,61,High School/Diploma,Adelaide,1.25
+48773,Unemployment,44,DNF High School Education,Darwin,1.5
+194509,Casual/Part time,37,DNF High School Education,Darwin,1.25
+80310,Casual/Part time,45,High School/Diploma,Canberra,1.25
+77187,Casual/Part time,75,Degree+,Adelaide,1.25
+151592,Permenant Full Time,31,Degree+,Darwin,1.25
+78877,Casual/Part time,70,Degree+,Melbourne,1.25
+29183,Permenant Full Time,44,High School/Diploma,Melbourne,1.5
+48966,Unemployment,60,DNF High School Education,Brisbane,1.5
+130266,Unemployment,23,High School/Diploma,Sydney,1.5
+50744,Permenant Full Time,45,DNF High School Education,Perth,1.25
+141517,Casual/Part time,41,High School/Diploma,Canberra,1.25
+121740,Permenant Full Time,80,DNF High School Education,Canberra,1.0
+67751,Casual/Part time,56,High School/Diploma,Canberra,1.25
+111298,Permenant Full Time,34,DNF High School Education,Sydney,1.25
+164536,Unemployment,50,Degree+,Perth,1.0
+144130,Unemployment,34,High School/Diploma,Melbourne,1.25
+86721,Unemployment,66,High School/Diploma,Perth,1.25
+166858,Permenant Full Time,41,DNF High School Education,Brisbane,1.25
+72830,Permenant Full Time,58,Degree+,Hobart,1.25
+119271,Unemployment,78,Degree+,Melbourne,1.0
+86990,Casual/Part time,81,High School/Diploma,Perth,1.25
+96872,Unemployment,39,High School/Diploma,Sydney,1.5
+59554,Unemployment,32,High School/Diploma,Hobart,1.5
+177390,Casual/Part time,57,High School/Diploma,Darwin,1.0
+92049,Unemployment,81,DNF High School Education,Adelaide,1.25
+76963,Casual/Part time,47,High School/Diploma,Sydney,1.25
+70988,Unemployment,78,DNF High School Education,Hobart,1.25
+49673,Casual/Part time,16,Degree+,Darwin,2.0
+122171,Casual/Part time,78,High School/Diploma,Darwin,1.0
+125899,Unemployment,72,DNF High School Education,Perth,1.0
+66388,Unemployment,15,DNF High School Education,Sydney,1.75
+185163,Casual/Part time,53,Degree+,Hobart,1.0
+6276,Casual/Part time,34,Degree+,Hobart,1.75
+13223,Permenant Full Time,57,Degree+,Melbourne,1.5
+80865,Permenant Full Time,76,Degree+,Brisbane,1.25
+118865,Permenant Full Time,34,High School/Diploma,Melbourne,1.25
+98061,Casual/Part time,83,DNF High School Education,Melbourne,1.25
+194099,Casual/Part time,67,High School/Diploma,Brisbane,1.0
+131696,Casual/Part time,39,Degree+,Perth,1.25
+158750,Casual/Part time,50,High School/Diploma,Perth,1.0
+28113,Permenant Full Time,69,High School/Diploma,Sydney,1.5
+165638,Unemployment,20,Degree+,Adelaide,1.5
+64809,Casual/Part time,47,DNF High School Education,Brisbane,1.25
+16255,Casual/Part time,48,Degree+,Canberra,1.5
+192898,Casual/Part time,22,Degree+,Sydney,1.5
+145665,Unemployment,33,DNF High School Education,Brisbane,1.25
+98000,Permenant Full Time,26,Degree+,Hobart,1.75
+158803,Casual/Part time,56,High School/Diploma,Canberra,1.0
+43660,Casual/Part time,29,Degree+,Darwin,1.75
+167914,Casual/Part time,63,DNF High School Education,Melbourne,1.0
+4083,Permenant Full Time,22,DNF High School Education,Adelaide,2.0
+85979,Casual/Part time,28,Degree+,Canberra,1.75
+90982,Permenant Full Time,25,DNF High School Education,Brisbane,1.75
+94206,Unemployment,35,DNF High School Education,Sydney,1.5
+114084,Permenant Full Time,15,Degree+,Hobart,1.5
+10388,Unemployment,29,High School/Diploma,Perth,1.75
+175686,Unemployment,73,DNF High School Education,Darwin,1.0
+100970,Permenant Full Time,79,DNF High School Education,Sydney,1.0
+178503,Casual/Part time,41,DNF High School Education,Canberra,1.25
+85464,Unemployment,29,High School/Diploma,Melbourne,1.5
+199033,Permenant Full Time,55,DNF High School Education,Hobart,1.0
+199641,Permenant Full Time,26,Degree+,Canberra,1.5
+992,Unemployment,74,DNF High School Education,Canberra,1.5
+179325,Casual/Part time,77,Degree+,Brisbane,1.0
+109202,Permenant Full Time,46,DNF High School Education,Brisbane,1.0
+16145,Casual/Part time,51,Degree+,Brisbane,1.5
+85638,Unemployment,30,High School/Diploma,Melbourne,1.5
+123444,Casual/Part time,82,DNF High School Education,Adelaide,1.0
+169134,Permenant Full Time,20,Degree+,Brisbane,1.5
+59229,Permenant Full Time,69,High School/Diploma,Hobart,1.25
+95043,Permenant Full Time,53,DNF High School Education,Canberra,1.25
+65747,Unemployment,64,DNF High School Education,Darwin,1.25
+195237,Casual/Part time,81,High School/Diploma,Hobart,1.0
+141727,Unemployment,65,High School/Diploma,Perth,1.0
+32942,Unemployment,41,High School/Diploma,Brisbane,1.75
+155182,Permenant Full Time,61,Degree+,Hobart,1.0
+95272,Unemployment,15,Degree+,Brisbane,1.75
+119280,Unemployment,71,Degree+,Canberra,1.0
+12591,Unemployment,48,High School/Diploma,Sydney,1.5
+11056,Permenant Full Time,46,DNF High School Education,Darwin,1.5
+9931,Permenant Full Time,70,High School/Diploma,Melbourne,1.5
+166524,Unemployment,52,High School/Diploma,Adelaide,1.0
+13550,Casual/Part time,28,High School/Diploma,Melbourne,2.0
+79138,Casual/Part time,23,DNF High School Education,Melbourne,1.75
+151921,Unemployment,32,DNF High School Education,Hobart,1.25
+164509,Permenant Full Time,78,DNF High School Education,Hobart,1.0
+43048,Casual/Part time,57,DNF High School Education,Melbourne,1.5
+59189,Permenant Full Time,72,Degree+,Darwin,1.25
+3162,Casual/Part time,66,High School/Diploma,Adelaide,1.5
+9126,Unemployment,22,High School/Diploma,Perth,2.0
+94132,Unemployment,15,Degree+,Sydney,1.75
+190672,Permenant Full Time,49,Degree+,Canberra,1.0
+54688,Unemployment,41,DNF High School Education,Perth,1.5
+40059,Permenant Full Time,54,DNF High School Education,Sydney,1.5
+147289,Casual/Part time,37,High School/Diploma,Adelaide,1.25
+110981,Casual/Part time,36,DNF High School Education,Hobart,1.25
+102369,Unemployment,64,DNF High School Education,Sydney,1.0
+192092,Casual/Part time,48,DNF High School Education,Perth,1.0
+130999,Casual/Part time,21,Degree+,Perth,1.5
+4908,Casual/Part time,60,High School/Diploma,Canberra,1.5
+70644,Permenant Full Time,33,Degree+,Perth,1.5
+55318,Casual/Part time,16,Degree+,Brisbane,1.75
+15158,Casual/Part time,46,DNF High School Education,Adelaide,1.5
+68969,Unemployment,56,DNF High School Education,Brisbane,1.25
+134878,Unemployment,42,DNF High School Education,Adelaide,1.25
+92779,Casual/Part time,84,Degree+,Perth,1.25
+42593,Unemployment,65,DNF High School Education,Darwin,1.5
+21785,Casual/Part time,79,Degree+,Melbourne,1.5
+51066,Permenant Full Time,31,High School/Diploma,Sydney,1.5
+58163,Casual/Part time,40,Degree+,Canberra,1.5
+40554,Casual/Part time,44,Degree+,Brisbane,1.5
+73157,Unemployment,22,Degree+,Hobart,1.75
+88650,Unemployment,83,High School/Diploma,Perth,1.25
+39384,Unemployment,61,DNF High School Education,Darwin,1.5
+115530,Unemployment,51,Degree+,Brisbane,1.0
+22881,Casual/Part time,80,Degree+,Sydney,1.5
+133016,Unemployment,73,DNF High School Education,Darwin,1.0
+159989,Permenant Full Time,69,High School/Diploma,Adelaide,1.0
+69995,Unemployment,75,High School/Diploma,Hobart,1.25
+84353,Permenant Full Time,33,DNF High School Education,Darwin,1.5
+190219,Permenant Full Time,49,High School/Diploma,Sydney,1.0
+74070,Casual/Part time,16,DNF High School Education,Darwin,1.75
+93309,Unemployment,57,Degree+,Hobart,1.25
+113215,Casual/Part time,23,High School/Diploma,Melbourne,1.5
+14678,Permenant Full Time,26,High School/Diploma,Brisbane,2.0
+156642,Casual/Part time,72,Degree+,Sydney,1.0
+125093,Permenant Full Time,29,DNF High School Education,Brisbane,1.25
+71677,Unemployment,37,DNF High School Education,Perth,1.5
+69580,Permenant Full Time,42,DNF High School Education,Darwin,1.5
+146544,Unemployment,49,DNF High School Education,Perth,1.0
+72850,Unemployment,56,DNF High School Education,Perth,1.25
+54582,Unemployment,21,DNF High School Education,Melbourne,1.75
+149202,Unemployment,59,High School/Diploma,Adelaide,1.0
+198060,Permenant Full Time,49,High School/Diploma,Melbourne,1.0
+22829,Casual/Part time,79,High School/Diploma,Adelaide,1.5
+48446,Unemployment,29,Degree+,Hobart,1.75
+36018,Unemployment,35,High School/Diploma,Canberra,1.75
+173798,Permenant Full Time,61,High School/Diploma,Adelaide,1.0
+39223,Permenant Full Time,71,High School/Diploma,Perth,1.5
+143605,Casual/Part time,54,Degree+,Melbourne,1.0
+28568,Unemployment,32,High School/Diploma,Darwin,1.75
+13354,Casual/Part time,84,High School/Diploma,Hobart,1.5
+75685,Permenant Full Time,41,Degree+,Melbourne,1.5
+143172,Casual/Part time,79,High School/Diploma,Canberra,1.0
+96964,Casual/Part time,63,Degree+,Canberra,1.25
+111793,Unemployment,17,DNF High School Education,Canberra,1.5
+122459,Permenant Full Time,66,Degree+,Sydney,1.0
+151611,Permenant Full Time,19,High School/Diploma,Sydney,1.5
+121012,Permenant Full Time,66,DNF High School Education,Hobart,1.0
+187547,Permenant Full Time,82,High School/Diploma,Brisbane,1.0
+55007,Unemployment,23,High School/Diploma,Brisbane,1.75
+26476,Unemployment,17,DNF High School Education,Hobart,2.0
+133178,Unemployment,72,Degree+,Perth,1.0
+83735,Permenant Full Time,25,Degree+,Sydney,1.75
+129472,Casual/Part time,22,High School/Diploma,Sydney,1.5
+146437,Unemployment,54,DNF High School Education,Perth,1.0
+42111,Permenant Full Time,74,DNF High School Education,Melbourne,1.5
+121500,Casual/Part time,56,Degree+,Melbourne,1.0
+132102,Casual/Part time,48,DNF High School Education,Sydney,1.0
+72793,Casual/Part time,27,DNF High School Education,Adelaide,1.75
+106304,Casual/Part time,67,High School/Diploma,Darwin,1.0
+196902,Unemployment,34,High School/Diploma,Brisbane,1.25
+74842,Permenant Full Time,55,DNF High School Education,Brisbane,1.25
+70045,Permenant Full Time,36,DNF High School Education,Adelaide,1.5
+35511,Unemployment,37,High School/Diploma,Perth,1.75
+75715,Casual/Part time,26,High School/Diploma,Perth,1.75
+122126,Permenant Full Time,46,Degree+,Adelaide,1.0
+95305,Permenant Full Time,17,Degree+,Brisbane,1.75
+95919,Casual/Part time,20,High School/Diploma,Adelaide,1.75
+142489,Casual/Part time,28,DNF High School Education,Sydney,1.5
+58403,Unemployment,55,Degree+,Perth,1.25
+195475,Permenant Full Time,41,High School/Diploma,Adelaide,1.25
+116777,Casual/Part time,82,DNF High School Education,Canberra,1.0
+18014,Casual/Part time,80,DNF High School Education,Brisbane,1.5
+150694,Permenant Full Time,37,Degree+,Sydney,1.25
+57391,Unemployment,31,Degree+,Adelaide,1.5
+111143,Unemployment,35,Degree+,Hobart,1.25
+144674,Unemployment,81,Degree+,Darwin,1.0
+196829,Permenant Full Time,43,DNF High School Education,Canberra,1.25
+153060,Permenant Full Time,51,DNF High School Education,Sydney,1.0
+180388,Permenant Full Time,57,Degree+,Hobart,1.0
+56431,Casual/Part time,53,High School/Diploma,Adelaide,1.25
+143971,Permenant Full Time,75,High School/Diploma,Perth,1.0
+121660,Unemployment,43,Degree+,Hobart,1.25
+115817,Permenant Full Time,57,DNF High School Education,Brisbane,1.0
+110589,Unemployment,45,High School/Diploma,Sydney,1.0
+122770,Unemployment,81,High School/Diploma,Sydney,1.0
+82563,Unemployment,41,DNF High School Education,Darwin,1.5
+81446,Unemployment,52,High School/Diploma,Sydney,1.25
+76462,Casual/Part time,17,High School/Diploma,Perth,1.75
+115887,Permenant Full Time,83,Degree+,Adelaide,1.0
+127242,Casual/Part time,79,Degree+,Adelaide,1.0
+89681,Unemployment,76,Degree+,Brisbane,1.25
+29756,Permenant Full Time,75,DNF High School Education,Canberra,1.5
+95362,Unemployment,20,Degree+,Perth,1.75
+74437,Casual/Part time,51,High School/Diploma,Melbourne,1.25
+73182,Unemployment,18,DNF High School Education,Perth,1.75
+139251,Casual/Part time,16,Degree+,Canberra,1.5
+5627,Casual/Part time,74,DNF High School Education,Adelaide,1.5
+148935,Casual/Part time,73,High School/Diploma,Sydney,1.0
+28050,Permenant Full Time,48,DNF High School Education,Brisbane,1.5
+180622,Permenant Full Time,27,Degree+,Perth,1.5
+101519,Permenant Full Time,71,DNF High School Education,Sydney,1.0
+25136,Permenant Full Time,52,DNF High School Education,Hobart,1.5
+120653,Casual/Part time,25,Degree+,Brisbane,1.5
+24088,Casual/Part time,82,Degree+,Brisbane,1.5
+114359,Unemployment,53,High School/Diploma,Brisbane,1.0
+171454,Permenant Full Time,67,DNF High School Education,Darwin,1.0
+109652,Permenant Full Time,57,High School/Diploma,Melbourne,1.0
+3506,Unemployment,19,Degree+,Sydney,2.0
+56176,Unemployment,63,DNF High School Education,Adelaide,1.25
+138740,Casual/Part time,33,DNF High School Education,Darwin,1.25
+173501,Unemployment,54,DNF High School Education,Melbourne,1.0
+50968,Unemployment,63,High School/Diploma,Darwin,1.25
+192978,Permenant Full Time,55,Degree+,Perth,1.0
+136900,Casual/Part time,23,DNF High School Education,Brisbane,1.5
+110683,Permenant Full Time,69,Degree+,Sydney,1.0
+139680,Casual/Part time,15,High School/Diploma,Canberra,1.5
+115045,Permenant Full Time,65,High School/Diploma,Brisbane,1.0
+107530,Unemployment,80,DNF High School Education,Adelaide,1.0
+181852,Unemployment,53,DNF High School Education,Melbourne,1.0
+8184,Permenant Full Time,79,High School/Diploma,Hobart,1.5
+183826,Unemployment,19,High School/Diploma,Canberra,1.5
+46355,Unemployment,47,Degree+,Darwin,1.5
+169871,Unemployment,30,Degree+,Sydney,1.25
+95111,Casual/Part time,27,Degree+,Hobart,1.75
+79924,Casual/Part time,31,DNF High School Education,Sydney,1.5
+134827,Permenant Full Time,70,DNF High School Education,Sydney,1.0
+193615,Permenant Full Time,74,High School/Diploma,Perth,1.0
+84232,Permenant Full Time,70,DNF High School Education,Brisbane,1.25
+146108,Casual/Part time,30,High School/Diploma,Perth,1.25
+148606,Permenant Full Time,35,Degree+,Canberra,1.25
+100837,Casual/Part time,82,High School/Diploma,Sydney,1.0
+2843,Casual/Part time,66,DNF High School Education,Brisbane,1.5
+193211,Casual/Part time,68,Degree+,Adelaide,1.0
+124760,Permenant Full Time,36,Degree+,Adelaide,1.25
+170186,Unemployment,43,High School/Diploma,Brisbane,1.25
+14814,Unemployment,56,Degree+,Canberra,1.5
+36392,Permenant Full Time,34,DNF High School Education,Canberra,1.75
+105018,Casual/Part time,79,Degree+,Canberra,1.0
+187040,Permenant Full Time,57,Degree+,Adelaide,1.0
+3740,Permenant Full Time,33,DNF High School Education,Adelaide,1.75
+34201,Unemployment,28,Degree+,Hobart,2.0
+38894,Unemployment,83,High School/Diploma,Melbourne,1.5
+104025,Unemployment,36,Degree+,Hobart,1.25
+110345,Permenant Full Time,28,Degree+,Darwin,1.5
+159515,Unemployment,57,DNF High School Education,Sydney,1.0
+69681,Permenant Full Time,16,DNF High School Education,Darwin,1.75
+18356,Casual/Part time,57,DNF High School Education,Hobart,1.5
+36394,Casual/Part time,51,Degree+,Sydney,1.5
+118767,Permenant Full Time,76,Degree+,Sydney,1.0
+187823,Permenant Full Time,60,DNF High School Education,Canberra,1.0
+122213,Permenant Full Time,59,Degree+,Darwin,1.0
+183663,Permenant Full Time,46,DNF High School Education,Canberra,1.0
+137347,Unemployment,57,High School/Diploma,Sydney,1.0
+195013,Permenant Full Time,53,DNF High School Education,Hobart,1.0
+76222,Casual/Part time,41,DNF High School Education,Adelaide,1.5
+95975,Casual/Part time,40,DNF High School Education,Darwin,1.5
+44250,Permenant Full Time,66,Degree+,Canberra,1.5
+118957,Permenant Full Time,53,DNF High School Education,Canberra,1.0
+192272,Unemployment,20,High School/Diploma,Melbourne,1.5
+165871,Permenant Full Time,66,High School/Diploma,Sydney,1.0
+126158,Casual/Part time,29,Degree+,Hobart,1.25
+83072,Permenant Full Time,35,Degree+,Brisbane,1.5
+181352,Unemployment,67,Degree+,Brisbane,1.0
+435,Unemployment,46,DNF High School Education,Canberra,1.5
+135412,Permenant Full Time,65,DNF High School Education,Darwin,1.0
+171803,Casual/Part time,39,Degree+,Canberra,1.25
+192385,Casual/Part time,73,DNF High School Education,Canberra,1.0
+141055,Unemployment,31,Degree+,Adelaide,1.25
+187344,Permenant Full Time,42,DNF High School Education,Melbourne,1.25
+30070,Unemployment,70,DNF High School Education,Adelaide,1.5
+50699,Casual/Part time,83,DNF High School Education,Hobart,1.25
+8677,Unemployment,53,Degree+,Sydney,1.5
+48457,Casual/Part time,56,High School/Diploma,Adelaide,1.5
+48555,Permenant Full Time,43,Degree+,Canberra,1.75
+129281,Permenant Full Time,82,High School/Diploma,Brisbane,1.0
+69440,Unemployment,56,DNF High School Education,Hobart,1.25
+52802,Casual/Part time,76,Degree+,Canberra,1.25
+70926,Casual/Part time,73,Degree+,Darwin,1.25
+147620,Permenant Full Time,47,High School/Diploma,Perth,1.0
+22682,Casual/Part time,53,DNF High School Education,Perth,1.5
+142828,Unemployment,23,High School/Diploma,Sydney,1.5
+197156,Permenant Full Time,57,High School/Diploma,Darwin,1.0
+116531,Casual/Part time,46,High School/Diploma,Brisbane,1.0
+120687,Unemployment,58,High School/Diploma,Adelaide,1.0
+189809,Unemployment,78,DNF High School Education,Brisbane,1.0
+141145,Casual/Part time,41,High School/Diploma,Darwin,1.25
+101447,Permenant Full Time,23,Degree+,Canberra,1.5
+163702,Permenant Full Time,57,High School/Diploma,Brisbane,1.0
+142596,Unemployment,26,DNF High School Education,Brisbane,1.5
+66091,Unemployment,54,High School/Diploma,Melbourne,1.25
+92266,Unemployment,16,Degree+,Brisbane,1.75
+155712,Permenant Full Time,71,DNF High School Education,Melbourne,1.0
+78701,Permenant Full Time,44,High School/Diploma,Hobart,1.25
+44456,Permenant Full Time,54,DNF High School Education,Perth,1.5
+16202,Unemployment,62,High School/Diploma,Perth,1.5
+33108,Casual/Part time,15,DNF High School Education,Perth,2.0
+61220,Unemployment,51,DNF High School Education,Canberra,1.25
+97562,Unemployment,30,DNF High School Education,Adelaide,1.5
+144387,Casual/Part time,83,High School/Diploma,Hobart,1.0
+160408,Permenant Full Time,60,High School/Diploma,Melbourne,1.0
+183583,Unemployment,66,High School/Diploma,Brisbane,1.0
+138691,Casual/Part time,73,Degree+,Hobart,1.0
+114151,Unemployment,80,DNF High School Education,Perth,1.0
+107755,Permenant Full Time,48,High School/Diploma,Sydney,1.0
+197596,Permenant Full Time,61,DNF High School Education,Hobart,1.0
+22622,Casual/Part time,62,High School/Diploma,Brisbane,1.5
+199879,Permenant Full Time,21,DNF High School Education,Perth,1.5
+191848,Permenant Full Time,27,High School/Diploma,Brisbane,1.5
+47323,Unemployment,18,DNF High School Education,Brisbane,2.0
+185255,Permenant Full Time,27,Degree+,Brisbane,1.5
+53056,Unemployment,65,High School/Diploma,Melbourne,1.25
+54898,Casual/Part time,78,High School/Diploma,Perth,1.25
+3703,Unemployment,44,High School/Diploma,Adelaide,1.5
+107691,Casual/Part time,56,High School/Diploma,Hobart,1.0
+76315,Unemployment,38,High School/Diploma,Darwin,1.5
+36589,Casual/Part time,65,Degree+,Darwin,1.5
+5917,Casual/Part time,28,High School/Diploma,Sydney,2.0
+58370,Casual/Part time,61,High School/Diploma,Melbourne,1.25
+119681,Permenant Full Time,38,Degree+,Perth,1.25
+101809,Unemployment,47,DNF High School Education,Perth,1.0
+94184,Casual/Part time,62,DNF High School Education,Canberra,1.25
+113843,Casual/Part time,72,High School/Diploma,Perth,1.0
+38699,Casual/Part time,21,High School/Diploma,Hobart,2.0
+94962,Permenant Full Time,60,DNF High School Education,Darwin,1.25
+21361,Casual/Part time,23,DNF High School Education,Adelaide,2.0
+107993,Casual/Part time,67,DNF High School Education,Melbourne,1.0
+9537,Casual/Part time,57,Degree+,Sydney,1.5
+91552,Permenant Full Time,50,Degree+,Adelaide,1.25
+176978,Permenant Full Time,28,High School/Diploma,Brisbane,1.5
+32104,Casual/Part time,81,High School/Diploma,Adelaide,1.5
+38077,Unemployment,31,DNF High School Education,Hobart,1.75
+8541,Casual/Part time,19,Degree+,Brisbane,2.0
+53494,Casual/Part time,84,High School/Diploma,Hobart,1.25
+22220,Unemployment,64,DNF High School Education,Adelaide,1.5
+181642,Permenant Full Time,58,Degree+,Brisbane,1.0
+73658,Casual/Part time,21,DNF High School Education,Darwin,1.75
+74050,Unemployment,52,Degree+,Hobart,1.25
+184618,Unemployment,73,Degree+,Perth,1.0
+73193,Unemployment,20,High School/Diploma,Adelaide,1.75
+186203,Unemployment,25,Degree+,Hobart,1.5
+75221,Unemployment,57,High School/Diploma,Perth,1.25
+121236,Casual/Part time,44,High School/Diploma,Darwin,1.0
+36332,Casual/Part time,39,High School/Diploma,Darwin,1.75
+45530,Permenant Full Time,41,Degree+,Brisbane,1.75
+159257,Unemployment,42,DNF High School Education,Adelaide,1.25
+191949,Casual/Part time,36,Degree+,Perth,1.25
+166008,Permenant Full Time,60,DNF High School Education,Brisbane,1.0
+37371,Casual/Part time,43,High School/Diploma,Hobart,1.75
+94905,Casual/Part time,61,DNF High School Education,Darwin,1.25
+74013,Casual/Part time,60,DNF High School Education,Hobart,1.25
+106377,Unemployment,50,Degree+,Darwin,1.0
+107150,Permenant Full Time,61,DNF High School Education,Sydney,1.0
+42691,Permenant Full Time,33,DNF High School Education,Darwin,1.75
+184441,Casual/Part time,79,DNF High School Education,Canberra,1.0
+128801,Casual/Part time,20,High School/Diploma,Perth,1.5
+32399,Casual/Part time,54,DNF High School Education,Melbourne,1.5
+73104,Casual/Part time,20,High School/Diploma,Brisbane,1.75
+7385,Casual/Part time,60,DNF High School Education,Adelaide,1.5
+149440,Casual/Part time,58,DNF High School Education,Melbourne,1.0
+122990,Permenant Full Time,25,Degree+,Sydney,1.5
+114205,Permenant Full Time,74,DNF High School Education,Perth,1.0
+62248,Casual/Part time,43,DNF High School Education,Brisbane,1.5
+193543,Casual/Part time,27,Degree+,Perth,1.5
+25565,Unemployment,18,High School/Diploma,Perth,2.0
+111164,Casual/Part time,21,High School/Diploma,Darwin,1.5
+113789,Casual/Part time,67,Degree+,Canberra,1.0
+43524,Permenant Full Time,54,High School/Diploma,Perth,1.5
+187800,Unemployment,21,Degree+,Canberra,1.5
+136584,Permenant Full Time,28,DNF High School Education,Perth,1.5
+149759,Unemployment,83,DNF High School Education,Darwin,1.0
+70383,Permenant Full Time,55,Degree+,Sydney,1.25
+196941,Casual/Part time,77,Degree+,Perth,1.0
+53814,Permenant Full Time,22,DNF High School Education,Darwin,1.75
+84305,Unemployment,58,DNF High School Education,Perth,1.25
+194117,Permenant Full Time,53,Degree+,Sydney,1.0
+112018,Permenant Full Time,37,Degree+,Canberra,1.25
+125647,Casual/Part time,53,DNF High School Education,Melbourne,1.0
+57639,Casual/Part time,21,DNF High School Education,Hobart,1.75
+79465,Permenant Full Time,61,Degree+,Sydney,1.25
+79284,Casual/Part time,41,Degree+,Perth,1.5
+69145,Unemployment,43,High School/Diploma,Canberra,1.5
+29621,Casual/Part time,79,Degree+,Hobart,1.5
+189405,Permenant Full Time,23,Degree+,Adelaide,1.5
+25233,Casual/Part time,69,High School/Diploma,Perth,1.5
+8870,Unemployment,68,High School/Diploma,Adelaide,1.5
+91114,Unemployment,42,DNF High School Education,Perth,1.5
+190407,Permenant Full Time,64,DNF High School Education,Adelaide,1.0
+103579,Unemployment,61,DNF High School Education,Melbourne,1.0
+182620,Permenant Full Time,28,High School/Diploma,Brisbane,1.5
+128662,Casual/Part time,73,High School/Diploma,Perth,1.0
+42350,Unemployment,15,Degree+,Melbourne,2.0
+93045,Permenant Full Time,68,High School/Diploma,Perth,1.25
+78233,Permenant Full Time,30,High School/Diploma,Darwin,1.5
+42479,Permenant Full Time,21,High School/Diploma,Melbourne,2.0
+197673,Unemployment,83,Degree+,Sydney,1.0
+128086,Permenant Full Time,16,DNF High School Education,Darwin,1.5
+124394,Casual/Part time,32,High School/Diploma,Hobart,1.25
+68768,Unemployment,25,Degree+,Canberra,1.75
+105697,Unemployment,25,Degree+,Perth,1.5
+169017,Casual/Part time,41,Degree+,Brisbane,1.25
+118148,Casual/Part time,74,DNF High School Education,Canberra,1.0
+112560,Unemployment,33,High School/Diploma,Melbourne,1.25
+185329,Casual/Part time,77,High School/Diploma,Hobart,1.0
+27569,Permenant Full Time,21,High School/Diploma,Brisbane,2.0
+51028,Casual/Part time,39,DNF High School Education,Perth,1.5
+193028,Permenant Full Time,34,DNF High School Education,Canberra,1.25
+175779,Permenant Full Time,19,DNF High School Education,Melbourne,1.5
+164374,Casual/Part time,47,High School/Diploma,Adelaide,1.0
+28445,Permenant Full Time,70,DNF High School Education,Melbourne,1.5
+37676,Casual/Part time,37,DNF High School Education,Brisbane,1.75
+79221,Permenant Full Time,25,DNF High School Education,Brisbane,1.75
+162938,Unemployment,50,High School/Diploma,Perth,1.0
+185518,Permenant Full Time,29,High School/Diploma,Darwin,1.25
+143091,Unemployment,29,DNF High School Education,Brisbane,1.25
+110267,Permenant Full Time,58,DNF High School Education,Adelaide,1.0
+23751,Casual/Part time,39,DNF High School Education,Perth,1.75
+173764,Unemployment,53,DNF High School Education,Hobart,1.0
+158842,Casual/Part time,38,Degree+,Darwin,1.25
+98038,Casual/Part time,79,High School/Diploma,Brisbane,1.25
+180842,Casual/Part time,46,Degree+,Darwin,1.0
+41176,Permenant Full Time,78,DNF High School Education,Sydney,1.5
+85063,Permenant Full Time,62,DNF High School Education,Hobart,1.25
+144347,Casual/Part time,81,High School/Diploma,Canberra,1.0
+88099,Unemployment,61,High School/Diploma,Adelaide,1.25
+80256,Unemployment,52,DNF High School Education,Melbourne,1.25
+93364,Permenant Full Time,79,Degree+,Sydney,1.25
+12592,Casual/Part time,24,DNF High School Education,Canberra,2.0
+17911,Unemployment,40,High School/Diploma,Canberra,1.75
+141233,Casual/Part time,16,High School/Diploma,Adelaide,1.5
+55487,Unemployment,17,Degree+,Adelaide,1.75
+116102,Permenant Full Time,41,Degree+,Perth,1.25
+78561,Casual/Part time,54,Degree+,Adelaide,1.25
+603,Permenant Full Time,51,Degree+,Adelaide,1.5
+126450,Permenant Full Time,15,Degree+,Sydney,1.5
+67859,Unemployment,46,High School/Diploma,Brisbane,1.25
+177697,Permenant Full Time,25,DNF High School Education,Hobart,1.5
+114612,Permenant Full Time,57,DNF High School Education,Hobart,1.0
+94064,Permenant Full Time,35,High School/Diploma,Adelaide,1.5
+2306,Casual/Part time,56,High School/Diploma,Sydney,1.5
+192361,Casual/Part time,32,DNF High School Education,Melbourne,1.25
+103779,Casual/Part time,77,Degree+,Melbourne,1.0
+46702,Permenant Full Time,36,DNF High School Education,Melbourne,1.75
+99224,Permenant Full Time,26,Degree+,Sydney,1.75
+71564,Permenant Full Time,43,DNF High School Education,Perth,1.5
+11151,Permenant Full Time,72,DNF High School Education,Sydney,1.5
+162583,Casual/Part time,25,Degree+,Darwin,1.5
+64556,Casual/Part time,45,High School/Diploma,Canberra,1.25
+122237,Permenant Full Time,66,High School/Diploma,Adelaide,1.0
+90247,Unemployment,52,High School/Diploma,Darwin,1.25
+190454,Permenant Full Time,52,DNF High School Education,Adelaide,1.0
+158750,Unemployment,83,Degree+,Perth,1.0
+14149,Unemployment,21,Degree+,Hobart,2.0
+116189,Casual/Part time,17,High School/Diploma,Melbourne,1.5
+127294,Unemployment,64,Degree+,Hobart,1.0
+43538,Permenant Full Time,63,DNF High School Education,Brisbane,1.5
+138761,Permenant Full Time,41,Degree+,Darwin,1.25
+72239,Unemployment,72,DNF High School Education,Hobart,1.25
+113406,Unemployment,50,DNF High School Education,Sydney,1.0
+160155,Casual/Part time,80,DNF High School Education,Hobart,1.0
+136354,Casual/Part time,80,DNF High School Education,Perth,1.0
+44245,Unemployment,44,High School/Diploma,Sydney,1.5
+29138,Unemployment,43,DNF High School Education,Adelaide,1.75
+58478,Unemployment,70,Degree+,Perth,1.25
