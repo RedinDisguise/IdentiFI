@@ -1,10 +1,8 @@
 import random
 import csv
 
-
-
 def generate_entry():
-    entry = ""
+    entry = "income,employement_status,age,education_level,location,risk\n"
     emp_status = ["Unemployment", "Casual/Part time", "Permenant Full Time"]
     edu_level = ["DNF High School Education", "High School/Diploma", "Degree+"]
     location = ["Sydney", "Perth", "Melbourne", "Brisbane", "Adelaide", "Canberra"]
@@ -24,6 +22,8 @@ def generate_entry():
 
     loc = location[random.randint(0, len(location) - 1)]
     entry = entry + loc
+
+    starting_risk = 5
 
     entry = entry + "\n"
     return entry
