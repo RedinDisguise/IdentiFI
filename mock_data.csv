@@ -1,2000 +1,1001 @@
 income,employement_status,age,education_level,location,risk
-199901,Casual/Part time,81,High School/Diploma,Canberra
-income,employement_status,age,education_level,location,risk
-178475,Unemployment,76,Degree+,Sydney
-income,employement_status,age,education_level,location,risk
-109131,Unemployment,22,Degree+,Adelaide
-income,employement_status,age,education_level,location,risk
-91993,Casual/Part time,21,Degree+,Adelaide
-income,employement_status,age,education_level,location,risk
-52633,Unemployment,66,DNF High School Education,Canberra
-income,employement_status,age,education_level,location,risk
-32883,Permenant Full Time,85,DNF High School Education,Adelaide
-income,employement_status,age,education_level,location,risk
-172075,Casual/Part time,38,Degree+,Adelaide
-income,employement_status,age,education_level,location,risk
-45851,Permenant Full Time,85,DNF High School Education,Perth
-income,employement_status,age,education_level,location,risk
-127611,Unemployment,68,High School/Diploma,Brisbane
-income,employement_status,age,education_level,location,risk
-119321,Permenant Full Time,61,Degree+,Melbourne
-income,employement_status,age,education_level,location,risk
-20599,Unemployment,18,DNF High School Education,Sydney
-income,employement_status,age,education_level,location,risk
-88620,Permenant Full Time,45,Degree+,Brisbane
-income,employement_status,age,education_level,location,risk
-196377,Unemployment,67,DNF High School Education,Adelaide
-income,employement_status,age,education_level,location,risk
-64824,Permenant Full Time,54,High School/Diploma,Adelaide
-income,employement_status,age,education_level,location,risk
-183155,Unemployment,61,DNF High School Education,Sydney
-income,employement_status,age,education_level,location,risk
-153773,Permenant Full Time,78,DNF High School Education,Sydney
-income,employement_status,age,education_level,location,risk
-131139,Permenant Full Time,85,High School/Diploma,Brisbane
-income,employement_status,age,education_level,location,risk
-38287,Casual/Part time,34,DNF High School Education,Brisbane
-income,employement_status,age,education_level,location,risk
-126762,Permenant Full Time,36,High School/Diploma,Brisbane
-income,employement_status,age,education_level,location,risk
-82292,Casual/Part time,66,Degree+,Adelaide
-income,employement_status,age,education_level,location,risk
-100852,Unemployment,67,High School/Diploma,Canberra
-income,employement_status,age,education_level,location,risk
-83652,Unemployment,48,DNF High School Education,Perth
-income,employement_status,age,education_level,location,risk
-114542,Permenant Full Time,83,High School/Diploma,Adelaide
-income,employement_status,age,education_level,location,risk
-69556,Casual/Part time,54,Degree+,Perth
-income,employement_status,age,education_level,location,risk
-127738,Unemployment,56,DNF High School Education,Sydney
-income,employement_status,age,education_level,location,risk
-77058,Permenant Full Time,35,DNF High School Education,Sydney
-income,employement_status,age,education_level,location,risk
-197391,Casual/Part time,82,High School/Diploma,Canberra
-income,employement_status,age,education_level,location,risk
-144443,Permenant Full Time,40,High School/Diploma,Melbourne
-income,employement_status,age,education_level,location,risk
-165522,Casual/Part time,23,Degree+,Sydney
-income,employement_status,age,education_level,location,risk
-43758,Casual/Part time,79,High School/Diploma,Melbourne
-income,employement_status,age,education_level,location,risk
-95688,Casual/Part time,43,DNF High School Education,Adelaide
-income,employement_status,age,education_level,location,risk
-30920,Casual/Part time,73,High School/Diploma,Perth
-income,employement_status,age,education_level,location,risk
-99696,Unemployment,80,DNF High School Education,Melbourne
-income,employement_status,age,education_level,location,risk
-70570,Permenant Full Time,57,DNF High School Education,Canberra
-income,employement_status,age,education_level,location,risk
-96310,Casual/Part time,19,High School/Diploma,Canberra
-income,employement_status,age,education_level,location,risk
-170949,Casual/Part time,73,High School/Diploma,Sydney
-income,employement_status,age,education_level,location,risk
-27475,Casual/Part time,28,High School/Diploma,Adelaide
-income,employement_status,age,education_level,location,risk
-193310,Unemployment,53,High School/Diploma,Perth
-income,employement_status,age,education_level,location,risk
-175104,Permenant Full Time,57,Degree+,Adelaide
-income,employement_status,age,education_level,location,risk
-188279,Unemployment,58,High School/Diploma,Brisbane
-income,employement_status,age,education_level,location,risk
-147285,Casual/Part time,49,DNF High School Education,Sydney
-income,employement_status,age,education_level,location,risk
-63275,Permenant Full Time,50,High School/Diploma,Perth
-income,employement_status,age,education_level,location,risk
-156892,Unemployment,26,DNF High School Education,Sydney
-income,employement_status,age,education_level,location,risk
-199082,Permenant Full Time,77,Degree+,Sydney
-income,employement_status,age,education_level,location,risk
-124267,Unemployment,34,DNF High School Education,Perth
-income,employement_status,age,education_level,location,risk
-45812,Unemployment,77,DNF High School Education,Adelaide
-income,employement_status,age,education_level,location,risk
-147467,Unemployment,18,Degree+,Perth
-income,employement_status,age,education_level,location,risk
-164456,Permenant Full Time,17,DNF High School Education,Melbourne
-income,employement_status,age,education_level,location,risk
-180710,Casual/Part time,44,High School/Diploma,Brisbane
-income,employement_status,age,education_level,location,risk
-115188,Unemployment,48,High School/Diploma,Sydney
-income,employement_status,age,education_level,location,risk
-116092,Permenant Full Time,79,DNF High School Education,Sydney
-income,employement_status,age,education_level,location,risk
-135224,Permenant Full Time,71,DNF High School Education,Adelaide
-income,employement_status,age,education_level,location,risk
-100446,Casual/Part time,62,High School/Diploma,Melbourne
-income,employement_status,age,education_level,location,risk
-13288,Permenant Full Time,47,High School/Diploma,Brisbane
-income,employement_status,age,education_level,location,risk
-175363,Unemployment,66,High School/Diploma,Adelaide
-income,employement_status,age,education_level,location,risk
-60838,Unemployment,46,DNF High School Education,Melbourne
-income,employement_status,age,education_level,location,risk
-4997,Casual/Part time,79,Degree+,Canberra
-income,employement_status,age,education_level,location,risk
-47723,Casual/Part time,57,High School/Diploma,Sydney
-income,employement_status,age,education_level,location,risk
-43094,Unemployment,76,DNF High School Education,Brisbane
-income,employement_status,age,education_level,location,risk
-67848,Unemployment,73,High School/Diploma,Perth
-income,employement_status,age,education_level,location,risk
-18389,Unemployment,38,High School/Diploma,Perth
-income,employement_status,age,education_level,location,risk
-170468,Casual/Part time,23,Degree+,Sydney
-income,employement_status,age,education_level,location,risk
-159453,Casual/Part time,55,High School/Diploma,Adelaide
-income,employement_status,age,education_level,location,risk
-181861,Casual/Part time,54,Degree+,Perth
-income,employement_status,age,education_level,location,risk
-18905,Casual/Part time,71,High School/Diploma,Melbourne
-income,employement_status,age,education_level,location,risk
-64579,Casual/Part time,58,High School/Diploma,Melbourne
-income,employement_status,age,education_level,location,risk
-89557,Casual/Part time,84,High School/Diploma,Adelaide
-income,employement_status,age,education_level,location,risk
-61557,Unemployment,43,Degree+,Perth
-income,employement_status,age,education_level,location,risk
-177539,Casual/Part time,78,DNF High School Education,Brisbane
-income,employement_status,age,education_level,location,risk
-55131,Permenant Full Time,74,DNF High School Education,Canberra
-income,employement_status,age,education_level,location,risk
-5162,Permenant Full Time,31,High School/Diploma,Perth
-income,employement_status,age,education_level,location,risk
-72750,Permenant Full Time,41,DNF High School Education,Canberra
-income,employement_status,age,education_level,location,risk
-192356,Permenant Full Time,17,Degree+,Canberra
-income,employement_status,age,education_level,location,risk
-36574,Unemployment,15,Degree+,Sydney
-income,employement_status,age,education_level,location,risk
-118901,Permenant Full Time,45,High School/Diploma,Sydney
-income,employement_status,age,education_level,location,risk
-2938,Permenant Full Time,77,Degree+,Adelaide
-income,employement_status,age,education_level,location,risk
-51104,Permenant Full Time,64,High School/Diploma,Canberra
-income,employement_status,age,education_level,location,risk
-5677,Casual/Part time,30,DNF High School Education,Adelaide
-income,employement_status,age,education_level,location,risk
-54083,Permenant Full Time,18,DNF High School Education,Brisbane
-income,employement_status,age,education_level,location,risk
-118962,Permenant Full Time,48,Degree+,Canberra
-income,employement_status,age,education_level,location,risk
-142688,Casual/Part time,20,Degree+,Melbourne
-income,employement_status,age,education_level,location,risk
-138263,Casual/Part time,41,Degree+,Canberra
-income,employement_status,age,education_level,location,risk
-124846,Casual/Part time,31,DNF High School Education,Canberra
-income,employement_status,age,education_level,location,risk
-123773,Casual/Part time,57,DNF High School Education,Sydney
-income,employement_status,age,education_level,location,risk
-69813,Casual/Part time,53,Degree+,Canberra
-income,employement_status,age,education_level,location,risk
-190120,Permenant Full Time,46,Degree+,Brisbane
-income,employement_status,age,education_level,location,risk
-119026,Casual/Part time,34,High School/Diploma,Perth
-income,employement_status,age,education_level,location,risk
-87641,Casual/Part time,40,Degree+,Adelaide
-income,employement_status,age,education_level,location,risk
-195827,Casual/Part time,31,DNF High School Education,Melbourne
-income,employement_status,age,education_level,location,risk
-130297,Casual/Part time,17,Degree+,Adelaide
-income,employement_status,age,education_level,location,risk
-61278,Unemployment,60,High School/Diploma,Melbourne
-income,employement_status,age,education_level,location,risk
-87715,Casual/Part time,75,High School/Diploma,Sydney
-income,employement_status,age,education_level,location,risk
-199652,Permenant Full Time,69,DNF High School Education,Brisbane
-income,employement_status,age,education_level,location,risk
-194670,Permenant Full Time,38,Degree+,Adelaide
-income,employement_status,age,education_level,location,risk
-175576,Permenant Full Time,72,DNF High School Education,Melbourne
-income,employement_status,age,education_level,location,risk
-190119,Unemployment,71,High School/Diploma,Melbourne
-income,employement_status,age,education_level,location,risk
-191923,Permenant Full Time,28,High School/Diploma,Sydney
-income,employement_status,age,education_level,location,risk
-44984,Permenant Full Time,66,High School/Diploma,Adelaide
-income,employement_status,age,education_level,location,risk
-57722,Casual/Part time,61,High School/Diploma,Perth
-income,employement_status,age,education_level,location,risk
-118691,Casual/Part time,85,DNF High School Education,Sydney
-income,employement_status,age,education_level,location,risk
-71213,Permenant Full Time,48,DNF High School Education,Sydney
-income,employement_status,age,education_level,location,risk
-166412,Casual/Part time,20,High School/Diploma,Melbourne
-income,employement_status,age,education_level,location,risk
-80834,Unemployment,35,DNF High School Education,Canberra
-income,employement_status,age,education_level,location,risk
-162082,Casual/Part time,47,High School/Diploma,Sydney
-income,employement_status,age,education_level,location,risk
-188074,Permenant Full Time,63,High School/Diploma,Perth
-income,employement_status,age,education_level,location,risk
-42686,Casual/Part time,83,DNF High School Education,Melbourne
-income,employement_status,age,education_level,location,risk
-69285,Unemployment,34,Degree+,Canberra
-income,employement_status,age,education_level,location,risk
-101116,Casual/Part time,54,High School/Diploma,Canberra
-income,employement_status,age,education_level,location,risk
-99125,Permenant Full Time,26,High School/Diploma,Melbourne
-income,employement_status,age,education_level,location,risk
-103908,Unemployment,17,Degree+,Adelaide
-income,employement_status,age,education_level,location,risk
-48119,Permenant Full Time,19,Degree+,Melbourne
-income,employement_status,age,education_level,location,risk
-135921,Unemployment,35,DNF High School Education,Brisbane
-income,employement_status,age,education_level,location,risk
-55669,Unemployment,71,DNF High School Education,Brisbane
-income,employement_status,age,education_level,location,risk
-30856,Casual/Part time,39,DNF High School Education,Canberra
-income,employement_status,age,education_level,location,risk
-1531,Unemployment,24,DNF High School Education,Canberra
-income,employement_status,age,education_level,location,risk
-198596,Permenant Full Time,49,DNF High School Education,Perth
-income,employement_status,age,education_level,location,risk
-29944,Permenant Full Time,31,High School/Diploma,Canberra
-income,employement_status,age,education_level,location,risk
-69868,Unemployment,79,DNF High School Education,Brisbane
-income,employement_status,age,education_level,location,risk
-35923,Unemployment,41,Degree+,Sydney
-income,employement_status,age,education_level,location,risk
-11206,Casual/Part time,85,Degree+,Adelaide
-income,employement_status,age,education_level,location,risk
-2847,Casual/Part time,81,DNF High School Education,Brisbane
-income,employement_status,age,education_level,location,risk
-124279,Casual/Part time,32,Degree+,Melbourne
-income,employement_status,age,education_level,location,risk
-6930,Unemployment,51,DNF High School Education,Melbourne
-income,employement_status,age,education_level,location,risk
-85199,Casual/Part time,80,DNF High School Education,Melbourne
-income,employement_status,age,education_level,location,risk
-193227,Permenant Full Time,15,DNF High School Education,Sydney
-income,employement_status,age,education_level,location,risk
-166013,Permenant Full Time,31,Degree+,Sydney
-income,employement_status,age,education_level,location,risk
-177081,Unemployment,45,High School/Diploma,Sydney
-income,employement_status,age,education_level,location,risk
-41030,Casual/Part time,42,Degree+,Melbourne
-income,employement_status,age,education_level,location,risk
-66401,Casual/Part time,15,High School/Diploma,Canberra
-income,employement_status,age,education_level,location,risk
-35460,Casual/Part time,84,Degree+,Melbourne
-income,employement_status,age,education_level,location,risk
-150867,Permenant Full Time,76,Degree+,Brisbane
-income,employement_status,age,education_level,location,risk
-56864,Unemployment,36,Degree+,Melbourne
-income,employement_status,age,education_level,location,risk
-176882,Permenant Full Time,37,Degree+,Perth
-income,employement_status,age,education_level,location,risk
-146513,Unemployment,67,High School/Diploma,Brisbane
-income,employement_status,age,education_level,location,risk
-35381,Casual/Part time,73,DNF High School Education,Adelaide
-income,employement_status,age,education_level,location,risk
-54722,Permenant Full Time,20,Degree+,Melbourne
-income,employement_status,age,education_level,location,risk
-125173,Permenant Full Time,42,High School/Diploma,Sydney
-income,employement_status,age,education_level,location,risk
-107011,Unemployment,70,DNF High School Education,Melbourne
-income,employement_status,age,education_level,location,risk
-171199,Casual/Part time,63,Degree+,Melbourne
-income,employement_status,age,education_level,location,risk
-197762,Permenant Full Time,68,DNF High School Education,Perth
-income,employement_status,age,education_level,location,risk
-124894,Permenant Full Time,61,Degree+,Brisbane
-income,employement_status,age,education_level,location,risk
-190462,Permenant Full Time,23,High School/Diploma,Brisbane
-income,employement_status,age,education_level,location,risk
-159972,Unemployment,33,Degree+,Sydney
-income,employement_status,age,education_level,location,risk
-101170,Unemployment,39,High School/Diploma,Melbourne
-income,employement_status,age,education_level,location,risk
-157532,Permenant Full Time,32,DNF High School Education,Melbourne
-income,employement_status,age,education_level,location,risk
-27497,Unemployment,42,High School/Diploma,Sydney
-income,employement_status,age,education_level,location,risk
-52406,Unemployment,66,High School/Diploma,Adelaide
-income,employement_status,age,education_level,location,risk
-9989,Permenant Full Time,62,High School/Diploma,Brisbane
-income,employement_status,age,education_level,location,risk
-96067,Casual/Part time,39,Degree+,Adelaide
-income,employement_status,age,education_level,location,risk
-26045,Unemployment,65,DNF High School Education,Perth
-income,employement_status,age,education_level,location,risk
-41352,Unemployment,30,DNF High School Education,Adelaide
-income,employement_status,age,education_level,location,risk
-25927,Unemployment,59,High School/Diploma,Sydney
-income,employement_status,age,education_level,location,risk
-191510,Permenant Full Time,45,DNF High School Education,Melbourne
-income,employement_status,age,education_level,location,risk
-40270,Permenant Full Time,45,Degree+,Canberra
-income,employement_status,age,education_level,location,risk
-143584,Unemployment,16,Degree+,Sydney
-income,employement_status,age,education_level,location,risk
-69535,Unemployment,72,DNF High School Education,Melbourne
-income,employement_status,age,education_level,location,risk
-8645,Permenant Full Time,29,High School/Diploma,Melbourne
-income,employement_status,age,education_level,location,risk
-32572,Permenant Full Time,25,High School/Diploma,Perth
-income,employement_status,age,education_level,location,risk
-177886,Unemployment,59,High School/Diploma,Adelaide
-income,employement_status,age,education_level,location,risk
-181584,Permenant Full Time,24,Degree+,Perth
-income,employement_status,age,education_level,location,risk
-160383,Permenant Full Time,49,Degree+,Canberra
-income,employement_status,age,education_level,location,risk
-97095,Unemployment,37,DNF High School Education,Brisbane
-income,employement_status,age,education_level,location,risk
-121485,Casual/Part time,37,Degree+,Adelaide
-income,employement_status,age,education_level,location,risk
-36902,Unemployment,71,Degree+,Perth
-income,employement_status,age,education_level,location,risk
-24725,Casual/Part time,50,DNF High School Education,Adelaide
-income,employement_status,age,education_level,location,risk
-109810,Permenant Full Time,20,DNF High School Education,Melbourne
-income,employement_status,age,education_level,location,risk
-179437,Casual/Part time,19,Degree+,Melbourne
-income,employement_status,age,education_level,location,risk
-14171,Unemployment,81,DNF High School Education,Melbourne
-income,employement_status,age,education_level,location,risk
-170697,Unemployment,39,High School/Diploma,Melbourne
-income,employement_status,age,education_level,location,risk
-31044,Unemployment,17,High School/Diploma,Brisbane
-income,employement_status,age,education_level,location,risk
-31919,Permenant Full Time,28,Degree+,Adelaide
-income,employement_status,age,education_level,location,risk
-183078,Unemployment,25,High School/Diploma,Canberra
-income,employement_status,age,education_level,location,risk
-53061,Unemployment,20,DNF High School Education,Canberra
-income,employement_status,age,education_level,location,risk
-174182,Permenant Full Time,38,DNF High School Education,Perth
-income,employement_status,age,education_level,location,risk
-80851,Unemployment,30,Degree+,Canberra
-income,employement_status,age,education_level,location,risk
-84511,Permenant Full Time,37,High School/Diploma,Perth
-income,employement_status,age,education_level,location,risk
-78635,Casual/Part time,81,High School/Diploma,Sydney
-income,employement_status,age,education_level,location,risk
-66147,Casual/Part time,46,Degree+,Canberra
-income,employement_status,age,education_level,location,risk
-122887,Unemployment,19,Degree+,Adelaide
-income,employement_status,age,education_level,location,risk
-140461,Unemployment,63,DNF High School Education,Perth
-income,employement_status,age,education_level,location,risk
-60474,Permenant Full Time,59,Degree+,Canberra
-income,employement_status,age,education_level,location,risk
-70695,Unemployment,78,High School/Diploma,Canberra
-income,employement_status,age,education_level,location,risk
-153007,Unemployment,31,High School/Diploma,Canberra
-income,employement_status,age,education_level,location,risk
-164625,Unemployment,79,High School/Diploma,Melbourne
-income,employement_status,age,education_level,location,risk
-84067,Unemployment,78,High School/Diploma,Adelaide
-income,employement_status,age,education_level,location,risk
-105298,Casual/Part time,71,DNF High School Education,Brisbane
-income,employement_status,age,education_level,location,risk
-111675,Casual/Part time,55,High School/Diploma,Sydney
-income,employement_status,age,education_level,location,risk
-25288,Permenant Full Time,35,DNF High School Education,Canberra
-income,employement_status,age,education_level,location,risk
-157934,Unemployment,16,Degree+,Canberra
-income,employement_status,age,education_level,location,risk
-198074,Unemployment,24,DNF High School Education,Sydney
-income,employement_status,age,education_level,location,risk
-20677,Unemployment,78,DNF High School Education,Perth
-income,employement_status,age,education_level,location,risk
-124812,Unemployment,84,Degree+,Sydney
-income,employement_status,age,education_level,location,risk
-5779,Unemployment,40,DNF High School Education,Perth
-income,employement_status,age,education_level,location,risk
-52496,Casual/Part time,57,DNF High School Education,Adelaide
-income,employement_status,age,education_level,location,risk
-186467,Unemployment,58,DNF High School Education,Melbourne
-income,employement_status,age,education_level,location,risk
-63288,Casual/Part time,77,DNF High School Education,Melbourne
-income,employement_status,age,education_level,location,risk
-150889,Casual/Part time,75,Degree+,Sydney
-income,employement_status,age,education_level,location,risk
-133881,Casual/Part time,41,DNF High School Education,Melbourne
-income,employement_status,age,education_level,location,risk
-8666,Permenant Full Time,45,Degree+,Melbourne
-income,employement_status,age,education_level,location,risk
-179202,Permenant Full Time,18,High School/Diploma,Adelaide
-income,employement_status,age,education_level,location,risk
-123760,Casual/Part time,60,High School/Diploma,Adelaide
-income,employement_status,age,education_level,location,risk
-71522,Casual/Part time,52,High School/Diploma,Perth
-income,employement_status,age,education_level,location,risk
-38772,Unemployment,25,DNF High School Education,Perth
-income,employement_status,age,education_level,location,risk
-188860,Permenant Full Time,76,High School/Diploma,Sydney
-income,employement_status,age,education_level,location,risk
-8161,Unemployment,79,High School/Diploma,Melbourne
-income,employement_status,age,education_level,location,risk
-4242,Casual/Part time,76,High School/Diploma,Adelaide
-income,employement_status,age,education_level,location,risk
-107830,Casual/Part time,28,DNF High School Education,Perth
-income,employement_status,age,education_level,location,risk
-192432,Permenant Full Time,62,High School/Diploma,Adelaide
-income,employement_status,age,education_level,location,risk
-171218,Casual/Part time,40,DNF High School Education,Perth
-income,employement_status,age,education_level,location,risk
-97434,Unemployment,17,Degree+,Perth
-income,employement_status,age,education_level,location,risk
-96827,Casual/Part time,40,Degree+,Sydney
-income,employement_status,age,education_level,location,risk
-126850,Unemployment,38,High School/Diploma,Adelaide
-income,employement_status,age,education_level,location,risk
-24359,Casual/Part time,63,Degree+,Melbourne
-income,employement_status,age,education_level,location,risk
-78280,Casual/Part time,39,Degree+,Canberra
-income,employement_status,age,education_level,location,risk
-155871,Permenant Full Time,19,High School/Diploma,Canberra
-income,employement_status,age,education_level,location,risk
-35202,Permenant Full Time,40,High School/Diploma,Melbourne
-income,employement_status,age,education_level,location,risk
-133693,Unemployment,18,High School/Diploma,Melbourne
-income,employement_status,age,education_level,location,risk
-67541,Casual/Part time,55,DNF High School Education,Sydney
-income,employement_status,age,education_level,location,risk
-8808,Unemployment,35,High School/Diploma,Perth
-income,employement_status,age,education_level,location,risk
-167464,Permenant Full Time,44,High School/Diploma,Perth
-income,employement_status,age,education_level,location,risk
-162666,Casual/Part time,37,Degree+,Sydney
-income,employement_status,age,education_level,location,risk
-134523,Unemployment,40,DNF High School Education,Perth
-income,employement_status,age,education_level,location,risk
-107359,Casual/Part time,21,High School/Diploma,Brisbane
-income,employement_status,age,education_level,location,risk
-13048,Casual/Part time,39,Degree+,Sydney
-income,employement_status,age,education_level,location,risk
-126202,Unemployment,57,High School/Diploma,Sydney
-income,employement_status,age,education_level,location,risk
-175463,Casual/Part time,42,DNF High School Education,Adelaide
-income,employement_status,age,education_level,location,risk
-3666,Casual/Part time,59,High School/Diploma,Canberra
-income,employement_status,age,education_level,location,risk
-48619,Permenant Full Time,35,DNF High School Education,Perth
-income,employement_status,age,education_level,location,risk
-55071,Casual/Part time,79,DNF High School Education,Canberra
-income,employement_status,age,education_level,location,risk
-68409,Casual/Part time,54,Degree+,Sydney
-income,employement_status,age,education_level,location,risk
-162014,Unemployment,63,DNF High School Education,Perth
-income,employement_status,age,education_level,location,risk
-34654,Unemployment,68,High School/Diploma,Adelaide
-income,employement_status,age,education_level,location,risk
-142773,Permenant Full Time,43,High School/Diploma,Adelaide
-income,employement_status,age,education_level,location,risk
-9996,Unemployment,80,High School/Diploma,Sydney
-income,employement_status,age,education_level,location,risk
-115519,Permenant Full Time,16,High School/Diploma,Perth
-income,employement_status,age,education_level,location,risk
-100836,Permenant Full Time,69,High School/Diploma,Melbourne
-income,employement_status,age,education_level,location,risk
-162771,Unemployment,59,Degree+,Melbourne
-income,employement_status,age,education_level,location,risk
-23093,Casual/Part time,31,High School/Diploma,Melbourne
-income,employement_status,age,education_level,location,risk
-9245,Permenant Full Time,61,High School/Diploma,Canberra
-income,employement_status,age,education_level,location,risk
-156681,Unemployment,63,High School/Diploma,Adelaide
-income,employement_status,age,education_level,location,risk
-113414,Casual/Part time,69,Degree+,Canberra
-income,employement_status,age,education_level,location,risk
-162773,Casual/Part time,78,DNF High School Education,Melbourne
-income,employement_status,age,education_level,location,risk
-140158,Permenant Full Time,36,High School/Diploma,Brisbane
-income,employement_status,age,education_level,location,risk
-50134,Permenant Full Time,65,DNF High School Education,Adelaide
-income,employement_status,age,education_level,location,risk
-80513,Unemployment,46,High School/Diploma,Brisbane
-income,employement_status,age,education_level,location,risk
-193744,Casual/Part time,26,High School/Diploma,Perth
-income,employement_status,age,education_level,location,risk
-127818,Unemployment,83,Degree+,Canberra
-income,employement_status,age,education_level,location,risk
-145216,Permenant Full Time,33,DNF High School Education,Canberra
-income,employement_status,age,education_level,location,risk
-175145,Casual/Part time,73,Degree+,Melbourne
-income,employement_status,age,education_level,location,risk
-159557,Unemployment,26,High School/Diploma,Adelaide
-income,employement_status,age,education_level,location,risk
-92657,Permenant Full Time,77,Degree+,Perth
-income,employement_status,age,education_level,location,risk
-74275,Casual/Part time,30,Degree+,Melbourne
-income,employement_status,age,education_level,location,risk
-161803,Unemployment,18,Degree+,Melbourne
-income,employement_status,age,education_level,location,risk
-43718,Unemployment,82,Degree+,Melbourne
-income,employement_status,age,education_level,location,risk
-61109,Casual/Part time,73,DNF High School Education,Canberra
-income,employement_status,age,education_level,location,risk
-165366,Permenant Full Time,37,DNF High School Education,Melbourne
-income,employement_status,age,education_level,location,risk
-42028,Unemployment,77,DNF High School Education,Melbourne
-income,employement_status,age,education_level,location,risk
-57736,Permenant Full Time,37,DNF High School Education,Perth
-income,employement_status,age,education_level,location,risk
-9741,Casual/Part time,83,DNF High School Education,Perth
-income,employement_status,age,education_level,location,risk
-68687,Unemployment,83,High School/Diploma,Canberra
-income,employement_status,age,education_level,location,risk
-76880,Permenant Full Time,34,Degree+,Perth
-income,employement_status,age,education_level,location,risk
-102684,Casual/Part time,59,Degree+,Perth
-income,employement_status,age,education_level,location,risk
-114020,Unemployment,43,Degree+,Melbourne
-income,employement_status,age,education_level,location,risk
-166388,Unemployment,15,DNF High School Education,Brisbane
-income,employement_status,age,education_level,location,risk
-14429,Permenant Full Time,31,DNF High School Education,Brisbane
-income,employement_status,age,education_level,location,risk
-189717,Permenant Full Time,49,Degree+,Sydney
-income,employement_status,age,education_level,location,risk
-17038,Casual/Part time,68,DNF High School Education,Canberra
-income,employement_status,age,education_level,location,risk
-108714,Casual/Part time,61,High School/Diploma,Sydney
-income,employement_status,age,education_level,location,risk
-194499,Unemployment,47,Degree+,Adelaide
-income,employement_status,age,education_level,location,risk
-189948,Unemployment,59,Degree+,Melbourne
-income,employement_status,age,education_level,location,risk
-39800,Casual/Part time,69,High School/Diploma,Adelaide
-income,employement_status,age,education_level,location,risk
-143953,Unemployment,80,Degree+,Canberra
-income,employement_status,age,education_level,location,risk
-115435,Unemployment,34,Degree+,Sydney
-income,employement_status,age,education_level,location,risk
-70467,Permenant Full Time,46,Degree+,Canberra
-income,employement_status,age,education_level,location,risk
-108588,Permenant Full Time,49,Degree+,Melbourne
-income,employement_status,age,education_level,location,risk
-107096,Unemployment,48,DNF High School Education,Melbourne
-income,employement_status,age,education_level,location,risk
-14535,Casual/Part time,70,Degree+,Canberra
-income,employement_status,age,education_level,location,risk
-8362,Unemployment,20,Degree+,Adelaide
-income,employement_status,age,education_level,location,risk
-123300,Unemployment,66,High School/Diploma,Sydney
-income,employement_status,age,education_level,location,risk
-132225,Unemployment,78,Degree+,Canberra
-income,employement_status,age,education_level,location,risk
-182302,Casual/Part time,66,High School/Diploma,Melbourne
-income,employement_status,age,education_level,location,risk
-125153,Permenant Full Time,16,DNF High School Education,Perth
-income,employement_status,age,education_level,location,risk
-35882,Unemployment,38,High School/Diploma,Melbourne
-income,employement_status,age,education_level,location,risk
-134665,Casual/Part time,28,Degree+,Canberra
-income,employement_status,age,education_level,location,risk
-46603,Casual/Part time,58,High School/Diploma,Melbourne
-income,employement_status,age,education_level,location,risk
-37622,Casual/Part time,33,High School/Diploma,Adelaide
-income,employement_status,age,education_level,location,risk
-131043,Permenant Full Time,28,High School/Diploma,Sydney
-income,employement_status,age,education_level,location,risk
-1812,Permenant Full Time,47,High School/Diploma,Canberra
-income,employement_status,age,education_level,location,risk
-176950,Unemployment,23,Degree+,Adelaide
-income,employement_status,age,education_level,location,risk
-182644,Unemployment,66,High School/Diploma,Brisbane
-income,employement_status,age,education_level,location,risk
-150645,Casual/Part time,57,Degree+,Melbourne
-income,employement_status,age,education_level,location,risk
-38790,Permenant Full Time,70,High School/Diploma,Brisbane
-income,employement_status,age,education_level,location,risk
-79028,Permenant Full Time,23,High School/Diploma,Adelaide
-income,employement_status,age,education_level,location,risk
-70343,Casual/Part time,85,DNF High School Education,Perth
-income,employement_status,age,education_level,location,risk
-99057,Casual/Part time,69,DNF High School Education,Canberra
-income,employement_status,age,education_level,location,risk
-167637,Permenant Full Time,49,High School/Diploma,Sydney
-income,employement_status,age,education_level,location,risk
-121390,Unemployment,15,High School/Diploma,Melbourne
-income,employement_status,age,education_level,location,risk
-8326,Casual/Part time,77,High School/Diploma,Sydney
-income,employement_status,age,education_level,location,risk
-175939,Casual/Part time,42,High School/Diploma,Brisbane
-income,employement_status,age,education_level,location,risk
-41994,Casual/Part time,36,High School/Diploma,Brisbane
-income,employement_status,age,education_level,location,risk
-106038,Permenant Full Time,17,Degree+,Melbourne
-income,employement_status,age,education_level,location,risk
-35309,Unemployment,51,DNF High School Education,Perth
-income,employement_status,age,education_level,location,risk
-73411,Unemployment,85,Degree+,Adelaide
-income,employement_status,age,education_level,location,risk
-19848,Permenant Full Time,67,DNF High School Education,Canberra
-income,employement_status,age,education_level,location,risk
-63018,Casual/Part time,55,High School/Diploma,Melbourne
-income,employement_status,age,education_level,location,risk
-49056,Unemployment,61,High School/Diploma,Adelaide
-income,employement_status,age,education_level,location,risk
-31633,Unemployment,75,High School/Diploma,Sydney
-income,employement_status,age,education_level,location,risk
-152029,Permenant Full Time,18,High School/Diploma,Adelaide
-income,employement_status,age,education_level,location,risk
-101196,Casual/Part time,60,High School/Diploma,Canberra
-income,employement_status,age,education_level,location,risk
-131292,Permenant Full Time,38,DNF High School Education,Brisbane
-income,employement_status,age,education_level,location,risk
-133689,Casual/Part time,37,DNF High School Education,Perth
-income,employement_status,age,education_level,location,risk
-75512,Permenant Full Time,47,DNF High School Education,Sydney
-income,employement_status,age,education_level,location,risk
-158161,Permenant Full Time,16,High School/Diploma,Adelaide
-income,employement_status,age,education_level,location,risk
-146646,Casual/Part time,73,Degree+,Adelaide
-income,employement_status,age,education_level,location,risk
-170223,Unemployment,46,High School/Diploma,Sydney
-income,employement_status,age,education_level,location,risk
-30291,Permenant Full Time,47,Degree+,Sydney
-income,employement_status,age,education_level,location,risk
-133002,Unemployment,74,DNF High School Education,Melbourne
-income,employement_status,age,education_level,location,risk
-56432,Unemployment,78,High School/Diploma,Brisbane
-income,employement_status,age,education_level,location,risk
-51560,Permenant Full Time,46,Degree+,Adelaide
-income,employement_status,age,education_level,location,risk
-69279,Unemployment,39,Degree+,Sydney
-income,employement_status,age,education_level,location,risk
-109042,Permenant Full Time,23,High School/Diploma,Canberra
-income,employement_status,age,education_level,location,risk
-119377,Permenant Full Time,39,High School/Diploma,Brisbane
-income,employement_status,age,education_level,location,risk
-65950,Permenant Full Time,68,DNF High School Education,Brisbane
-income,employement_status,age,education_level,location,risk
-138621,Unemployment,15,Degree+,Sydney
-income,employement_status,age,education_level,location,risk
-91229,Casual/Part time,50,High School/Diploma,Sydney
-income,employement_status,age,education_level,location,risk
-167256,Permenant Full Time,45,High School/Diploma,Sydney
-income,employement_status,age,education_level,location,risk
-78225,Casual/Part time,84,DNF High School Education,Adelaide
-income,employement_status,age,education_level,location,risk
-15522,Casual/Part time,44,High School/Diploma,Sydney
-income,employement_status,age,education_level,location,risk
-39309,Permenant Full Time,20,DNF High School Education,Perth
-income,employement_status,age,education_level,location,risk
-84775,Permenant Full Time,28,DNF High School Education,Brisbane
-income,employement_status,age,education_level,location,risk
-137572,Permenant Full Time,15,Degree+,Brisbane
-income,employement_status,age,education_level,location,risk
-168008,Casual/Part time,77,Degree+,Melbourne
-income,employement_status,age,education_level,location,risk
-95975,Permenant Full Time,25,DNF High School Education,Brisbane
-income,employement_status,age,education_level,location,risk
-79311,Casual/Part time,31,Degree+,Brisbane
-income,employement_status,age,education_level,location,risk
-18733,Casual/Part time,47,Degree+,Perth
-income,employement_status,age,education_level,location,risk
-61151,Casual/Part time,79,Degree+,Canberra
-income,employement_status,age,education_level,location,risk
-186379,Casual/Part time,76,High School/Diploma,Sydney
-income,employement_status,age,education_level,location,risk
-36395,Casual/Part time,73,Degree+,Adelaide
-income,employement_status,age,education_level,location,risk
-185232,Casual/Part time,74,High School/Diploma,Perth
-income,employement_status,age,education_level,location,risk
-95899,Unemployment,56,DNF High School Education,Melbourne
-income,employement_status,age,education_level,location,risk
-99911,Permenant Full Time,20,Degree+,Melbourne
-income,employement_status,age,education_level,location,risk
-163721,Permenant Full Time,59,Degree+,Brisbane
-income,employement_status,age,education_level,location,risk
-186313,Unemployment,22,High School/Diploma,Brisbane
-income,employement_status,age,education_level,location,risk
-179865,Unemployment,25,DNF High School Education,Sydney
-income,employement_status,age,education_level,location,risk
-7658,Casual/Part time,51,DNF High School Education,Melbourne
-income,employement_status,age,education_level,location,risk
-59704,Casual/Part time,22,High School/Diploma,Perth
-income,employement_status,age,education_level,location,risk
-148460,Permenant Full Time,64,Degree+,Brisbane
-income,employement_status,age,education_level,location,risk
-136138,Permenant Full Time,83,Degree+,Brisbane
-income,employement_status,age,education_level,location,risk
-87710,Permenant Full Time,70,DNF High School Education,Canberra
-income,employement_status,age,education_level,location,risk
-173678,Permenant Full Time,56,DNF High School Education,Brisbane
-income,employement_status,age,education_level,location,risk
-118254,Permenant Full Time,82,Degree+,Perth
-income,employement_status,age,education_level,location,risk
-39571,Casual/Part time,69,DNF High School Education,Adelaide
-income,employement_status,age,education_level,location,risk
-87488,Unemployment,38,DNF High School Education,Adelaide
-income,employement_status,age,education_level,location,risk
-149268,Unemployment,42,High School/Diploma,Perth
-income,employement_status,age,education_level,location,risk
-172863,Unemployment,48,High School/Diploma,Sydney
-income,employement_status,age,education_level,location,risk
-168819,Permenant Full Time,55,High School/Diploma,Perth
-income,employement_status,age,education_level,location,risk
-140622,Unemployment,72,High School/Diploma,Adelaide
-income,employement_status,age,education_level,location,risk
-122151,Casual/Part time,41,Degree+,Melbourne
-income,employement_status,age,education_level,location,risk
-40616,Casual/Part time,32,DNF High School Education,Melbourne
-income,employement_status,age,education_level,location,risk
-32069,Casual/Part time,26,Degree+,Adelaide
-income,employement_status,age,education_level,location,risk
-188270,Casual/Part time,65,DNF High School Education,Sydney
-income,employement_status,age,education_level,location,risk
-184770,Casual/Part time,17,Degree+,Brisbane
-income,employement_status,age,education_level,location,risk
-60584,Unemployment,44,Degree+,Sydney
-income,employement_status,age,education_level,location,risk
-133255,Unemployment,42,Degree+,Canberra
-income,employement_status,age,education_level,location,risk
-35266,Casual/Part time,47,DNF High School Education,Sydney
-income,employement_status,age,education_level,location,risk
-184389,Permenant Full Time,79,Degree+,Perth
-income,employement_status,age,education_level,location,risk
-73652,Casual/Part time,24,Degree+,Canberra
-income,employement_status,age,education_level,location,risk
-176158,Unemployment,71,Degree+,Melbourne
-income,employement_status,age,education_level,location,risk
-184522,Casual/Part time,48,DNF High School Education,Adelaide
-income,employement_status,age,education_level,location,risk
-121525,Permenant Full Time,85,DNF High School Education,Adelaide
-income,employement_status,age,education_level,location,risk
-102529,Permenant Full Time,73,DNF High School Education,Perth
-income,employement_status,age,education_level,location,risk
-173620,Casual/Part time,50,High School/Diploma,Sydney
-income,employement_status,age,education_level,location,risk
-5334,Casual/Part time,32,High School/Diploma,Brisbane
-income,employement_status,age,education_level,location,risk
-132895,Permenant Full Time,40,DNF High School Education,Canberra
-income,employement_status,age,education_level,location,risk
-163847,Unemployment,33,High School/Diploma,Canberra
-income,employement_status,age,education_level,location,risk
-134933,Unemployment,58,High School/Diploma,Brisbane
-income,employement_status,age,education_level,location,risk
-98836,Unemployment,25,Degree+,Melbourne
-income,employement_status,age,education_level,location,risk
-117305,Unemployment,32,High School/Diploma,Adelaide
-income,employement_status,age,education_level,location,risk
-29141,Permenant Full Time,34,DNF High School Education,Adelaide
-income,employement_status,age,education_level,location,risk
-82606,Permenant Full Time,23,High School/Diploma,Canberra
-income,employement_status,age,education_level,location,risk
-40206,Unemployment,52,DNF High School Education,Melbourne
-income,employement_status,age,education_level,location,risk
-159743,Casual/Part time,16,Degree+,Adelaide
-income,employement_status,age,education_level,location,risk
-143752,Casual/Part time,54,Degree+,Perth
-income,employement_status,age,education_level,location,risk
-89946,Casual/Part time,49,High School/Diploma,Canberra
-income,employement_status,age,education_level,location,risk
-122893,Unemployment,82,DNF High School Education,Melbourne
-income,employement_status,age,education_level,location,risk
-46431,Permenant Full Time,77,High School/Diploma,Canberra
-income,employement_status,age,education_level,location,risk
-104896,Unemployment,20,DNF High School Education,Brisbane
-income,employement_status,age,education_level,location,risk
-68897,Unemployment,85,DNF High School Education,Canberra
-income,employement_status,age,education_level,location,risk
-129909,Permenant Full Time,32,High School/Diploma,Adelaide
-income,employement_status,age,education_level,location,risk
-166475,Unemployment,64,Degree+,Adelaide
-income,employement_status,age,education_level,location,risk
-97355,Permenant Full Time,27,High School/Diploma,Adelaide
-income,employement_status,age,education_level,location,risk
-185536,Unemployment,52,DNF High School Education,Brisbane
-income,employement_status,age,education_level,location,risk
-895,Permenant Full Time,33,Degree+,Sydney
-income,employement_status,age,education_level,location,risk
-73323,Casual/Part time,29,DNF High School Education,Sydney
-income,employement_status,age,education_level,location,risk
-184785,Permenant Full Time,58,Degree+,Canberra
-income,employement_status,age,education_level,location,risk
-127812,Unemployment,80,DNF High School Education,Brisbane
-income,employement_status,age,education_level,location,risk
-105432,Permenant Full Time,72,DNF High School Education,Sydney
-income,employement_status,age,education_level,location,risk
-83642,Casual/Part time,81,DNF High School Education,Adelaide
-income,employement_status,age,education_level,location,risk
-151624,Casual/Part time,71,DNF High School Education,Perth
-income,employement_status,age,education_level,location,risk
-138750,Permenant Full Time,36,High School/Diploma,Brisbane
-income,employement_status,age,education_level,location,risk
-185158,Permenant Full Time,77,DNF High School Education,Canberra
-income,employement_status,age,education_level,location,risk
-117115,Permenant Full Time,63,High School/Diploma,Melbourne
-income,employement_status,age,education_level,location,risk
-176872,Casual/Part time,80,DNF High School Education,Canberra
-income,employement_status,age,education_level,location,risk
-29127,Unemployment,50,Degree+,Melbourne
-income,employement_status,age,education_level,location,risk
-176443,Casual/Part time,45,DNF High School Education,Perth
-income,employement_status,age,education_level,location,risk
-121009,Unemployment,65,High School/Diploma,Canberra
-income,employement_status,age,education_level,location,risk
-135814,Unemployment,35,DNF High School Education,Perth
-income,employement_status,age,education_level,location,risk
-24569,Casual/Part time,64,Degree+,Melbourne
-income,employement_status,age,education_level,location,risk
-191187,Permenant Full Time,26,High School/Diploma,Melbourne
-income,employement_status,age,education_level,location,risk
-56539,Casual/Part time,36,DNF High School Education,Sydney
-income,employement_status,age,education_level,location,risk
-142845,Casual/Part time,41,DNF High School Education,Melbourne
-income,employement_status,age,education_level,location,risk
-80609,Casual/Part time,83,High School/Diploma,Sydney
-income,employement_status,age,education_level,location,risk
-77883,Casual/Part time,67,High School/Diploma,Sydney
-income,employement_status,age,education_level,location,risk
-99192,Permenant Full Time,16,DNF High School Education,Brisbane
-income,employement_status,age,education_level,location,risk
-100739,Unemployment,54,DNF High School Education,Canberra
-income,employement_status,age,education_level,location,risk
-178278,Unemployment,48,Degree+,Melbourne
-income,employement_status,age,education_level,location,risk
-199501,Unemployment,71,Degree+,Brisbane
-income,employement_status,age,education_level,location,risk
-82021,Permenant Full Time,71,High School/Diploma,Melbourne
-income,employement_status,age,education_level,location,risk
-15130,Permenant Full Time,44,High School/Diploma,Sydney
-income,employement_status,age,education_level,location,risk
-186563,Permenant Full Time,52,High School/Diploma,Melbourne
-income,employement_status,age,education_level,location,risk
-189465,Casual/Part time,67,High School/Diploma,Adelaide
-income,employement_status,age,education_level,location,risk
-147329,Permenant Full Time,83,Degree+,Brisbane
-income,employement_status,age,education_level,location,risk
-97301,Unemployment,43,Degree+,Brisbane
-income,employement_status,age,education_level,location,risk
-218,Casual/Part time,41,Degree+,Melbourne
-income,employement_status,age,education_level,location,risk
-134660,Unemployment,35,High School/Diploma,Melbourne
-income,employement_status,age,education_level,location,risk
-169703,Casual/Part time,29,High School/Diploma,Perth
-income,employement_status,age,education_level,location,risk
-39996,Casual/Part time,73,High School/Diploma,Perth
-income,employement_status,age,education_level,location,risk
-171196,Permenant Full Time,56,Degree+,Sydney
-income,employement_status,age,education_level,location,risk
-145610,Casual/Part time,78,High School/Diploma,Brisbane
-income,employement_status,age,education_level,location,risk
-79133,Permenant Full Time,42,Degree+,Canberra
-income,employement_status,age,education_level,location,risk
-141723,Unemployment,68,High School/Diploma,Adelaide
-income,employement_status,age,education_level,location,risk
-137393,Casual/Part time,23,DNF High School Education,Brisbane
-income,employement_status,age,education_level,location,risk
-158414,Unemployment,64,DNF High School Education,Perth
-income,employement_status,age,education_level,location,risk
-76096,Unemployment,74,High School/Diploma,Melbourne
-income,employement_status,age,education_level,location,risk
-142476,Unemployment,44,High School/Diploma,Melbourne
-income,employement_status,age,education_level,location,risk
-24015,Unemployment,78,DNF High School Education,Canberra
-income,employement_status,age,education_level,location,risk
-94379,Permenant Full Time,62,DNF High School Education,Canberra
-income,employement_status,age,education_level,location,risk
-131082,Permenant Full Time,49,DNF High School Education,Canberra
-income,employement_status,age,education_level,location,risk
-183813,Unemployment,43,DNF High School Education,Canberra
-income,employement_status,age,education_level,location,risk
-72075,Casual/Part time,65,Degree+,Sydney
-income,employement_status,age,education_level,location,risk
-33286,Unemployment,32,Degree+,Sydney
-income,employement_status,age,education_level,location,risk
-113015,Casual/Part time,35,DNF High School Education,Melbourne
-income,employement_status,age,education_level,location,risk
-186117,Unemployment,24,High School/Diploma,Brisbane
-income,employement_status,age,education_level,location,risk
-97001,Unemployment,68,DNF High School Education,Perth
-income,employement_status,age,education_level,location,risk
-179518,Unemployment,65,Degree+,Perth
-income,employement_status,age,education_level,location,risk
-126865,Permenant Full Time,81,High School/Diploma,Melbourne
-income,employement_status,age,education_level,location,risk
-15564,Casual/Part time,55,DNF High School Education,Adelaide
-income,employement_status,age,education_level,location,risk
-72692,Permenant Full Time,50,High School/Diploma,Perth
-income,employement_status,age,education_level,location,risk
-142445,Unemployment,24,DNF High School Education,Perth
-income,employement_status,age,education_level,location,risk
-174720,Permenant Full Time,72,High School/Diploma,Adelaide
-income,employement_status,age,education_level,location,risk
-129665,Permenant Full Time,69,Degree+,Sydney
-income,employement_status,age,education_level,location,risk
-188554,Permenant Full Time,80,Degree+,Canberra
-income,employement_status,age,education_level,location,risk
-91470,Permenant Full Time,23,DNF High School Education,Melbourne
-income,employement_status,age,education_level,location,risk
-162345,Casual/Part time,59,Degree+,Sydney
-income,employement_status,age,education_level,location,risk
-58726,Casual/Part time,60,Degree+,Adelaide
-income,employement_status,age,education_level,location,risk
-35279,Casual/Part time,16,DNF High School Education,Canberra
-income,employement_status,age,education_level,location,risk
-59040,Permenant Full Time,29,High School/Diploma,Adelaide
-income,employement_status,age,education_level,location,risk
-7236,Permenant Full Time,34,High School/Diploma,Canberra
-income,employement_status,age,education_level,location,risk
-7592,Casual/Part time,50,High School/Diploma,Sydney
-income,employement_status,age,education_level,location,risk
-95884,Casual/Part time,30,Degree+,Melbourne
-income,employement_status,age,education_level,location,risk
-64091,Permenant Full Time,72,High School/Diploma,Sydney
-income,employement_status,age,education_level,location,risk
-199963,Unemployment,20,High School/Diploma,Canberra
-income,employement_status,age,education_level,location,risk
-60678,Casual/Part time,29,High School/Diploma,Melbourne
-income,employement_status,age,education_level,location,risk
-113749,Casual/Part time,82,DNF High School Education,Sydney
-income,employement_status,age,education_level,location,risk
-116585,Permenant Full Time,57,Degree+,Perth
-income,employement_status,age,education_level,location,risk
-99858,Permenant Full Time,54,DNF High School Education,Canberra
-income,employement_status,age,education_level,location,risk
-106359,Casual/Part time,77,High School/Diploma,Melbourne
-income,employement_status,age,education_level,location,risk
-170832,Casual/Part time,51,Degree+,Adelaide
-income,employement_status,age,education_level,location,risk
-48973,Casual/Part time,54,Degree+,Perth
-income,employement_status,age,education_level,location,risk
-155085,Permenant Full Time,41,Degree+,Brisbane
-income,employement_status,age,education_level,location,risk
-150890,Permenant Full Time,31,DNF High School Education,Adelaide
-income,employement_status,age,education_level,location,risk
-88348,Permenant Full Time,59,Degree+,Adelaide
-income,employement_status,age,education_level,location,risk
-155394,Permenant Full Time,32,Degree+,Brisbane
-income,employement_status,age,education_level,location,risk
-53703,Permenant Full Time,82,High School/Diploma,Adelaide
-income,employement_status,age,education_level,location,risk
-135983,Casual/Part time,49,DNF High School Education,Brisbane
-income,employement_status,age,education_level,location,risk
-194542,Casual/Part time,26,Degree+,Adelaide
-income,employement_status,age,education_level,location,risk
-60441,Casual/Part time,31,High School/Diploma,Canberra
-income,employement_status,age,education_level,location,risk
-128505,Permenant Full Time,51,Degree+,Melbourne
-income,employement_status,age,education_level,location,risk
-141741,Unemployment,33,Degree+,Canberra
-income,employement_status,age,education_level,location,risk
-1890,Unemployment,32,Degree+,Melbourne
-income,employement_status,age,education_level,location,risk
-99653,Permenant Full Time,17,Degree+,Perth
-income,employement_status,age,education_level,location,risk
-158593,Casual/Part time,61,DNF High School Education,Perth
-income,employement_status,age,education_level,location,risk
-71671,Unemployment,26,High School/Diploma,Sydney
-income,employement_status,age,education_level,location,risk
-106156,Unemployment,31,DNF High School Education,Perth
-income,employement_status,age,education_level,location,risk
-76537,Casual/Part time,30,High School/Diploma,Perth
-income,employement_status,age,education_level,location,risk
-54676,Permenant Full Time,54,DNF High School Education,Canberra
-income,employement_status,age,education_level,location,risk
-184413,Permenant Full Time,60,Degree+,Adelaide
-income,employement_status,age,education_level,location,risk
-63574,Permenant Full Time,63,High School/Diploma,Sydney
-income,employement_status,age,education_level,location,risk
-164057,Permenant Full Time,69,DNF High School Education,Brisbane
-income,employement_status,age,education_level,location,risk
-126453,Casual/Part time,19,DNF High School Education,Perth
-income,employement_status,age,education_level,location,risk
-67322,Casual/Part time,48,High School/Diploma,Perth
-income,employement_status,age,education_level,location,risk
-84429,Unemployment,31,Degree+,Sydney
-income,employement_status,age,education_level,location,risk
-103246,Unemployment,20,High School/Diploma,Adelaide
-income,employement_status,age,education_level,location,risk
-103216,Casual/Part time,84,High School/Diploma,Brisbane
-income,employement_status,age,education_level,location,risk
-86306,Permenant Full Time,47,High School/Diploma,Perth
-income,employement_status,age,education_level,location,risk
-145878,Casual/Part time,35,DNF High School Education,Canberra
-income,employement_status,age,education_level,location,risk
-109657,Permenant Full Time,28,High School/Diploma,Canberra
-income,employement_status,age,education_level,location,risk
-2506,Permenant Full Time,43,High School/Diploma,Perth
-income,employement_status,age,education_level,location,risk
-183670,Permenant Full Time,30,DNF High School Education,Melbourne
-income,employement_status,age,education_level,location,risk
-10742,Casual/Part time,81,Degree+,Canberra
-income,employement_status,age,education_level,location,risk
-189993,Casual/Part time,60,High School/Diploma,Perth
-income,employement_status,age,education_level,location,risk
-88690,Casual/Part time,67,Degree+,Adelaide
-income,employement_status,age,education_level,location,risk
-23424,Casual/Part time,32,High School/Diploma,Canberra
-income,employement_status,age,education_level,location,risk
-163534,Casual/Part time,29,High School/Diploma,Brisbane
-income,employement_status,age,education_level,location,risk
-24550,Permenant Full Time,39,DNF High School Education,Melbourne
-income,employement_status,age,education_level,location,risk
-66970,Permenant Full Time,77,DNF High School Education,Melbourne
-income,employement_status,age,education_level,location,risk
-121138,Casual/Part time,24,Degree+,Perth
-income,employement_status,age,education_level,location,risk
-29616,Permenant Full Time,57,DNF High School Education,Canberra
-income,employement_status,age,education_level,location,risk
-170078,Unemployment,42,Degree+,Brisbane
-income,employement_status,age,education_level,location,risk
-81462,Unemployment,57,Degree+,Sydney
-income,employement_status,age,education_level,location,risk
-128999,Unemployment,60,High School/Diploma,Sydney
-income,employement_status,age,education_level,location,risk
-123739,Unemployment,84,DNF High School Education,Adelaide
-income,employement_status,age,education_level,location,risk
-63642,Casual/Part time,65,High School/Diploma,Melbourne
-income,employement_status,age,education_level,location,risk
-34604,Casual/Part time,77,High School/Diploma,Canberra
-income,employement_status,age,education_level,location,risk
-61992,Unemployment,67,High School/Diploma,Melbourne
-income,employement_status,age,education_level,location,risk
-42246,Casual/Part time,35,High School/Diploma,Brisbane
-income,employement_status,age,education_level,location,risk
-42250,Permenant Full Time,16,High School/Diploma,Melbourne
-income,employement_status,age,education_level,location,risk
-3022,Permenant Full Time,40,High School/Diploma,Melbourne
-income,employement_status,age,education_level,location,risk
-62068,Unemployment,84,DNF High School Education,Sydney
-income,employement_status,age,education_level,location,risk
-150965,Permenant Full Time,50,Degree+,Perth
-income,employement_status,age,education_level,location,risk
-19928,Permenant Full Time,66,DNF High School Education,Adelaide
-income,employement_status,age,education_level,location,risk
-28665,Unemployment,39,Degree+,Adelaide
-income,employement_status,age,education_level,location,risk
-47513,Casual/Part time,84,DNF High School Education,Brisbane
-income,employement_status,age,education_level,location,risk
-151523,Unemployment,54,High School/Diploma,Brisbane
-income,employement_status,age,education_level,location,risk
-45429,Unemployment,78,Degree+,Adelaide
-income,employement_status,age,education_level,location,risk
-89141,Permenant Full Time,71,DNF High School Education,Perth
-income,employement_status,age,education_level,location,risk
-102912,Unemployment,80,DNF High School Education,Sydney
-income,employement_status,age,education_level,location,risk
-156647,Unemployment,74,Degree+,Perth
-income,employement_status,age,education_level,location,risk
-130913,Permenant Full Time,35,DNF High School Education,Sydney
-income,employement_status,age,education_level,location,risk
-48920,Casual/Part time,24,High School/Diploma,Melbourne
-income,employement_status,age,education_level,location,risk
-12254,Unemployment,66,DNF High School Education,Adelaide
-income,employement_status,age,education_level,location,risk
-101000,Permenant Full Time,32,Degree+,Sydney
-income,employement_status,age,education_level,location,risk
-36354,Casual/Part time,31,High School/Diploma,Melbourne
-income,employement_status,age,education_level,location,risk
-170849,Permenant Full Time,48,DNF High School Education,Perth
-income,employement_status,age,education_level,location,risk
-116198,Unemployment,40,High School/Diploma,Canberra
-income,employement_status,age,education_level,location,risk
-110984,Unemployment,26,High School/Diploma,Canberra
-income,employement_status,age,education_level,location,risk
-74717,Permenant Full Time,84,DNF High School Education,Sydney
-income,employement_status,age,education_level,location,risk
-48363,Unemployment,85,High School/Diploma,Perth
-income,employement_status,age,education_level,location,risk
-15253,Permenant Full Time,79,Degree+,Adelaide
-income,employement_status,age,education_level,location,risk
-17360,Unemployment,84,Degree+,Canberra
-income,employement_status,age,education_level,location,risk
-21999,Unemployment,76,High School/Diploma,Perth
-income,employement_status,age,education_level,location,risk
-796,Permenant Full Time,26,High School/Diploma,Melbourne
-income,employement_status,age,education_level,location,risk
-196563,Permenant Full Time,18,High School/Diploma,Adelaide
-income,employement_status,age,education_level,location,risk
-24066,Permenant Full Time,85,Degree+,Sydney
-income,employement_status,age,education_level,location,risk
-135181,Unemployment,40,DNF High School Education,Adelaide
-income,employement_status,age,education_level,location,risk
-112278,Permenant Full Time,51,Degree+,Melbourne
-income,employement_status,age,education_level,location,risk
-132124,Permenant Full Time,31,High School/Diploma,Melbourne
-income,employement_status,age,education_level,location,risk
-158433,Casual/Part time,41,Degree+,Melbourne
-income,employement_status,age,education_level,location,risk
-43669,Unemployment,51,Degree+,Adelaide
-income,employement_status,age,education_level,location,risk
-116779,Permenant Full Time,85,High School/Diploma,Sydney
-income,employement_status,age,education_level,location,risk
-103260,Casual/Part time,74,DNF High School Education,Melbourne
-income,employement_status,age,education_level,location,risk
-71230,Casual/Part time,18,Degree+,Adelaide
-income,employement_status,age,education_level,location,risk
-169450,Permenant Full Time,49,High School/Diploma,Canberra
-income,employement_status,age,education_level,location,risk
-71207,Unemployment,59,High School/Diploma,Perth
-income,employement_status,age,education_level,location,risk
-101628,Unemployment,85,DNF High School Education,Brisbane
-income,employement_status,age,education_level,location,risk
-184256,Permenant Full Time,54,Degree+,Melbourne
-income,employement_status,age,education_level,location,risk
-46706,Unemployment,61,DNF High School Education,Sydney
-income,employement_status,age,education_level,location,risk
-18957,Unemployment,71,Degree+,Sydney
-income,employement_status,age,education_level,location,risk
-117088,Permenant Full Time,34,DNF High School Education,Adelaide
-income,employement_status,age,education_level,location,risk
-165773,Unemployment,28,High School/Diploma,Adelaide
-income,employement_status,age,education_level,location,risk
-149912,Unemployment,61,DNF High School Education,Brisbane
-income,employement_status,age,education_level,location,risk
-159166,Permenant Full Time,40,Degree+,Perth
-income,employement_status,age,education_level,location,risk
-195131,Casual/Part time,52,High School/Diploma,Perth
-income,employement_status,age,education_level,location,risk
-108386,Casual/Part time,81,High School/Diploma,Sydney
-income,employement_status,age,education_level,location,risk
-36046,Unemployment,50,DNF High School Education,Brisbane
-income,employement_status,age,education_level,location,risk
-51126,Permenant Full Time,40,High School/Diploma,Perth
-income,employement_status,age,education_level,location,risk
-40055,Casual/Part time,82,Degree+,Melbourne
-income,employement_status,age,education_level,location,risk
-2547,Casual/Part time,43,High School/Diploma,Melbourne
-income,employement_status,age,education_level,location,risk
-45402,Unemployment,51,Degree+,Adelaide
-income,employement_status,age,education_level,location,risk
-147154,Unemployment,73,High School/Diploma,Brisbane
-income,employement_status,age,education_level,location,risk
-188620,Unemployment,44,Degree+,Adelaide
-income,employement_status,age,education_level,location,risk
-22130,Permenant Full Time,27,Degree+,Sydney
-income,employement_status,age,education_level,location,risk
-65800,Unemployment,24,DNF High School Education,Sydney
-income,employement_status,age,education_level,location,risk
-181729,Permenant Full Time,77,DNF High School Education,Melbourne
-income,employement_status,age,education_level,location,risk
-8643,Casual/Part time,62,DNF High School Education,Canberra
-income,employement_status,age,education_level,location,risk
-86549,Casual/Part time,82,High School/Diploma,Brisbane
-income,employement_status,age,education_level,location,risk
-116664,Unemployment,54,Degree+,Perth
-income,employement_status,age,education_level,location,risk
-36030,Unemployment,28,Degree+,Adelaide
-income,employement_status,age,education_level,location,risk
-61301,Casual/Part time,18,DNF High School Education,Sydney
-income,employement_status,age,education_level,location,risk
-95344,Unemployment,34,High School/Diploma,Canberra
-income,employement_status,age,education_level,location,risk
-88921,Casual/Part time,66,Degree+,Canberra
-income,employement_status,age,education_level,location,risk
-64310,Permenant Full Time,36,DNF High School Education,Brisbane
-income,employement_status,age,education_level,location,risk
-74927,Unemployment,61,DNF High School Education,Adelaide
-income,employement_status,age,education_level,location,risk
-116703,Permenant Full Time,78,High School/Diploma,Sydney
-income,employement_status,age,education_level,location,risk
-13080,Permenant Full Time,45,High School/Diploma,Canberra
-income,employement_status,age,education_level,location,risk
-197394,Casual/Part time,18,Degree+,Adelaide
-income,employement_status,age,education_level,location,risk
-64624,Casual/Part time,35,High School/Diploma,Sydney
-income,employement_status,age,education_level,location,risk
-28115,Permenant Full Time,70,DNF High School Education,Sydney
-income,employement_status,age,education_level,location,risk
-197377,Permenant Full Time,73,DNF High School Education,Perth
-income,employement_status,age,education_level,location,risk
-146717,Unemployment,64,DNF High School Education,Brisbane
-income,employement_status,age,education_level,location,risk
-80230,Permenant Full Time,53,High School/Diploma,Brisbane
-income,employement_status,age,education_level,location,risk
-42999,Permenant Full Time,60,High School/Diploma,Perth
-income,employement_status,age,education_level,location,risk
-51044,Unemployment,19,High School/Diploma,Sydney
-income,employement_status,age,education_level,location,risk
-123445,Unemployment,29,High School/Diploma,Adelaide
-income,employement_status,age,education_level,location,risk
-319,Casual/Part time,19,DNF High School Education,Melbourne
-income,employement_status,age,education_level,location,risk
-5976,Unemployment,20,High School/Diploma,Brisbane
-income,employement_status,age,education_level,location,risk
-165248,Permenant Full Time,36,Degree+,Sydney
-income,employement_status,age,education_level,location,risk
-34836,Unemployment,51,DNF High School Education,Sydney
-income,employement_status,age,education_level,location,risk
-149814,Casual/Part time,46,DNF High School Education,Sydney
-income,employement_status,age,education_level,location,risk
-20556,Casual/Part time,37,DNF High School Education,Melbourne
-income,employement_status,age,education_level,location,risk
-88823,Permenant Full Time,54,Degree+,Melbourne
-income,employement_status,age,education_level,location,risk
-34713,Casual/Part time,80,Degree+,Perth
-income,employement_status,age,education_level,location,risk
-178271,Permenant Full Time,55,DNF High School Education,Adelaide
-income,employement_status,age,education_level,location,risk
-99206,Permenant Full Time,24,High School/Diploma,Sydney
-income,employement_status,age,education_level,location,risk
-141008,Unemployment,62,High School/Diploma,Melbourne
-income,employement_status,age,education_level,location,risk
-160282,Permenant Full Time,51,High School/Diploma,Brisbane
-income,employement_status,age,education_level,location,risk
-195834,Casual/Part time,62,DNF High School Education,Melbourne
-income,employement_status,age,education_level,location,risk
-91233,Permenant Full Time,47,Degree+,Canberra
-income,employement_status,age,education_level,location,risk
-156679,Casual/Part time,15,Degree+,Sydney
-income,employement_status,age,education_level,location,risk
-161557,Unemployment,28,Degree+,Brisbane
-income,employement_status,age,education_level,location,risk
-147445,Unemployment,63,Degree+,Adelaide
-income,employement_status,age,education_level,location,risk
-120899,Casual/Part time,37,Degree+,Canberra
-income,employement_status,age,education_level,location,risk
-168489,Unemployment,17,High School/Diploma,Melbourne
-income,employement_status,age,education_level,location,risk
-81066,Casual/Part time,53,DNF High School Education,Adelaide
-income,employement_status,age,education_level,location,risk
-118591,Permenant Full Time,34,High School/Diploma,Melbourne
-income,employement_status,age,education_level,location,risk
-49174,Permenant Full Time,49,Degree+,Melbourne
-income,employement_status,age,education_level,location,risk
-165331,Unemployment,67,High School/Diploma,Adelaide
-income,employement_status,age,education_level,location,risk
-10747,Permenant Full Time,72,Degree+,Brisbane
-income,employement_status,age,education_level,location,risk
-101227,Casual/Part time,27,DNF High School Education,Perth
-income,employement_status,age,education_level,location,risk
-173793,Casual/Part time,69,High School/Diploma,Brisbane
-income,employement_status,age,education_level,location,risk
-74965,Unemployment,71,Degree+,Canberra
-income,employement_status,age,education_level,location,risk
-171193,Unemployment,55,DNF High School Education,Perth
-income,employement_status,age,education_level,location,risk
-115735,Casual/Part time,77,Degree+,Adelaide
-income,employement_status,age,education_level,location,risk
-2969,Casual/Part time,19,DNF High School Education,Sydney
-income,employement_status,age,education_level,location,risk
-13090,Casual/Part time,32,Degree+,Melbourne
-income,employement_status,age,education_level,location,risk
-84278,Unemployment,19,Degree+,Sydney
-income,employement_status,age,education_level,location,risk
-84628,Unemployment,81,DNF High School Education,Melbourne
-income,employement_status,age,education_level,location,risk
-38107,Unemployment,58,High School/Diploma,Sydney
-income,employement_status,age,education_level,location,risk
-138183,Unemployment,26,High School/Diploma,Brisbane
-income,employement_status,age,education_level,location,risk
-144335,Unemployment,19,High School/Diploma,Perth
-income,employement_status,age,education_level,location,risk
-141789,Unemployment,82,Degree+,Perth
-income,employement_status,age,education_level,location,risk
-58346,Unemployment,21,High School/Diploma,Perth
-income,employement_status,age,education_level,location,risk
-141946,Permenant Full Time,55,Degree+,Adelaide
-income,employement_status,age,education_level,location,risk
-180920,Permenant Full Time,71,High School/Diploma,Canberra
-income,employement_status,age,education_level,location,risk
-7209,Unemployment,38,High School/Diploma,Canberra
-income,employement_status,age,education_level,location,risk
-199734,Unemployment,32,High School/Diploma,Canberra
-income,employement_status,age,education_level,location,risk
-58329,Unemployment,44,High School/Diploma,Canberra
-income,employement_status,age,education_level,location,risk
-57442,Permenant Full Time,39,DNF High School Education,Sydney
-income,employement_status,age,education_level,location,risk
-197606,Permenant Full Time,25,DNF High School Education,Perth
-income,employement_status,age,education_level,location,risk
-41905,Unemployment,46,DNF High School Education,Canberra
-income,employement_status,age,education_level,location,risk
-51334,Casual/Part time,79,DNF High School Education,Adelaide
-income,employement_status,age,education_level,location,risk
-45663,Permenant Full Time,67,DNF High School Education,Sydney
-income,employement_status,age,education_level,location,risk
-194354,Unemployment,71,High School/Diploma,Perth
-income,employement_status,age,education_level,location,risk
-136167,Unemployment,57,High School/Diploma,Canberra
-income,employement_status,age,education_level,location,risk
-150537,Permenant Full Time,44,Degree+,Sydney
-income,employement_status,age,education_level,location,risk
-10954,Permenant Full Time,16,High School/Diploma,Melbourne
-income,employement_status,age,education_level,location,risk
-58401,Permenant Full Time,26,High School/Diploma,Adelaide
-income,employement_status,age,education_level,location,risk
-45146,Unemployment,78,Degree+,Perth
-income,employement_status,age,education_level,location,risk
-72248,Unemployment,24,High School/Diploma,Perth
-income,employement_status,age,education_level,location,risk
-60159,Unemployment,42,DNF High School Education,Adelaide
-income,employement_status,age,education_level,location,risk
-124610,Unemployment,30,DNF High School Education,Adelaide
-income,employement_status,age,education_level,location,risk
-168070,Unemployment,35,DNF High School Education,Brisbane
-income,employement_status,age,education_level,location,risk
-11100,Casual/Part time,22,DNF High School Education,Perth
-income,employement_status,age,education_level,location,risk
-58154,Unemployment,49,Degree+,Canberra
-income,employement_status,age,education_level,location,risk
-175097,Casual/Part time,79,High School/Diploma,Brisbane
-income,employement_status,age,education_level,location,risk
-187722,Unemployment,52,DNF High School Education,Canberra
-income,employement_status,age,education_level,location,risk
-26629,Permenant Full Time,36,Degree+,Melbourne
-income,employement_status,age,education_level,location,risk
-34614,Unemployment,15,High School/Diploma,Adelaide
-income,employement_status,age,education_level,location,risk
-192234,Unemployment,34,Degree+,Canberra
-income,employement_status,age,education_level,location,risk
-41285,Unemployment,27,DNF High School Education,Adelaide
-income,employement_status,age,education_level,location,risk
-157977,Casual/Part time,64,High School/Diploma,Canberra
-income,employement_status,age,education_level,location,risk
-197092,Unemployment,65,High School/Diploma,Melbourne
-income,employement_status,age,education_level,location,risk
-94508,Unemployment,75,High School/Diploma,Perth
-income,employement_status,age,education_level,location,risk
-133630,Unemployment,33,DNF High School Education,Canberra
-income,employement_status,age,education_level,location,risk
-128751,Permenant Full Time,71,DNF High School Education,Canberra
-income,employement_status,age,education_level,location,risk
-115144,Permenant Full Time,63,Degree+,Brisbane
-income,employement_status,age,education_level,location,risk
-148901,Permenant Full Time,15,Degree+,Sydney
-income,employement_status,age,education_level,location,risk
-118195,Unemployment,70,DNF High School Education,Brisbane
-income,employement_status,age,education_level,location,risk
-195054,Casual/Part time,47,Degree+,Brisbane
-income,employement_status,age,education_level,location,risk
-168577,Unemployment,85,Degree+,Melbourne
-income,employement_status,age,education_level,location,risk
-12149,Unemployment,24,DNF High School Education,Melbourne
-income,employement_status,age,education_level,location,risk
-167614,Permenant Full Time,83,High School/Diploma,Adelaide
-income,employement_status,age,education_level,location,risk
-142875,Permenant Full Time,60,DNF High School Education,Perth
-income,employement_status,age,education_level,location,risk
-190574,Casual/Part time,49,DNF High School Education,Brisbane
-income,employement_status,age,education_level,location,risk
-10126,Permenant Full Time,41,Degree+,Melbourne
-income,employement_status,age,education_level,location,risk
-111173,Permenant Full Time,40,Degree+,Perth
-income,employement_status,age,education_level,location,risk
-126942,Permenant Full Time,64,High School/Diploma,Adelaide
-income,employement_status,age,education_level,location,risk
-125168,Permenant Full Time,32,High School/Diploma,Brisbane
-income,employement_status,age,education_level,location,risk
-104918,Permenant Full Time,59,High School/Diploma,Perth
-income,employement_status,age,education_level,location,risk
-123717,Casual/Part time,57,Degree+,Sydney
-income,employement_status,age,education_level,location,risk
-14523,Casual/Part time,19,DNF High School Education,Sydney
-income,employement_status,age,education_level,location,risk
-5065,Casual/Part time,29,Degree+,Brisbane
-income,employement_status,age,education_level,location,risk
-190118,Casual/Part time,77,High School/Diploma,Adelaide
-income,employement_status,age,education_level,location,risk
-106133,Permenant Full Time,35,Degree+,Melbourne
-income,employement_status,age,education_level,location,risk
-197955,Casual/Part time,67,High School/Diploma,Melbourne
-income,employement_status,age,education_level,location,risk
-127773,Unemployment,75,High School/Diploma,Brisbane
-income,employement_status,age,education_level,location,risk
-108388,Permenant Full Time,48,High School/Diploma,Melbourne
-income,employement_status,age,education_level,location,risk
-190452,Unemployment,81,Degree+,Perth
-income,employement_status,age,education_level,location,risk
-90462,Permenant Full Time,75,DNF High School Education,Perth
-income,employement_status,age,education_level,location,risk
-86231,Unemployment,76,DNF High School Education,Perth
-income,employement_status,age,education_level,location,risk
-26634,Permenant Full Time,75,Degree+,Adelaide
-income,employement_status,age,education_level,location,risk
-36846,Casual/Part time,36,DNF High School Education,Sydney
-income,employement_status,age,education_level,location,risk
-146585,Unemployment,39,DNF High School Education,Perth
-income,employement_status,age,education_level,location,risk
-108765,Permenant Full Time,67,DNF High School Education,Perth
-income,employement_status,age,education_level,location,risk
-50831,Casual/Part time,24,High School/Diploma,Adelaide
-income,employement_status,age,education_level,location,risk
-162618,Permenant Full Time,78,Degree+,Melbourne
-income,employement_status,age,education_level,location,risk
-1328,Permenant Full Time,55,High School/Diploma,Sydney
-income,employement_status,age,education_level,location,risk
-184083,Unemployment,56,High School/Diploma,Brisbane
-income,employement_status,age,education_level,location,risk
-175091,Unemployment,43,High School/Diploma,Perth
-income,employement_status,age,education_level,location,risk
-115277,Permenant Full Time,19,Degree+,Brisbane
-income,employement_status,age,education_level,location,risk
-52563,Permenant Full Time,31,High School/Diploma,Perth
-income,employement_status,age,education_level,location,risk
-6283,Casual/Part time,19,High School/Diploma,Melbourne
-income,employement_status,age,education_level,location,risk
-1464,Unemployment,61,Degree+,Sydney
-income,employement_status,age,education_level,location,risk
-74923,Casual/Part time,32,High School/Diploma,Canberra
-income,employement_status,age,education_level,location,risk
-85543,Permenant Full Time,38,Degree+,Melbourne
-income,employement_status,age,education_level,location,risk
-144428,Permenant Full Time,20,High School/Diploma,Adelaide
-income,employement_status,age,education_level,location,risk
-98273,Permenant Full Time,36,DNF High School Education,Canberra
-income,employement_status,age,education_level,location,risk
-149282,Permenant Full Time,63,Degree+,Canberra
-income,employement_status,age,education_level,location,risk
-145954,Unemployment,41,High School/Diploma,Adelaide
-income,employement_status,age,education_level,location,risk
-76813,Permenant Full Time,20,DNF High School Education,Brisbane
-income,employement_status,age,education_level,location,risk
-12414,Unemployment,74,High School/Diploma,Brisbane
-income,employement_status,age,education_level,location,risk
-32324,Permenant Full Time,53,Degree+,Adelaide
-income,employement_status,age,education_level,location,risk
-170501,Unemployment,60,High School/Diploma,Melbourne
-income,employement_status,age,education_level,location,risk
-20585,Casual/Part time,19,High School/Diploma,Sydney
-income,employement_status,age,education_level,location,risk
-16591,Permenant Full Time,22,High School/Diploma,Canberra
-income,employement_status,age,education_level,location,risk
-81951,Casual/Part time,53,DNF High School Education,Sydney
-income,employement_status,age,education_level,location,risk
-77491,Permenant Full Time,31,Degree+,Sydney
-income,employement_status,age,education_level,location,risk
-27278,Permenant Full Time,19,DNF High School Education,Adelaide
-income,employement_status,age,education_level,location,risk
-12231,Permenant Full Time,44,Degree+,Sydney
-income,employement_status,age,education_level,location,risk
-107928,Permenant Full Time,78,High School/Diploma,Melbourne
-income,employement_status,age,education_level,location,risk
-185902,Permenant Full Time,25,DNF High School Education,Perth
-income,employement_status,age,education_level,location,risk
-199600,Permenant Full Time,47,DNF High School Education,Adelaide
-income,employement_status,age,education_level,location,risk
-151817,Casual/Part time,77,Degree+,Adelaide
-income,employement_status,age,education_level,location,risk
-74621,Casual/Part time,42,High School/Diploma,Adelaide
-income,employement_status,age,education_level,location,risk
-88342,Casual/Part time,54,DNF High School Education,Melbourne
-income,employement_status,age,education_level,location,risk
-85439,Casual/Part time,32,Degree+,Melbourne
-income,employement_status,age,education_level,location,risk
-180726,Casual/Part time,18,Degree+,Canberra
-income,employement_status,age,education_level,location,risk
-120651,Unemployment,69,Degree+,Perth
-income,employement_status,age,education_level,location,risk
-109917,Casual/Part time,73,High School/Diploma,Sydney
-income,employement_status,age,education_level,location,risk
-26475,Casual/Part time,62,High School/Diploma,Perth
-income,employement_status,age,education_level,location,risk
-71225,Casual/Part time,70,High School/Diploma,Canberra
-income,employement_status,age,education_level,location,risk
-157383,Permenant Full Time,73,DNF High School Education,Melbourne
-income,employement_status,age,education_level,location,risk
-177601,Permenant Full Time,43,DNF High School Education,Brisbane
-income,employement_status,age,education_level,location,risk
-145173,Unemployment,82,High School/Diploma,Perth
-income,employement_status,age,education_level,location,risk
-53535,Casual/Part time,67,Degree+,Canberra
-income,employement_status,age,education_level,location,risk
-80570,Casual/Part time,84,DNF High School Education,Perth
-income,employement_status,age,education_level,location,risk
-38734,Unemployment,76,Degree+,Perth
-income,employement_status,age,education_level,location,risk
-90341,Casual/Part time,18,Degree+,Brisbane
-income,employement_status,age,education_level,location,risk
-24095,Casual/Part time,16,Degree+,Adelaide
-income,employement_status,age,education_level,location,risk
-169453,Casual/Part time,77,DNF High School Education,Sydney
-income,employement_status,age,education_level,location,risk
-10736,Permenant Full Time,42,Degree+,Brisbane
-income,employement_status,age,education_level,location,risk
-166328,Permenant Full Time,78,DNF High School Education,Melbourne
-income,employement_status,age,education_level,location,risk
-84783,Casual/Part time,22,DNF High School Education,Adelaide
-income,employement_status,age,education_level,location,risk
-120456,Permenant Full Time,82,DNF High School Education,Melbourne
-income,employement_status,age,education_level,location,risk
-147579,Permenant Full Time,50,High School/Diploma,Perth
-income,employement_status,age,education_level,location,risk
-138988,Permenant Full Time,75,High School/Diploma,Perth
-income,employement_status,age,education_level,location,risk
-159189,Unemployment,68,DNF High School Education,Canberra
-income,employement_status,age,education_level,location,risk
-164929,Casual/Part time,40,Degree+,Melbourne
-income,employement_status,age,education_level,location,risk
-113407,Unemployment,73,DNF High School Education,Sydney
-income,employement_status,age,education_level,location,risk
-180054,Casual/Part time,59,High School/Diploma,Canberra
-income,employement_status,age,education_level,location,risk
-199385,Permenant Full Time,46,DNF High School Education,Canberra
-income,employement_status,age,education_level,location,risk
-139289,Casual/Part time,43,High School/Diploma,Perth
-income,employement_status,age,education_level,location,risk
-149276,Permenant Full Time,54,DNF High School Education,Melbourne
-income,employement_status,age,education_level,location,risk
-171800,Permenant Full Time,50,DNF High School Education,Melbourne
-income,employement_status,age,education_level,location,risk
-179847,Permenant Full Time,58,DNF High School Education,Brisbane
-income,employement_status,age,education_level,location,risk
-58883,Casual/Part time,56,DNF High School Education,Melbourne
-income,employement_status,age,education_level,location,risk
-154183,Permenant Full Time,52,Degree+,Canberra
-income,employement_status,age,education_level,location,risk
-42727,Unemployment,71,DNF High School Education,Brisbane
-income,employement_status,age,education_level,location,risk
-88867,Unemployment,54,Degree+,Melbourne
-income,employement_status,age,education_level,location,risk
-80133,Permenant Full Time,49,DNF High School Education,Sydney
-income,employement_status,age,education_level,location,risk
-196099,Casual/Part time,36,Degree+,Canberra
-income,employement_status,age,education_level,location,risk
-60792,Casual/Part time,53,High School/Diploma,Adelaide
-income,employement_status,age,education_level,location,risk
-151433,Unemployment,17,Degree+,Canberra
-income,employement_status,age,education_level,location,risk
-138692,Permenant Full Time,36,Degree+,Melbourne
-income,employement_status,age,education_level,location,risk
-109,Permenant Full Time,27,DNF High School Education,Canberra
-income,employement_status,age,education_level,location,risk
-86500,Casual/Part time,23,Degree+,Adelaide
-income,employement_status,age,education_level,location,risk
-68172,Permenant Full Time,45,Degree+,Perth
-income,employement_status,age,education_level,location,risk
-83084,Unemployment,62,DNF High School Education,Brisbane
-income,employement_status,age,education_level,location,risk
-121841,Casual/Part time,35,Degree+,Sydney
-income,employement_status,age,education_level,location,risk
-53642,Permenant Full Time,39,DNF High School Education,Melbourne
-income,employement_status,age,education_level,location,risk
-82866,Casual/Part time,54,DNF High School Education,Brisbane
-income,employement_status,age,education_level,location,risk
-81404,Unemployment,63,DNF High School Education,Melbourne
-income,employement_status,age,education_level,location,risk
-163711,Casual/Part time,67,DNF High School Education,Brisbane
-income,employement_status,age,education_level,location,risk
-14858,Casual/Part time,17,High School/Diploma,Adelaide
-income,employement_status,age,education_level,location,risk
-148829,Casual/Part time,27,High School/Diploma,Perth
-income,employement_status,age,education_level,location,risk
-2525,Casual/Part time,33,DNF High School Education,Adelaide
-income,employement_status,age,education_level,location,risk
-114170,Permenant Full Time,65,Degree+,Perth
-income,employement_status,age,education_level,location,risk
-146270,Casual/Part time,24,Degree+,Perth
-income,employement_status,age,education_level,location,risk
-130364,Permenant Full Time,75,High School/Diploma,Perth
-income,employement_status,age,education_level,location,risk
-112987,Permenant Full Time,60,High School/Diploma,Canberra
-income,employement_status,age,education_level,location,risk
-76522,Unemployment,80,DNF High School Education,Canberra
-income,employement_status,age,education_level,location,risk
-126438,Unemployment,71,Degree+,Brisbane
-income,employement_status,age,education_level,location,risk
-74796,Casual/Part time,81,High School/Diploma,Brisbane
-income,employement_status,age,education_level,location,risk
-14657,Casual/Part time,80,High School/Diploma,Sydney
-income,employement_status,age,education_level,location,risk
-132665,Unemployment,27,DNF High School Education,Perth
-income,employement_status,age,education_level,location,risk
-189093,Unemployment,69,High School/Diploma,Brisbane
-income,employement_status,age,education_level,location,risk
-45247,Unemployment,32,Degree+,Canberra
-income,employement_status,age,education_level,location,risk
-131107,Permenant Full Time,65,Degree+,Melbourne
-income,employement_status,age,education_level,location,risk
-5668,Permenant Full Time,60,High School/Diploma,Canberra
-income,employement_status,age,education_level,location,risk
-118072,Unemployment,38,High School/Diploma,Canberra
-income,employement_status,age,education_level,location,risk
-12456,Casual/Part time,45,DNF High School Education,Brisbane
-income,employement_status,age,education_level,location,risk
-12119,Unemployment,18,DNF High School Education,Adelaide
-income,employement_status,age,education_level,location,risk
-77479,Casual/Part time,28,High School/Diploma,Melbourne
-income,employement_status,age,education_level,location,risk
-17449,Unemployment,49,Degree+,Sydney
-income,employement_status,age,education_level,location,risk
-189332,Unemployment,53,High School/Diploma,Canberra
-income,employement_status,age,education_level,location,risk
-52516,Casual/Part time,83,DNF High School Education,Perth
-income,employement_status,age,education_level,location,risk
-192095,Casual/Part time,28,High School/Diploma,Sydney
-income,employement_status,age,education_level,location,risk
-164399,Permenant Full Time,35,DNF High School Education,Brisbane
-income,employement_status,age,education_level,location,risk
-20248,Unemployment,50,DNF High School Education,Perth
-income,employement_status,age,education_level,location,risk
-78110,Casual/Part time,77,Degree+,Adelaide
-income,employement_status,age,education_level,location,risk
-166716,Permenant Full Time,31,DNF High School Education,Perth
-income,employement_status,age,education_level,location,risk
-75301,Casual/Part time,18,DNF High School Education,Adelaide
-income,employement_status,age,education_level,location,risk
-34799,Permenant Full Time,56,Degree+,Adelaide
-income,employement_status,age,education_level,location,risk
-155218,Unemployment,60,DNF High School Education,Brisbane
-income,employement_status,age,education_level,location,risk
-47879,Unemployment,22,DNF High School Education,Melbourne
-income,employement_status,age,education_level,location,risk
-4828,Casual/Part time,60,Degree+,Perth
-income,employement_status,age,education_level,location,risk
-80850,Permenant Full Time,42,High School/Diploma,Sydney
-income,employement_status,age,education_level,location,risk
-158539,Casual/Part time,62,High School/Diploma,Perth
-income,employement_status,age,education_level,location,risk
-93279,Casual/Part time,68,Degree+,Sydney
-income,employement_status,age,education_level,location,risk
-77631,Permenant Full Time,79,Degree+,Sydney
-income,employement_status,age,education_level,location,risk
-38353,Permenant Full Time,20,Degree+,Sydney
-income,employement_status,age,education_level,location,risk
-163422,Permenant Full Time,64,High School/Diploma,Brisbane
-income,employement_status,age,education_level,location,risk
-98991,Permenant Full Time,73,Degree+,Perth
-income,employement_status,age,education_level,location,risk
-182159,Casual/Part time,83,High School/Diploma,Sydney
-income,employement_status,age,education_level,location,risk
-196052,Unemployment,81,DNF High School Education,Perth
-income,employement_status,age,education_level,location,risk
-6366,Unemployment,18,Degree+,Brisbane
-income,employement_status,age,education_level,location,risk
-116367,Casual/Part time,73,Degree+,Melbourne
-income,employement_status,age,education_level,location,risk
-104927,Unemployment,24,High School/Diploma,Sydney
-income,employement_status,age,education_level,location,risk
-22648,Permenant Full Time,72,High School/Diploma,Brisbane
-income,employement_status,age,education_level,location,risk
-126195,Unemployment,71,DNF High School Education,Perth
-income,employement_status,age,education_level,location,risk
-177362,Permenant Full Time,18,Degree+,Adelaide
-income,employement_status,age,education_level,location,risk
-142475,Unemployment,72,High School/Diploma,Perth
-income,employement_status,age,education_level,location,risk
-46820,Permenant Full Time,63,High School/Diploma,Sydney
-income,employement_status,age,education_level,location,risk
-34388,Permenant Full Time,82,High School/Diploma,Adelaide
-income,employement_status,age,education_level,location,risk
-175522,Casual/Part time,59,DNF High School Education,Canberra
-income,employement_status,age,education_level,location,risk
-163804,Unemployment,38,DNF High School Education,Brisbane
-income,employement_status,age,education_level,location,risk
-106556,Unemployment,76,High School/Diploma,Adelaide
-income,employement_status,age,education_level,location,risk
-65807,Permenant Full Time,45,DNF High School Education,Melbourne
-income,employement_status,age,education_level,location,risk
-107412,Unemployment,63,DNF High School Education,Adelaide
-income,employement_status,age,education_level,location,risk
-151765,Permenant Full Time,33,DNF High School Education,Melbourne
-income,employement_status,age,education_level,location,risk
-193266,Permenant Full Time,31,High School/Diploma,Brisbane
-income,employement_status,age,education_level,location,risk
-39785,Permenant Full Time,21,DNF High School Education,Melbourne
-income,employement_status,age,education_level,location,risk
-137159,Permenant Full Time,21,DNF High School Education,Sydney
-income,employement_status,age,education_level,location,risk
-59465,Unemployment,45,High School/Diploma,Adelaide
-income,employement_status,age,education_level,location,risk
-92913,Permenant Full Time,70,DNF High School Education,Sydney
-income,employement_status,age,education_level,location,risk
-73162,Permenant Full Time,67,DNF High School Education,Sydney
-income,employement_status,age,education_level,location,risk
-141489,Casual/Part time,34,Degree+,Canberra
-income,employement_status,age,education_level,location,risk
-91114,Permenant Full Time,70,Degree+,Adelaide
-income,employement_status,age,education_level,location,risk
-141312,Unemployment,48,Degree+,Brisbane
-income,employement_status,age,education_level,location,risk
-51901,Permenant Full Time,20,Degree+,Canberra
-income,employement_status,age,education_level,location,risk
-114469,Permenant Full Time,29,Degree+,Melbourne
-income,employement_status,age,education_level,location,risk
-100987,Unemployment,70,Degree+,Perth
-income,employement_status,age,education_level,location,risk
-173884,Unemployment,39,High School/Diploma,Adelaide
-income,employement_status,age,education_level,location,risk
-107120,Casual/Part time,76,DNF High School Education,Sydney
-income,employement_status,age,education_level,location,risk
-111494,Unemployment,64,High School/Diploma,Perth
-income,employement_status,age,education_level,location,risk
-6265,Unemployment,49,Degree+,Melbourne
-income,employement_status,age,education_level,location,risk
-13734,Casual/Part time,50,High School/Diploma,Canberra
-income,employement_status,age,education_level,location,risk
-25873,Permenant Full Time,19,DNF High School Education,Canberra
-income,employement_status,age,education_level,location,risk
-19874,Permenant Full Time,59,DNF High School Education,Perth
-income,employement_status,age,education_level,location,risk
-149098,Casual/Part time,63,DNF High School Education,Sydney
-income,employement_status,age,education_level,location,risk
-94012,Unemployment,59,High School/Diploma,Canberra
-income,employement_status,age,education_level,location,risk
-179562,Casual/Part time,34,High School/Diploma,Sydney
-income,employement_status,age,education_level,location,risk
-129049,Casual/Part time,65,DNF High School Education,Brisbane
-income,employement_status,age,education_level,location,risk
-124717,Permenant Full Time,59,High School/Diploma,Sydney
-income,employement_status,age,education_level,location,risk
-127362,Permenant Full Time,18,Degree+,Brisbane
-income,employement_status,age,education_level,location,risk
-48814,Unemployment,76,Degree+,Melbourne
-income,employement_status,age,education_level,location,risk
-188571,Permenant Full Time,31,Degree+,Perth
-income,employement_status,age,education_level,location,risk
-179848,Permenant Full Time,75,High School/Diploma,Canberra
-income,employement_status,age,education_level,location,risk
-22401,Permenant Full Time,78,High School/Diploma,Brisbane
-income,employement_status,age,education_level,location,risk
-55020,Permenant Full Time,30,Degree+,Sydney
-income,employement_status,age,education_level,location,risk
-138041,Unemployment,43,DNF High School Education,Canberra
-income,employement_status,age,education_level,location,risk
-39095,Casual/Part time,39,High School/Diploma,Sydney
-income,employement_status,age,education_level,location,risk
-120761,Unemployment,81,High School/Diploma,Adelaide
-income,employement_status,age,education_level,location,risk
-119981,Casual/Part time,51,DNF High School Education,Perth
-income,employement_status,age,education_level,location,risk
-83519,Unemployment,26,Degree+,Sydney
-income,employement_status,age,education_level,location,risk
-160097,Casual/Part time,74,High School/Diploma,Canberra
-income,employement_status,age,education_level,location,risk
-158177,Permenant Full Time,53,High School/Diploma,Adelaide
-income,employement_status,age,education_level,location,risk
-59553,Unemployment,49,High School/Diploma,Perth
-income,employement_status,age,education_level,location,risk
-32832,Permenant Full Time,79,Degree+,Canberra
-income,employement_status,age,education_level,location,risk
-165428,Unemployment,19,DNF High School Education,Canberra
-income,employement_status,age,education_level,location,risk
-186022,Casual/Part time,44,High School/Diploma,Perth
-income,employement_status,age,education_level,location,risk
-178161,Permenant Full Time,37,DNF High School Education,Sydney
-income,employement_status,age,education_level,location,risk
-160400,Permenant Full Time,79,DNF High School Education,Melbourne
-income,employement_status,age,education_level,location,risk
-37038,Unemployment,84,DNF High School Education,Melbourne
-income,employement_status,age,education_level,location,risk
-170920,Casual/Part time,75,DNF High School Education,Perth
-income,employement_status,age,education_level,location,risk
-196637,Casual/Part time,70,High School/Diploma,Melbourne
-income,employement_status,age,education_level,location,risk
-164957,Permenant Full Time,71,DNF High School Education,Canberra
-income,employement_status,age,education_level,location,risk
-33587,Unemployment,38,Degree+,Melbourne
-income,employement_status,age,education_level,location,risk
-1917,Permenant Full Time,43,DNF High School Education,Brisbane
-income,employement_status,age,education_level,location,risk
-49654,Permenant Full Time,77,High School/Diploma,Adelaide
-income,employement_status,age,education_level,location,risk
-46007,Casual/Part time,54,DNF High School Education,Melbourne
-income,employement_status,age,education_level,location,risk
-121184,Unemployment,25,Degree+,Canberra
-income,employement_status,age,education_level,location,risk
-177741,Casual/Part time,42,Degree+,Brisbane
-income,employement_status,age,education_level,location,risk
-140735,Permenant Full Time,42,DNF High School Education,Canberra
-income,employement_status,age,education_level,location,risk
-59948,Permenant Full Time,67,High School/Diploma,Sydney
-income,employement_status,age,education_level,location,risk
-108487,Casual/Part time,82,Degree+,Sydney
-income,employement_status,age,education_level,location,risk
-27900,Casual/Part time,58,DNF High School Education,Brisbane
-income,employement_status,age,education_level,location,risk
-134878,Casual/Part time,38,High School/Diploma,Perth
-income,employement_status,age,education_level,location,risk
-44374,Permenant Full Time,61,High School/Diploma,Perth
-income,employement_status,age,education_level,location,risk
-51693,Casual/Part time,55,Degree+,Canberra
-income,employement_status,age,education_level,location,risk
-11127,Unemployment,51,High School/Diploma,Perth
-income,employement_status,age,education_level,location,risk
-121111,Unemployment,43,DNF High School Education,Sydney
-income,employement_status,age,education_level,location,risk
-145697,Casual/Part time,29,High School/Diploma,Melbourne
-income,employement_status,age,education_level,location,risk
-22730,Permenant Full Time,70,DNF High School Education,Adelaide
-income,employement_status,age,education_level,location,risk
-59008,Permenant Full Time,67,DNF High School Education,Canberra
-income,employement_status,age,education_level,location,risk
-12994,Permenant Full Time,46,High School/Diploma,Melbourne
-income,employement_status,age,education_level,location,risk
-138952,Casual/Part time,27,High School/Diploma,Sydney
-income,employement_status,age,education_level,location,risk
-183532,Permenant Full Time,30,Degree+,Brisbane
-income,employement_status,age,education_level,location,risk
-1886,Permenant Full Time,22,DNF High School Education,Melbourne
-income,employement_status,age,education_level,location,risk
-81754,Unemployment,81,Degree+,Melbourne
-income,employement_status,age,education_level,location,risk
-32193,Casual/Part time,70,DNF High School Education,Brisbane
-income,employement_status,age,education_level,location,risk
-73459,Unemployment,24,Degree+,Canberra
-income,employement_status,age,education_level,location,risk
-111471,Permenant Full Time,30,High School/Diploma,Sydney
-income,employement_status,age,education_level,location,risk
-178310,Unemployment,30,High School/Diploma,Brisbane
-income,employement_status,age,education_level,location,risk
-127338,Permenant Full Time,78,Degree+,Adelaide
-income,employement_status,age,education_level,location,risk
-86611,Casual/Part time,79,Degree+,Sydney
-income,employement_status,age,education_level,location,risk
-14832,Permenant Full Time,40,Degree+,Adelaide
-income,employement_status,age,education_level,location,risk
-175863,Unemployment,35,High School/Diploma,Canberra
-income,employement_status,age,education_level,location,risk
-169460,Permenant Full Time,59,DNF High School Education,Brisbane
-income,employement_status,age,education_level,location,risk
-876,Casual/Part time,56,High School/Diploma,Perth
-income,employement_status,age,education_level,location,risk
-58859,Casual/Part time,35,DNF High School Education,Perth
-income,employement_status,age,education_level,location,risk
-51988,Casual/Part time,38,DNF High School Education,Sydney
-income,employement_status,age,education_level,location,risk
-127070,Unemployment,26,High School/Diploma,Sydney
-income,employement_status,age,education_level,location,risk
-63801,Casual/Part time,24,High School/Diploma,Sydney
-income,employement_status,age,education_level,location,risk
-65249,Unemployment,35,DNF High School Education,Adelaide
-income,employement_status,age,education_level,location,risk
-90112,Unemployment,61,DNF High School Education,Canberra
-income,employement_status,age,education_level,location,risk
-164488,Unemployment,75,High School/Diploma,Melbourne
-income,employement_status,age,education_level,location,risk
-183626,Permenant Full Time,49,High School/Diploma,Melbourne
-income,employement_status,age,education_level,location,risk
-126587,Casual/Part time,70,Degree+,Sydney
-income,employement_status,age,education_level,location,risk
-110140,Casual/Part time,29,Degree+,Adelaide
-income,employement_status,age,education_level,location,risk
-176120,Permenant Full Time,59,High School/Diploma,Adelaide
-income,employement_status,age,education_level,location,risk
-19816,Unemployment,26,DNF High School Education,Sydney
-income,employement_status,age,education_level,location,risk
-37002,Permenant Full Time,25,Degree+,Perth
-income,employement_status,age,education_level,location,risk
-113616,Unemployment,73,Degree+,Sydney
-income,employement_status,age,education_level,location,risk
-126153,Casual/Part time,34,High School/Diploma,Melbourne
-income,employement_status,age,education_level,location,risk
-130281,Permenant Full Time,80,DNF High School Education,Perth
-income,employement_status,age,education_level,location,risk
-175962,Permenant Full Time,57,DNF High School Education,Canberra
-income,employement_status,age,education_level,location,risk
-140757,Permenant Full Time,47,High School/Diploma,Sydney
-income,employement_status,age,education_level,location,risk
-114733,Casual/Part time,55,DNF High School Education,Adelaide
-income,employement_status,age,education_level,location,risk
-12779,Permenant Full Time,45,DNF High School Education,Canberra
-income,employement_status,age,education_level,location,risk
-141474,Unemployment,65,DNF High School Education,Sydney
-income,employement_status,age,education_level,location,risk
-23494,Casual/Part time,78,DNF High School Education,Brisbane
-income,employement_status,age,education_level,location,risk
-83828,Permenant Full Time,30,DNF High School Education,Brisbane
-income,employement_status,age,education_level,location,risk
-132071,Permenant Full Time,40,DNF High School Education,Perth
-income,employement_status,age,education_level,location,risk
-114185,Unemployment,44,High School/Diploma,Adelaide
-income,employement_status,age,education_level,location,risk
-97448,Casual/Part time,62,DNF High School Education,Adelaide
-income,employement_status,age,education_level,location,risk
-8130,Casual/Part time,77,High School/Diploma,Canberra
-income,employement_status,age,education_level,location,risk
-82308,Permenant Full Time,39,Degree+,Perth
-income,employement_status,age,education_level,location,risk
-105606,Casual/Part time,63,High School/Diploma,Brisbane
-income,employement_status,age,education_level,location,risk
-651,Unemployment,24,High School/Diploma,Canberra
-income,employement_status,age,education_level,location,risk
-189362,Permenant Full Time,35,Degree+,Adelaide
-income,employement_status,age,education_level,location,risk
-97562,Unemployment,36,Degree+,Canberra
-income,employement_status,age,education_level,location,risk
-11827,Casual/Part time,66,Degree+,Perth
-income,employement_status,age,education_level,location,risk
-196142,Unemployment,82,DNF High School Education,Canberra
-income,employement_status,age,education_level,location,risk
-195229,Casual/Part time,61,Degree+,Sydney
-income,employement_status,age,education_level,location,risk
-108038,Permenant Full Time,46,DNF High School Education,Sydney
-income,employement_status,age,education_level,location,risk
-75000,Unemployment,55,Degree+,Melbourne
-income,employement_status,age,education_level,location,risk
-84714,Unemployment,28,High School/Diploma,Brisbane
-income,employement_status,age,education_level,location,risk
-86308,Casual/Part time,21,DNF High School Education,Perth
-income,employement_status,age,education_level,location,risk
-167532,Unemployment,57,DNF High School Education,Canberra
-income,employement_status,age,education_level,location,risk
-5987,Casual/Part time,56,Degree+,Brisbane
-income,employement_status,age,education_level,location,risk
-47021,Unemployment,79,High School/Diploma,Adelaide
-income,employement_status,age,education_level,location,risk
-72884,Casual/Part time,35,High School/Diploma,Sydney
-income,employement_status,age,education_level,location,risk
-170421,Casual/Part time,59,High School/Diploma,Perth
-income,employement_status,age,education_level,location,risk
-33864,Permenant Full Time,51,High School/Diploma,Melbourne
-income,employement_status,age,education_level,location,risk
-20299,Casual/Part time,32,DNF High School Education,Adelaide
-income,employement_status,age,education_level,location,risk
-122031,Permenant Full Time,33,Degree+,Perth
-income,employement_status,age,education_level,location,risk
-108992,Permenant Full Time,20,Degree+,Canberra
-income,employement_status,age,education_level,location,risk
-177062,Unemployment,66,High School/Diploma,Melbourne
-income,employement_status,age,education_level,location,risk
-113277,Unemployment,27,Degree+,Melbourne
-income,employement_status,age,education_level,location,risk
-66210,Unemployment,19,Degree+,Melbourne
-income,employement_status,age,education_level,location,risk
-140430,Casual/Part time,49,DNF High School Education,Perth
-income,employement_status,age,education_level,location,risk
-38937,Unemployment,32,High School/Diploma,Perth
-income,employement_status,age,education_level,location,risk
-59291,Casual/Part time,24,DNF High School Education,Melbourne
-income,employement_status,age,education_level,location,risk
-68367,Unemployment,38,High School/Diploma,Perth
-income,employement_status,age,education_level,location,risk
-32225,Unemployment,84,DNF High School Education,Adelaide
-income,employement_status,age,education_level,location,risk
-177130,Unemployment,28,High School/Diploma,Adelaide
-income,employement_status,age,education_level,location,risk
-129962,Unemployment,72,DNF High School Education,Canberra
-income,employement_status,age,education_level,location,risk
-156696,Unemployment,46,DNF High School Education,Canberra
-income,employement_status,age,education_level,location,risk
-24506,Casual/Part time,62,Degree+,Canberra
-income,employement_status,age,education_level,location,risk
-165834,Unemployment,76,Degree+,Brisbane
-income,employement_status,age,education_level,location,risk
-176781,Casual/Part time,57,High School/Diploma,Canberra
-income,employement_status,age,education_level,location,risk
-139427,Unemployment,46,High School/Diploma,Sydney
-income,employement_status,age,education_level,location,risk
-38155,Permenant Full Time,71,Degree+,Perth
-income,employement_status,age,education_level,location,risk
-178342,Permenant Full Time,57,Degree+,Adelaide
-income,employement_status,age,education_level,location,risk
-111732,Permenant Full Time,44,DNF High School Education,Adelaide
-income,employement_status,age,education_level,location,risk
-183730,Unemployment,24,DNF High School Education,Adelaide
-income,employement_status,age,education_level,location,risk
-171888,Casual/Part time,17,Degree+,Melbourne
-income,employement_status,age,education_level,location,risk
-38887,Unemployment,85,High School/Diploma,Adelaide
-income,employement_status,age,education_level,location,risk
-153160,Unemployment,47,High School/Diploma,Melbourne
-income,employement_status,age,education_level,location,risk
-1712,Unemployment,76,Degree+,Perth
-income,employement_status,age,education_level,location,risk
-99673,Casual/Part time,30,Degree+,Canberra
-income,employement_status,age,education_level,location,risk
-176926,Casual/Part time,81,Degree+,Melbourne
-income,employement_status,age,education_level,location,risk
-59248,Permenant Full Time,67,High School/Diploma,Melbourne
-income,employement_status,age,education_level,location,risk
-180310,Casual/Part time,24,High School/Diploma,Sydney
-income,employement_status,age,education_level,location,risk
-155433,Permenant Full Time,21,Degree+,Melbourne
-income,employement_status,age,education_level,location,risk
-159893,Unemployment,31,DNF High School Education,Melbourne
-income,employement_status,age,education_level,location,risk
-149695,Permenant Full Time,55,DNF High School Education,Melbourne
-income,employement_status,age,education_level,location,risk
-194576,Permenant Full Time,26,High School/Diploma,Perth
-income,employement_status,age,education_level,location,risk
-19067,Permenant Full Time,26,Degree+,Adelaide
-income,employement_status,age,education_level,location,risk
-53759,Unemployment,72,High School/Diploma,Adelaide
-income,employement_status,age,education_level,location,risk
-83996,Permenant Full Time,37,DNF High School Education,Sydney
-income,employement_status,age,education_level,location,risk
-24738,Permenant Full Time,76,High School/Diploma,Adelaide
-income,employement_status,age,education_level,location,risk
-166386,Unemployment,60,DNF High School Education,Adelaide
-income,employement_status,age,education_level,location,risk
-115244,Casual/Part time,41,High School/Diploma,Melbourne
-income,employement_status,age,education_level,location,risk
-193227,Unemployment,80,Degree+,Perth
-income,employement_status,age,education_level,location,risk
-7996,Unemployment,56,DNF High School Education,Brisbane
-income,employement_status,age,education_level,location,risk
-69554,Unemployment,18,High School/Diploma,Adelaide
-income,employement_status,age,education_level,location,risk
-6042,Permenant Full Time,16,Degree+,Sydney
-income,employement_status,age,education_level,location,risk
-125858,Permenant Full Time,72,Degree+,Canberra
+140108,Permenant Full Time,57,DNF High School Education,Brisbane
+36298,Casual/Part time,64,High School/Diploma,Adelaide
+1831,Casual/Part time,75,Degree+,Canberra
+51660,Permenant Full Time,69,High School/Diploma,Brisbane
+182384,Unemployment,16,DNF High School Education,Perth
+183261,Casual/Part time,82,DNF High School Education,Sydney
+86280,Unemployment,22,DNF High School Education,Melbourne
+22009,Permenant Full Time,28,Degree+,Brisbane
+41346,Permenant Full Time,68,DNF High School Education,Canberra
+57390,Casual/Part time,15,DNF High School Education,Adelaide
+71365,Casual/Part time,70,High School/Diploma,Adelaide
+124183,Permenant Full Time,44,DNF High School Education,Canberra
+189993,Unemployment,25,Degree+,Perth
+154792,Permenant Full Time,78,Degree+,Brisbane
+164046,Permenant Full Time,37,Degree+,Adelaide
+80216,Permenant Full Time,18,High School/Diploma,Canberra
+164520,Unemployment,36,High School/Diploma,Sydney
+179496,Unemployment,23,DNF High School Education,Brisbane
+117796,Unemployment,38,High School/Diploma,Brisbane
+7514,Casual/Part time,80,High School/Diploma,Melbourne
+25048,Casual/Part time,26,Degree+,Melbourne
+83301,Permenant Full Time,32,Degree+,Canberra
+118544,Permenant Full Time,79,DNF High School Education,Sydney
+43044,Unemployment,59,DNF High School Education,Melbourne
+13918,Permenant Full Time,20,DNF High School Education,Sydney
+48635,Unemployment,79,Degree+,Canberra
+167450,Unemployment,21,High School/Diploma,Canberra
+83340,Unemployment,48,Degree+,Perth
+187157,Casual/Part time,80,DNF High School Education,Adelaide
+158813,Casual/Part time,50,High School/Diploma,Canberra
+38840,Casual/Part time,57,Degree+,Canberra
+32504,Casual/Part time,69,DNF High School Education,Canberra
+91959,Permenant Full Time,84,DNF High School Education,Perth
+17340,Casual/Part time,41,High School/Diploma,Canberra
+122307,Casual/Part time,83,DNF High School Education,Sydney
+143298,Unemployment,62,High School/Diploma,Perth
+69704,Unemployment,62,Degree+,Perth
+157120,Unemployment,63,DNF High School Education,Perth
+14800,Casual/Part time,80,High School/Diploma,Adelaide
+135896,Casual/Part time,40,Degree+,Sydney
+117232,Permenant Full Time,17,Degree+,Canberra
+160379,Unemployment,51,High School/Diploma,Sydney
+105922,Unemployment,16,Degree+,Melbourne
+192647,Permenant Full Time,33,High School/Diploma,Sydney
+130061,Permenant Full Time,62,Degree+,Perth
+157142,Unemployment,63,Degree+,Canberra
+99222,Casual/Part time,78,DNF High School Education,Melbourne
+58454,Casual/Part time,79,Degree+,Brisbane
+172430,Permenant Full Time,18,DNF High School Education,Adelaide
+2694,Unemployment,52,High School/Diploma,Adelaide
+5292,Casual/Part time,44,Degree+,Canberra
+129982,Unemployment,40,High School/Diploma,Brisbane
+64179,Casual/Part time,61,DNF High School Education,Adelaide
+79223,Casual/Part time,37,High School/Diploma,Canberra
+166900,Unemployment,64,Degree+,Adelaide
+91548,Permenant Full Time,34,DNF High School Education,Brisbane
+176249,Unemployment,74,DNF High School Education,Brisbane
+93684,Casual/Part time,58,DNF High School Education,Adelaide
+140133,Casual/Part time,77,High School/Diploma,Canberra
+151222,Permenant Full Time,63,High School/Diploma,Perth
+192117,Permenant Full Time,38,Degree+,Sydney
+10213,Unemployment,53,Degree+,Brisbane
+42787,Permenant Full Time,23,DNF High School Education,Perth
+17927,Casual/Part time,56,Degree+,Brisbane
+70335,Casual/Part time,75,High School/Diploma,Brisbane
+29495,Unemployment,63,Degree+,Sydney
+32682,Casual/Part time,75,High School/Diploma,Brisbane
+129810,Casual/Part time,71,DNF High School Education,Adelaide
+99673,Casual/Part time,34,DNF High School Education,Adelaide
+98574,Permenant Full Time,77,Degree+,Melbourne
+73698,Unemployment,52,Degree+,Melbourne
+85947,Permenant Full Time,43,High School/Diploma,Sydney
+39132,Unemployment,24,Degree+,Brisbane
+131387,Unemployment,63,Degree+,Canberra
+83359,Casual/Part time,34,High School/Diploma,Brisbane
+41007,Permenant Full Time,82,Degree+,Perth
+14042,Permenant Full Time,58,High School/Diploma,Adelaide
+123220,Permenant Full Time,20,Degree+,Perth
+158309,Permenant Full Time,41,High School/Diploma,Adelaide
+66050,Permenant Full Time,83,High School/Diploma,Perth
+165709,Unemployment,61,DNF High School Education,Perth
+129237,Unemployment,56,Degree+,Brisbane
+67524,Casual/Part time,67,Degree+,Melbourne
+54392,Permenant Full Time,46,Degree+,Sydney
+47115,Permenant Full Time,43,DNF High School Education,Canberra
+100513,Unemployment,27,Degree+,Melbourne
+142563,Permenant Full Time,82,DNF High School Education,Perth
+166113,Unemployment,84,High School/Diploma,Melbourne
+153579,Unemployment,68,Degree+,Perth
+23464,Permenant Full Time,64,High School/Diploma,Brisbane
+5601,Unemployment,51,High School/Diploma,Sydney
+120404,Unemployment,55,DNF High School Education,Perth
+10541,Permenant Full Time,67,High School/Diploma,Sydney
+105784,Unemployment,67,Degree+,Melbourne
+166219,Permenant Full Time,38,DNF High School Education,Canberra
+167574,Unemployment,50,Degree+,Canberra
+23317,Unemployment,44,Degree+,Melbourne
+66500,Unemployment,63,DNF High School Education,Canberra
+151219,Unemployment,49,High School/Diploma,Melbourne
+60828,Casual/Part time,69,High School/Diploma,Brisbane
+148776,Unemployment,38,Degree+,Melbourne
+75541,Casual/Part time,49,High School/Diploma,Brisbane
+179315,Unemployment,59,DNF High School Education,Brisbane
+10860,Casual/Part time,23,High School/Diploma,Canberra
+11953,Casual/Part time,34,Degree+,Sydney
+174151,Casual/Part time,57,High School/Diploma,Melbourne
+84606,Permenant Full Time,81,DNF High School Education,Canberra
+51588,Permenant Full Time,38,DNF High School Education,Sydney
+186918,Unemployment,38,Degree+,Melbourne
+12473,Casual/Part time,64,High School/Diploma,Canberra
+141836,Unemployment,81,High School/Diploma,Perth
+76775,Unemployment,24,High School/Diploma,Brisbane
+18328,Unemployment,33,DNF High School Education,Perth
+133979,Permenant Full Time,30,High School/Diploma,Canberra
+162227,Unemployment,76,DNF High School Education,Canberra
+178007,Casual/Part time,44,High School/Diploma,Brisbane
+106033,Unemployment,15,Degree+,Brisbane
+192303,Permenant Full Time,15,High School/Diploma,Perth
+116019,Unemployment,80,DNF High School Education,Melbourne
+144248,Casual/Part time,52,High School/Diploma,Adelaide
+32823,Casual/Part time,37,DNF High School Education,Brisbane
+149046,Casual/Part time,42,DNF High School Education,Canberra
+106476,Unemployment,21,DNF High School Education,Melbourne
+26416,Unemployment,39,DNF High School Education,Melbourne
+166921,Unemployment,58,High School/Diploma,Brisbane
+22374,Casual/Part time,68,Degree+,Adelaide
+171723,Casual/Part time,28,High School/Diploma,Sydney
+56051,Casual/Part time,85,High School/Diploma,Canberra
+2681,Permenant Full Time,79,High School/Diploma,Sydney
+110924,Unemployment,45,Degree+,Canberra
+186525,Permenant Full Time,17,Degree+,Brisbane
+28365,Unemployment,34,DNF High School Education,Melbourne
+19628,Permenant Full Time,28,DNF High School Education,Sydney
+196960,Permenant Full Time,34,DNF High School Education,Brisbane
+180204,Casual/Part time,82,DNF High School Education,Perth
+19530,Permenant Full Time,24,DNF High School Education,Adelaide
+54219,Permenant Full Time,71,High School/Diploma,Melbourne
+66306,Permenant Full Time,50,High School/Diploma,Adelaide
+25005,Unemployment,38,DNF High School Education,Adelaide
+83797,Unemployment,62,Degree+,Brisbane
+184428,Permenant Full Time,16,Degree+,Brisbane
+11046,Casual/Part time,31,High School/Diploma,Adelaide
+166340,Unemployment,29,High School/Diploma,Canberra
+34612,Casual/Part time,85,Degree+,Sydney
+13757,Permenant Full Time,82,DNF High School Education,Brisbane
+195058,Permenant Full Time,67,High School/Diploma,Brisbane
+101224,Unemployment,52,DNF High School Education,Perth
+102821,Casual/Part time,47,High School/Diploma,Melbourne
+47595,Permenant Full Time,60,High School/Diploma,Melbourne
+20328,Unemployment,27,DNF High School Education,Adelaide
+1349,Casual/Part time,64,DNF High School Education,Perth
+148292,Unemployment,25,DNF High School Education,Perth
+115085,Permenant Full Time,52,High School/Diploma,Adelaide
+169429,Casual/Part time,28,High School/Diploma,Canberra
+98529,Permenant Full Time,45,DNF High School Education,Canberra
+165435,Unemployment,60,Degree+,Adelaide
+31885,Permenant Full Time,75,DNF High School Education,Perth
+129601,Casual/Part time,44,DNF High School Education,Melbourne
+44258,Casual/Part time,23,DNF High School Education,Sydney
+35733,Unemployment,64,DNF High School Education,Canberra
+89560,Unemployment,29,DNF High School Education,Canberra
+96258,Unemployment,70,DNF High School Education,Canberra
+84509,Permenant Full Time,60,DNF High School Education,Brisbane
+43673,Unemployment,30,Degree+,Sydney
+192640,Unemployment,40,High School/Diploma,Melbourne
+6079,Casual/Part time,47,DNF High School Education,Melbourne
+184048,Casual/Part time,22,Degree+,Brisbane
+185825,Casual/Part time,31,Degree+,Adelaide
+157291,Permenant Full Time,39,DNF High School Education,Adelaide
+41258,Permenant Full Time,67,Degree+,Adelaide
+11294,Unemployment,52,DNF High School Education,Sydney
+36046,Unemployment,74,DNF High School Education,Canberra
+148732,Casual/Part time,70,Degree+,Brisbane
+194158,Casual/Part time,56,High School/Diploma,Sydney
+97499,Casual/Part time,46,High School/Diploma,Melbourne
+117206,Permenant Full Time,82,High School/Diploma,Perth
+106241,Permenant Full Time,35,High School/Diploma,Sydney
+35032,Unemployment,85,DNF High School Education,Perth
+192795,Casual/Part time,20,DNF High School Education,Melbourne
+160422,Casual/Part time,76,High School/Diploma,Perth
+155969,Unemployment,61,High School/Diploma,Brisbane
+21901,Unemployment,56,DNF High School Education,Melbourne
+52488,Casual/Part time,38,High School/Diploma,Adelaide
+66140,Unemployment,69,Degree+,Adelaide
+101853,Unemployment,84,Degree+,Brisbane
+141951,Permenant Full Time,82,DNF High School Education,Melbourne
+136992,Casual/Part time,15,Degree+,Sydney
+81999,Permenant Full Time,30,High School/Diploma,Adelaide
+160235,Permenant Full Time,74,Degree+,Canberra
+37333,Permenant Full Time,32,Degree+,Brisbane
+8189,Unemployment,46,High School/Diploma,Brisbane
+144982,Permenant Full Time,56,DNF High School Education,Brisbane
+42883,Permenant Full Time,29,Degree+,Sydney
+7177,Casual/Part time,50,DNF High School Education,Brisbane
+32523,Permenant Full Time,63,DNF High School Education,Sydney
+104273,Permenant Full Time,21,DNF High School Education,Canberra
+34600,Permenant Full Time,26,Degree+,Perth
+108994,Unemployment,61,DNF High School Education,Perth
+132676,Casual/Part time,63,DNF High School Education,Brisbane
+76847,Unemployment,42,DNF High School Education,Sydney
+144503,Permenant Full Time,29,Degree+,Canberra
+129906,Casual/Part time,80,High School/Diploma,Canberra
+132836,Unemployment,33,High School/Diploma,Adelaide
+145845,Casual/Part time,37,Degree+,Sydney
+47998,Casual/Part time,27,DNF High School Education,Canberra
+169383,Casual/Part time,42,Degree+,Brisbane
+162593,Permenant Full Time,41,High School/Diploma,Perth
+20970,Casual/Part time,53,DNF High School Education,Canberra
+90424,Unemployment,83,High School/Diploma,Adelaide
+90791,Unemployment,35,DNF High School Education,Brisbane
+197103,Casual/Part time,19,Degree+,Melbourne
+91347,Unemployment,74,High School/Diploma,Adelaide
+114056,Permenant Full Time,72,High School/Diploma,Perth
+58934,Casual/Part time,32,DNF High School Education,Canberra
+12935,Casual/Part time,20,DNF High School Education,Perth
+179116,Casual/Part time,39,High School/Diploma,Canberra
+97195,Unemployment,21,High School/Diploma,Brisbane
+186853,Casual/Part time,85,Degree+,Adelaide
+180762,Permenant Full Time,53,High School/Diploma,Perth
+19624,Casual/Part time,28,Degree+,Perth
+108184,Permenant Full Time,25,High School/Diploma,Perth
+27454,Permenant Full Time,60,High School/Diploma,Perth
+66335,Casual/Part time,15,Degree+,Melbourne
+155926,Unemployment,26,High School/Diploma,Canberra
+133810,Permenant Full Time,44,Degree+,Melbourne
+150367,Unemployment,54,High School/Diploma,Melbourne
+64124,Permenant Full Time,22,Degree+,Brisbane
+107152,Permenant Full Time,48,DNF High School Education,Brisbane
+65557,Casual/Part time,27,Degree+,Melbourne
+68853,Permenant Full Time,19,Degree+,Sydney
+167593,Casual/Part time,41,Degree+,Melbourne
+162626,Permenant Full Time,16,Degree+,Adelaide
+69865,Permenant Full Time,20,Degree+,Melbourne
+56742,Casual/Part time,37,Degree+,Adelaide
+93822,Unemployment,31,Degree+,Sydney
+184760,Permenant Full Time,66,DNF High School Education,Canberra
+135181,Permenant Full Time,62,DNF High School Education,Sydney
+129410,Unemployment,72,DNF High School Education,Perth
+2376,Permenant Full Time,18,High School/Diploma,Perth
+129544,Unemployment,66,DNF High School Education,Canberra
+134068,Permenant Full Time,39,High School/Diploma,Melbourne
+190592,Unemployment,83,Degree+,Melbourne
+175012,Casual/Part time,44,High School/Diploma,Sydney
+5656,Unemployment,37,Degree+,Adelaide
+61552,Casual/Part time,56,Degree+,Canberra
+171370,Permenant Full Time,33,DNF High School Education,Perth
+125826,Permenant Full Time,49,DNF High School Education,Brisbane
+159490,Unemployment,85,DNF High School Education,Sydney
+18274,Unemployment,69,High School/Diploma,Perth
+1899,Casual/Part time,78,High School/Diploma,Canberra
+117857,Casual/Part time,25,DNF High School Education,Perth
+63109,Casual/Part time,82,High School/Diploma,Brisbane
+181007,Permenant Full Time,79,High School/Diploma,Perth
+142595,Unemployment,31,Degree+,Adelaide
+19292,Unemployment,22,DNF High School Education,Perth
+162585,Casual/Part time,33,Degree+,Sydney
+83615,Casual/Part time,53,Degree+,Sydney
+67165,Casual/Part time,44,DNF High School Education,Perth
+38014,Unemployment,23,DNF High School Education,Melbourne
+88700,Casual/Part time,34,DNF High School Education,Perth
+1994,Unemployment,26,DNF High School Education,Brisbane
+145745,Unemployment,68,High School/Diploma,Adelaide
+38823,Casual/Part time,30,DNF High School Education,Brisbane
+38914,Permenant Full Time,67,Degree+,Sydney
+146916,Casual/Part time,77,Degree+,Brisbane
+151996,Permenant Full Time,25,High School/Diploma,Adelaide
+24170,Unemployment,61,Degree+,Canberra
+106955,Unemployment,36,Degree+,Sydney
+180065,Permenant Full Time,45,Degree+,Perth
+12781,Permenant Full Time,56,DNF High School Education,Canberra
+101522,Casual/Part time,28,Degree+,Brisbane
+66395,Unemployment,67,DNF High School Education,Canberra
+145166,Permenant Full Time,25,Degree+,Brisbane
+153493,Permenant Full Time,32,DNF High School Education,Adelaide
+157759,Casual/Part time,34,High School/Diploma,Melbourne
+191775,Unemployment,84,DNF High School Education,Perth
+174936,Permenant Full Time,67,Degree+,Perth
+62790,Unemployment,62,Degree+,Brisbane
+197784,Unemployment,61,High School/Diploma,Canberra
+167071,Casual/Part time,39,Degree+,Brisbane
+166386,Unemployment,43,DNF High School Education,Brisbane
+167726,Casual/Part time,68,DNF High School Education,Canberra
+144381,Unemployment,17,High School/Diploma,Brisbane
+81538,Permenant Full Time,23,Degree+,Sydney
+22904,Unemployment,49,Degree+,Sydney
+121150,Casual/Part time,45,DNF High School Education,Perth
+11328,Permenant Full Time,85,Degree+,Canberra
+12502,Permenant Full Time,24,DNF High School Education,Brisbane
+122726,Casual/Part time,61,DNF High School Education,Brisbane
+142326,Unemployment,53,High School/Diploma,Brisbane
+140808,Casual/Part time,49,High School/Diploma,Brisbane
+192630,Unemployment,59,High School/Diploma,Canberra
+34319,Unemployment,60,DNF High School Education,Brisbane
+134717,Unemployment,39,High School/Diploma,Sydney
+168047,Casual/Part time,83,High School/Diploma,Canberra
+81176,Permenant Full Time,15,High School/Diploma,Brisbane
+153578,Casual/Part time,49,High School/Diploma,Canberra
+160790,Casual/Part time,37,DNF High School Education,Perth
+126107,Unemployment,76,High School/Diploma,Canberra
+48330,Permenant Full Time,84,Degree+,Adelaide
+181609,Permenant Full Time,68,Degree+,Brisbane
+182393,Casual/Part time,37,DNF High School Education,Sydney
+61193,Casual/Part time,57,Degree+,Melbourne
+10239,Casual/Part time,50,Degree+,Melbourne
+48432,Permenant Full Time,57,DNF High School Education,Adelaide
+11476,Casual/Part time,49,DNF High School Education,Perth
+143941,Unemployment,34,Degree+,Adelaide
+118243,Unemployment,63,Degree+,Melbourne
+145264,Permenant Full Time,78,Degree+,Sydney
+195547,Unemployment,80,Degree+,Adelaide
+156719,Unemployment,57,High School/Diploma,Sydney
+176205,Casual/Part time,45,DNF High School Education,Melbourne
+36504,Permenant Full Time,23,DNF High School Education,Perth
+128728,Casual/Part time,51,DNF High School Education,Adelaide
+193969,Permenant Full Time,68,Degree+,Melbourne
+166836,Unemployment,70,Degree+,Melbourne
+3420,Unemployment,62,DNF High School Education,Adelaide
+181844,Permenant Full Time,44,Degree+,Canberra
+43128,Permenant Full Time,20,High School/Diploma,Sydney
+100613,Permenant Full Time,57,DNF High School Education,Canberra
+198311,Casual/Part time,55,High School/Diploma,Brisbane
+179594,Permenant Full Time,66,High School/Diploma,Canberra
+32597,Casual/Part time,38,DNF High School Education,Perth
+96543,Casual/Part time,30,High School/Diploma,Canberra
+28448,Permenant Full Time,57,Degree+,Brisbane
+45536,Unemployment,26,Degree+,Canberra
+76529,Unemployment,83,High School/Diploma,Brisbane
+162741,Unemployment,61,Degree+,Brisbane
+28950,Unemployment,77,Degree+,Canberra
+102134,Casual/Part time,54,High School/Diploma,Canberra
+75276,Unemployment,30,Degree+,Perth
+109535,Permenant Full Time,60,DNF High School Education,Melbourne
+185204,Unemployment,15,DNF High School Education,Brisbane
+178574,Casual/Part time,45,DNF High School Education,Melbourne
+65259,Unemployment,52,Degree+,Sydney
+66751,Unemployment,42,Degree+,Sydney
+172231,Permenant Full Time,79,DNF High School Education,Brisbane
+100979,Unemployment,78,DNF High School Education,Melbourne
+180226,Permenant Full Time,82,Degree+,Canberra
+163703,Permenant Full Time,74,Degree+,Adelaide
+32687,Permenant Full Time,69,Degree+,Adelaide
+8898,Casual/Part time,58,DNF High School Education,Melbourne
+181336,Casual/Part time,78,Degree+,Melbourne
+22184,Permenant Full Time,75,Degree+,Perth
+183383,Unemployment,35,DNF High School Education,Adelaide
+192238,Unemployment,66,DNF High School Education,Sydney
+162438,Casual/Part time,34,DNF High School Education,Melbourne
+30743,Unemployment,70,DNF High School Education,Sydney
+132485,Permenant Full Time,80,High School/Diploma,Melbourne
+38195,Unemployment,66,High School/Diploma,Brisbane
+172949,Unemployment,31,Degree+,Perth
+102413,Unemployment,48,High School/Diploma,Brisbane
+135489,Unemployment,30,DNF High School Education,Canberra
+64858,Permenant Full Time,35,Degree+,Brisbane
+67719,Casual/Part time,55,High School/Diploma,Sydney
+186804,Casual/Part time,55,DNF High School Education,Perth
+114489,Permenant Full Time,43,High School/Diploma,Adelaide
+196240,Permenant Full Time,54,High School/Diploma,Adelaide
+69318,Permenant Full Time,74,DNF High School Education,Adelaide
+121691,Casual/Part time,77,DNF High School Education,Canberra
+28740,Unemployment,76,Degree+,Canberra
+52674,Unemployment,70,DNF High School Education,Adelaide
+87421,Unemployment,29,High School/Diploma,Melbourne
+96813,Unemployment,63,High School/Diploma,Adelaide
+1305,Unemployment,62,High School/Diploma,Sydney
+153463,Casual/Part time,63,High School/Diploma,Sydney
+164234,Casual/Part time,53,High School/Diploma,Brisbane
+85091,Casual/Part time,38,DNF High School Education,Brisbane
+43072,Unemployment,46,DNF High School Education,Canberra
+119584,Unemployment,20,High School/Diploma,Brisbane
+48206,Casual/Part time,55,Degree+,Melbourne
+29789,Unemployment,16,Degree+,Canberra
+127812,Unemployment,70,Degree+,Adelaide
+132033,Unemployment,71,Degree+,Melbourne
+84253,Permenant Full Time,68,DNF High School Education,Brisbane
+122906,Permenant Full Time,62,DNF High School Education,Perth
+136068,Unemployment,38,Degree+,Brisbane
+44149,Permenant Full Time,22,High School/Diploma,Melbourne
+63200,Casual/Part time,85,DNF High School Education,Melbourne
+29976,Casual/Part time,49,Degree+,Adelaide
+109547,Permenant Full Time,36,Degree+,Perth
+81436,Unemployment,46,High School/Diploma,Adelaide
+34883,Unemployment,17,High School/Diploma,Sydney
+101603,Unemployment,81,Degree+,Brisbane
+8631,Permenant Full Time,38,High School/Diploma,Perth
+188271,Casual/Part time,82,High School/Diploma,Adelaide
+114902,Permenant Full Time,62,High School/Diploma,Canberra
+159982,Unemployment,18,High School/Diploma,Perth
+178704,Permenant Full Time,73,High School/Diploma,Adelaide
+13092,Unemployment,48,Degree+,Perth
+176795,Casual/Part time,52,Degree+,Canberra
+85501,Casual/Part time,40,Degree+,Canberra
+60240,Permenant Full Time,33,High School/Diploma,Brisbane
+37985,Casual/Part time,57,DNF High School Education,Canberra
+108797,Unemployment,27,DNF High School Education,Brisbane
+59655,Casual/Part time,26,DNF High School Education,Sydney
+148517,Unemployment,81,DNF High School Education,Melbourne
+60857,Casual/Part time,67,DNF High School Education,Canberra
+129384,Casual/Part time,83,DNF High School Education,Canberra
+69791,Unemployment,69,DNF High School Education,Adelaide
+154988,Unemployment,33,DNF High School Education,Melbourne
+148828,Casual/Part time,68,Degree+,Melbourne
+142580,Casual/Part time,29,High School/Diploma,Perth
+50277,Permenant Full Time,31,Degree+,Brisbane
+138945,Permenant Full Time,70,Degree+,Canberra
+44585,Permenant Full Time,62,Degree+,Adelaide
+142317,Permenant Full Time,42,Degree+,Adelaide
+45633,Unemployment,40,DNF High School Education,Canberra
+113072,Unemployment,42,DNF High School Education,Adelaide
+47471,Permenant Full Time,41,Degree+,Perth
+41093,Casual/Part time,76,High School/Diploma,Perth
+82866,Unemployment,66,Degree+,Melbourne
+104795,Casual/Part time,44,DNF High School Education,Melbourne
+114064,Permenant Full Time,60,High School/Diploma,Adelaide
+81098,Unemployment,85,DNF High School Education,Perth
+54581,Casual/Part time,59,High School/Diploma,Brisbane
+37663,Unemployment,74,DNF High School Education,Adelaide
+4770,Unemployment,79,DNF High School Education,Brisbane
+23120,Unemployment,44,Degree+,Perth
+80204,Casual/Part time,64,DNF High School Education,Brisbane
+191650,Casual/Part time,76,DNF High School Education,Brisbane
+18903,Permenant Full Time,71,High School/Diploma,Canberra
+127407,Unemployment,82,Degree+,Brisbane
+10793,Permenant Full Time,17,DNF High School Education,Melbourne
+167864,Casual/Part time,26,DNF High School Education,Adelaide
+129622,Unemployment,16,DNF High School Education,Brisbane
+48533,Permenant Full Time,51,High School/Diploma,Canberra
+133733,Permenant Full Time,55,Degree+,Melbourne
+47817,Casual/Part time,49,Degree+,Melbourne
+40094,Permenant Full Time,68,Degree+,Canberra
+149353,Unemployment,54,DNF High School Education,Adelaide
+131529,Unemployment,77,High School/Diploma,Melbourne
+22162,Casual/Part time,19,High School/Diploma,Sydney
+64702,Unemployment,63,High School/Diploma,Sydney
+137166,Casual/Part time,50,Degree+,Brisbane
+101939,Casual/Part time,56,Degree+,Sydney
+45119,Unemployment,45,Degree+,Adelaide
+189427,Casual/Part time,29,Degree+,Adelaide
+165961,Permenant Full Time,58,Degree+,Perth
+152643,Unemployment,57,High School/Diploma,Brisbane
+161322,Unemployment,72,Degree+,Canberra
+52251,Unemployment,20,Degree+,Sydney
+119717,Casual/Part time,65,Degree+,Brisbane
+12951,Unemployment,56,DNF High School Education,Adelaide
+30523,Unemployment,18,High School/Diploma,Sydney
+41004,Casual/Part time,78,High School/Diploma,Canberra
+14146,Casual/Part time,70,High School/Diploma,Adelaide
+179542,Unemployment,61,DNF High School Education,Canberra
+8094,Permenant Full Time,36,High School/Diploma,Adelaide
+187539,Casual/Part time,18,DNF High School Education,Canberra
+160515,Unemployment,36,Degree+,Melbourne
+1597,Casual/Part time,79,High School/Diploma,Perth
+5949,Unemployment,30,DNF High School Education,Canberra
+82606,Casual/Part time,84,Degree+,Perth
+48303,Unemployment,71,High School/Diploma,Melbourne
+2015,Unemployment,19,DNF High School Education,Melbourne
+48906,Permenant Full Time,34,Degree+,Melbourne
+163410,Permenant Full Time,70,High School/Diploma,Perth
+47737,Permenant Full Time,18,Degree+,Melbourne
+155859,Permenant Full Time,41,High School/Diploma,Adelaide
+61493,Permenant Full Time,66,High School/Diploma,Adelaide
+96679,Casual/Part time,66,High School/Diploma,Perth
+127684,Permenant Full Time,42,High School/Diploma,Melbourne
+76315,Unemployment,47,DNF High School Education,Adelaide
+55056,Permenant Full Time,32,High School/Diploma,Brisbane
+85770,Casual/Part time,65,Degree+,Adelaide
+63060,Casual/Part time,53,DNF High School Education,Perth
+87793,Unemployment,77,High School/Diploma,Melbourne
+154015,Permenant Full Time,55,DNF High School Education,Adelaide
+13976,Casual/Part time,15,Degree+,Sydney
+53483,Unemployment,34,Degree+,Perth
+35037,Unemployment,47,High School/Diploma,Melbourne
+12210,Permenant Full Time,41,Degree+,Perth
+192167,Unemployment,58,Degree+,Perth
+117243,Unemployment,81,Degree+,Perth
+102936,Unemployment,78,High School/Diploma,Sydney
+6338,Casual/Part time,81,High School/Diploma,Brisbane
+164815,Unemployment,64,High School/Diploma,Perth
+185574,Unemployment,67,DNF High School Education,Adelaide
+89550,Permenant Full Time,79,DNF High School Education,Melbourne
+135168,Casual/Part time,28,High School/Diploma,Canberra
+62636,Casual/Part time,84,Degree+,Perth
+54335,Unemployment,39,High School/Diploma,Perth
+158364,Unemployment,79,Degree+,Sydney
+19618,Permenant Full Time,33,Degree+,Adelaide
+197094,Permenant Full Time,71,DNF High School Education,Sydney
+124528,Unemployment,81,High School/Diploma,Brisbane
+167201,Permenant Full Time,77,DNF High School Education,Melbourne
+166200,Casual/Part time,60,DNF High School Education,Sydney
+2726,Permenant Full Time,25,DNF High School Education,Sydney
+177090,Casual/Part time,26,DNF High School Education,Brisbane
+35155,Unemployment,30,Degree+,Canberra
+135632,Permenant Full Time,50,DNF High School Education,Brisbane
+15836,Casual/Part time,24,Degree+,Perth
+31968,Permenant Full Time,80,High School/Diploma,Adelaide
+101520,Permenant Full Time,20,DNF High School Education,Sydney
+180534,Permenant Full Time,51,Degree+,Perth
+53209,Permenant Full Time,38,DNF High School Education,Sydney
+48812,Casual/Part time,72,High School/Diploma,Perth
+22493,Casual/Part time,49,Degree+,Perth
+13248,Unemployment,82,High School/Diploma,Melbourne
+13629,Permenant Full Time,76,High School/Diploma,Sydney
+86749,Unemployment,48,Degree+,Canberra
+101622,Casual/Part time,49,High School/Diploma,Brisbane
+170492,Permenant Full Time,69,High School/Diploma,Adelaide
+105185,Casual/Part time,78,DNF High School Education,Perth
+22463,Casual/Part time,48,DNF High School Education,Brisbane
+64453,Unemployment,30,High School/Diploma,Canberra
+52895,Casual/Part time,65,High School/Diploma,Melbourne
+18229,Unemployment,23,DNF High School Education,Sydney
+9486,Permenant Full Time,74,DNF High School Education,Sydney
+76906,Unemployment,21,DNF High School Education,Canberra
+41115,Casual/Part time,54,DNF High School Education,Melbourne
+194101,Permenant Full Time,66,DNF High School Education,Canberra
+64875,Unemployment,58,DNF High School Education,Brisbane
+44468,Unemployment,66,High School/Diploma,Sydney
+178803,Permenant Full Time,46,Degree+,Perth
+30534,Casual/Part time,41,Degree+,Perth
+127227,Permenant Full Time,22,High School/Diploma,Brisbane
+96846,Unemployment,73,High School/Diploma,Adelaide
+98711,Casual/Part time,30,Degree+,Perth
+68700,Permenant Full Time,82,DNF High School Education,Sydney
+166739,Unemployment,32,High School/Diploma,Brisbane
+75887,Unemployment,80,DNF High School Education,Melbourne
+93521,Unemployment,53,Degree+,Brisbane
+109033,Unemployment,49,High School/Diploma,Canberra
+92336,Casual/Part time,79,High School/Diploma,Brisbane
+92251,Permenant Full Time,51,DNF High School Education,Perth
+185210,Permenant Full Time,79,DNF High School Education,Adelaide
+153724,Unemployment,22,High School/Diploma,Melbourne
+165777,Unemployment,79,Degree+,Adelaide
+55696,Permenant Full Time,33,DNF High School Education,Brisbane
+29821,Casual/Part time,67,Degree+,Sydney
+96471,Unemployment,27,DNF High School Education,Melbourne
+150967,Casual/Part time,30,High School/Diploma,Adelaide
+190237,Unemployment,76,DNF High School Education,Adelaide
+21070,Permenant Full Time,44,Degree+,Perth
+71085,Casual/Part time,74,DNF High School Education,Brisbane
+167192,Casual/Part time,43,Degree+,Canberra
+2395,Unemployment,63,High School/Diploma,Canberra
+132131,Casual/Part time,80,Degree+,Melbourne
+18983,Unemployment,44,High School/Diploma,Melbourne
+135957,Permenant Full Time,45,DNF High School Education,Perth
+65332,Unemployment,61,DNF High School Education,Perth
+165116,Permenant Full Time,30,DNF High School Education,Melbourne
+130194,Unemployment,15,High School/Diploma,Brisbane
+100959,Permenant Full Time,43,Degree+,Melbourne
+60667,Casual/Part time,40,High School/Diploma,Brisbane
+146051,Casual/Part time,53,DNF High School Education,Brisbane
+192696,Unemployment,65,DNF High School Education,Brisbane
+58092,Permenant Full Time,65,Degree+,Canberra
+118125,Permenant Full Time,40,High School/Diploma,Brisbane
+175819,Casual/Part time,25,Degree+,Adelaide
+62731,Permenant Full Time,55,Degree+,Canberra
+62263,Permenant Full Time,58,High School/Diploma,Perth
+148666,Unemployment,49,DNF High School Education,Sydney
+60466,Unemployment,27,High School/Diploma,Adelaide
+40844,Unemployment,70,Degree+,Adelaide
+187477,Permenant Full Time,51,DNF High School Education,Perth
+71709,Casual/Part time,50,High School/Diploma,Melbourne
+80503,Casual/Part time,45,Degree+,Sydney
+84143,Unemployment,28,Degree+,Melbourne
+20062,Unemployment,83,Degree+,Sydney
+125566,Casual/Part time,18,DNF High School Education,Sydney
+131340,Casual/Part time,65,Degree+,Sydney
+67394,Casual/Part time,80,DNF High School Education,Perth
+182032,Casual/Part time,24,DNF High School Education,Perth
+20987,Permenant Full Time,32,DNF High School Education,Melbourne
+58548,Permenant Full Time,67,High School/Diploma,Brisbane
+159952,Casual/Part time,72,Degree+,Sydney
+164504,Permenant Full Time,42,High School/Diploma,Brisbane
+126203,Unemployment,46,High School/Diploma,Melbourne
+172543,Casual/Part time,74,DNF High School Education,Canberra
+122755,Permenant Full Time,17,DNF High School Education,Adelaide
+89722,Unemployment,32,DNF High School Education,Adelaide
+190301,Casual/Part time,48,Degree+,Canberra
+156495,Casual/Part time,58,Degree+,Adelaide
+172573,Unemployment,34,Degree+,Sydney
+178274,Permenant Full Time,57,DNF High School Education,Melbourne
+85230,Permenant Full Time,69,Degree+,Canberra
+45404,Permenant Full Time,74,High School/Diploma,Canberra
+181085,Casual/Part time,32,DNF High School Education,Brisbane
+162683,Unemployment,79,Degree+,Canberra
+174634,Casual/Part time,80,Degree+,Perth
+8691,Casual/Part time,23,High School/Diploma,Melbourne
+131255,Unemployment,46,DNF High School Education,Perth
+99269,Casual/Part time,84,Degree+,Perth
+25893,Permenant Full Time,28,DNF High School Education,Canberra
+140942,Unemployment,79,High School/Diploma,Adelaide
+16669,Casual/Part time,24,DNF High School Education,Canberra
+56747,Permenant Full Time,51,Degree+,Perth
+173089,Unemployment,71,High School/Diploma,Brisbane
+102600,Permenant Full Time,29,Degree+,Canberra
+90734,Unemployment,84,DNF High School Education,Adelaide
+9882,Casual/Part time,73,DNF High School Education,Brisbane
+79389,Casual/Part time,54,Degree+,Melbourne
+196441,Permenant Full Time,41,DNF High School Education,Perth
+23189,Permenant Full Time,41,High School/Diploma,Adelaide
+33054,Permenant Full Time,21,Degree+,Adelaide
+2797,Permenant Full Time,67,Degree+,Adelaide
+186094,Permenant Full Time,83,DNF High School Education,Melbourne
+112657,Casual/Part time,60,DNF High School Education,Brisbane
+39629,Unemployment,63,High School/Diploma,Perth
+8137,Permenant Full Time,27,DNF High School Education,Adelaide
+190774,Permenant Full Time,17,DNF High School Education,Sydney
+42232,Unemployment,30,Degree+,Canberra
+79410,Permenant Full Time,30,DNF High School Education,Brisbane
+184848,Permenant Full Time,81,High School/Diploma,Brisbane
+130897,Unemployment,31,Degree+,Canberra
+90788,Casual/Part time,72,DNF High School Education,Adelaide
+128605,Unemployment,61,High School/Diploma,Adelaide
+129089,Unemployment,45,DNF High School Education,Perth
+25120,Casual/Part time,67,Degree+,Canberra
+75293,Unemployment,77,Degree+,Adelaide
+191946,Casual/Part time,76,High School/Diploma,Melbourne
+113115,Unemployment,79,Degree+,Brisbane
+44841,Casual/Part time,16,Degree+,Canberra
+52138,Permenant Full Time,20,DNF High School Education,Melbourne
+155131,Casual/Part time,62,DNF High School Education,Melbourne
+29346,Casual/Part time,40,High School/Diploma,Sydney
+115793,Unemployment,53,DNF High School Education,Canberra
+105749,Permenant Full Time,29,High School/Diploma,Sydney
+160047,Unemployment,35,High School/Diploma,Perth
+188291,Casual/Part time,74,DNF High School Education,Brisbane
+142043,Casual/Part time,47,High School/Diploma,Perth
+62734,Permenant Full Time,54,Degree+,Canberra
+189990,Unemployment,47,DNF High School Education,Adelaide
+58182,Unemployment,19,Degree+,Brisbane
+26485,Unemployment,60,Degree+,Adelaide
+41227,Unemployment,68,Degree+,Melbourne
+133883,Permenant Full Time,58,Degree+,Perth
+34890,Unemployment,70,High School/Diploma,Perth
+9897,Permenant Full Time,23,Degree+,Melbourne
+172170,Permenant Full Time,60,DNF High School Education,Adelaide
+151366,Unemployment,82,DNF High School Education,Adelaide
+97738,Permenant Full Time,22,DNF High School Education,Perth
+174428,Permenant Full Time,49,Degree+,Melbourne
+141955,Permenant Full Time,42,High School/Diploma,Perth
+57586,Permenant Full Time,42,DNF High School Education,Sydney
+117015,Permenant Full Time,23,DNF High School Education,Perth
+149042,Casual/Part time,68,DNF High School Education,Perth
+89446,Permenant Full Time,35,Degree+,Sydney
+196976,Permenant Full Time,73,DNF High School Education,Canberra
+187569,Permenant Full Time,62,High School/Diploma,Canberra
+159355,Unemployment,30,Degree+,Brisbane
+87611,Casual/Part time,52,Degree+,Adelaide
+45212,Unemployment,49,DNF High School Education,Canberra
+23516,Casual/Part time,39,Degree+,Sydney
+68003,Permenant Full Time,29,High School/Diploma,Perth
+187893,Permenant Full Time,38,DNF High School Education,Perth
+131496,Casual/Part time,67,DNF High School Education,Sydney
+59079,Unemployment,18,DNF High School Education,Brisbane
+44150,Permenant Full Time,43,High School/Diploma,Canberra
+29929,Unemployment,54,DNF High School Education,Canberra
+63006,Casual/Part time,22,High School/Diploma,Perth
+88366,Permenant Full Time,22,Degree+,Brisbane
+63634,Permenant Full Time,22,High School/Diploma,Adelaide
+120227,Unemployment,19,DNF High School Education,Perth
+184137,Unemployment,77,DNF High School Education,Perth
+55020,Unemployment,62,Degree+,Canberra
+162628,Unemployment,32,DNF High School Education,Canberra
+58977,Unemployment,44,DNF High School Education,Melbourne
+151967,Unemployment,78,Degree+,Canberra
+33095,Permenant Full Time,68,High School/Diploma,Sydney
+56612,Unemployment,47,DNF High School Education,Adelaide
+172985,Unemployment,51,Degree+,Melbourne
+56844,Unemployment,32,DNF High School Education,Canberra
+70281,Permenant Full Time,79,Degree+,Adelaide
+89470,Casual/Part time,79,High School/Diploma,Sydney
+161271,Casual/Part time,48,Degree+,Sydney
+137416,Casual/Part time,23,DNF High School Education,Sydney
+84683,Permenant Full Time,36,Degree+,Adelaide
+178896,Permenant Full Time,36,DNF High School Education,Canberra
+72887,Casual/Part time,25,Degree+,Sydney
+88631,Permenant Full Time,44,Degree+,Melbourne
+162441,Casual/Part time,54,High School/Diploma,Canberra
+144044,Permenant Full Time,84,Degree+,Melbourne
+67273,Unemployment,34,High School/Diploma,Melbourne
+38100,Casual/Part time,24,DNF High School Education,Adelaide
+85682,Unemployment,17,Degree+,Perth
+100002,Casual/Part time,42,DNF High School Education,Sydney
+1649,Casual/Part time,54,High School/Diploma,Adelaide
+149846,Casual/Part time,53,High School/Diploma,Perth
+48119,Casual/Part time,43,Degree+,Perth
+153712,Casual/Part time,27,Degree+,Adelaide
+132966,Unemployment,62,High School/Diploma,Perth
+88402,Casual/Part time,78,Degree+,Melbourne
+198868,Casual/Part time,73,DNF High School Education,Perth
+122230,Permenant Full Time,71,DNF High School Education,Sydney
+16187,Casual/Part time,53,Degree+,Sydney
+96395,Unemployment,52,Degree+,Adelaide
+196666,Casual/Part time,81,Degree+,Perth
+38877,Permenant Full Time,36,DNF High School Education,Melbourne
+17282,Casual/Part time,17,DNF High School Education,Sydney
+83383,Permenant Full Time,32,DNF High School Education,Perth
+35900,Unemployment,36,Degree+,Adelaide
+74805,Unemployment,80,High School/Diploma,Melbourne
+132194,Unemployment,63,High School/Diploma,Brisbane
+67824,Unemployment,53,DNF High School Education,Canberra
+181151,Casual/Part time,81,DNF High School Education,Brisbane
+132671,Permenant Full Time,83,Degree+,Perth
+47795,Casual/Part time,70,DNF High School Education,Adelaide
+2752,Casual/Part time,70,DNF High School Education,Adelaide
+15677,Permenant Full Time,67,High School/Diploma,Adelaide
+13241,Permenant Full Time,38,DNF High School Education,Brisbane
+165220,Unemployment,36,DNF High School Education,Brisbane
+139866,Unemployment,72,Degree+,Melbourne
+186575,Unemployment,62,Degree+,Sydney
+195276,Unemployment,56,DNF High School Education,Sydney
+130154,Unemployment,17,Degree+,Sydney
+37889,Casual/Part time,24,Degree+,Melbourne
+100572,Permenant Full Time,79,High School/Diploma,Melbourne
+9128,Casual/Part time,54,Degree+,Melbourne
+97976,Unemployment,80,Degree+,Perth
+167196,Casual/Part time,84,Degree+,Canberra
+78690,Unemployment,85,DNF High School Education,Perth
+126913,Casual/Part time,54,Degree+,Canberra
+20940,Permenant Full Time,67,High School/Diploma,Perth
+167436,Permenant Full Time,29,DNF High School Education,Adelaide
+163216,Permenant Full Time,79,High School/Diploma,Canberra
+91327,Unemployment,20,High School/Diploma,Adelaide
+197475,Unemployment,57,High School/Diploma,Adelaide
+152259,Unemployment,85,Degree+,Adelaide
+178448,Casual/Part time,58,High School/Diploma,Perth
+152186,Unemployment,65,High School/Diploma,Brisbane
+196951,Casual/Part time,21,DNF High School Education,Adelaide
+116125,Permenant Full Time,50,DNF High School Education,Brisbane
+128486,Unemployment,74,Degree+,Canberra
+129084,Permenant Full Time,61,Degree+,Brisbane
+9088,Unemployment,29,Degree+,Canberra
+143265,Permenant Full Time,43,DNF High School Education,Sydney
+89782,Casual/Part time,53,Degree+,Sydney
+104279,Permenant Full Time,47,High School/Diploma,Sydney
+120345,Casual/Part time,76,DNF High School Education,Perth
+47086,Unemployment,43,DNF High School Education,Brisbane
+28296,Permenant Full Time,75,High School/Diploma,Sydney
+109320,Permenant Full Time,68,Degree+,Sydney
+75081,Casual/Part time,77,DNF High School Education,Canberra
+187307,Casual/Part time,27,DNF High School Education,Brisbane
+160727,Unemployment,60,Degree+,Melbourne
+126914,Unemployment,28,DNF High School Education,Perth
+27901,Unemployment,22,Degree+,Sydney
+28660,Casual/Part time,70,High School/Diploma,Melbourne
+35730,Permenant Full Time,63,Degree+,Adelaide
+10582,Unemployment,68,DNF High School Education,Canberra
+118241,Casual/Part time,51,DNF High School Education,Brisbane
+194678,Permenant Full Time,44,High School/Diploma,Adelaide
+175329,Casual/Part time,51,DNF High School Education,Canberra
+142755,Casual/Part time,76,High School/Diploma,Perth
+45051,Permenant Full Time,33,Degree+,Brisbane
+173361,Casual/Part time,61,High School/Diploma,Adelaide
+138430,Permenant Full Time,39,High School/Diploma,Brisbane
+72060,Permenant Full Time,51,High School/Diploma,Brisbane
+96695,Permenant Full Time,37,DNF High School Education,Canberra
+109411,Unemployment,56,DNF High School Education,Sydney
+91030,Casual/Part time,38,High School/Diploma,Brisbane
+171752,Unemployment,68,DNF High School Education,Perth
+80161,Permenant Full Time,43,DNF High School Education,Brisbane
+187775,Permenant Full Time,54,High School/Diploma,Sydney
+110470,Unemployment,16,Degree+,Perth
+146143,Casual/Part time,25,DNF High School Education,Adelaide
+31765,Unemployment,17,DNF High School Education,Sydney
+133422,Unemployment,48,Degree+,Melbourne
+62837,Permenant Full Time,74,Degree+,Adelaide
+165551,Permenant Full Time,22,DNF High School Education,Sydney
+78437,Casual/Part time,48,DNF High School Education,Adelaide
+8573,Unemployment,83,DNF High School Education,Brisbane
+168601,Permenant Full Time,43,DNF High School Education,Brisbane
+150958,Casual/Part time,25,DNF High School Education,Sydney
+138845,Unemployment,50,DNF High School Education,Canberra
+47623,Casual/Part time,66,Degree+,Melbourne
+86924,Casual/Part time,51,DNF High School Education,Melbourne
+68363,Casual/Part time,40,High School/Diploma,Melbourne
+110213,Casual/Part time,22,Degree+,Perth
+180898,Casual/Part time,38,High School/Diploma,Adelaide
+77662,Casual/Part time,69,DNF High School Education,Melbourne
+42563,Unemployment,29,High School/Diploma,Canberra
+13927,Unemployment,15,DNF High School Education,Canberra
+12770,Casual/Part time,37,DNF High School Education,Perth
+120058,Unemployment,24,Degree+,Brisbane
+142404,Casual/Part time,62,High School/Diploma,Brisbane
+64209,Unemployment,40,High School/Diploma,Sydney
+171591,Permenant Full Time,46,Degree+,Canberra
+77465,Permenant Full Time,19,DNF High School Education,Melbourne
+5996,Casual/Part time,47,High School/Diploma,Sydney
+178994,Casual/Part time,30,High School/Diploma,Melbourne
+111949,Unemployment,64,High School/Diploma,Adelaide
+106327,Casual/Part time,58,High School/Diploma,Adelaide
+133625,Permenant Full Time,74,DNF High School Education,Brisbane
+141956,Permenant Full Time,19,Degree+,Brisbane
+109859,Permenant Full Time,72,DNF High School Education,Brisbane
+155709,Unemployment,43,High School/Diploma,Canberra
+40567,Permenant Full Time,66,High School/Diploma,Brisbane
+172108,Permenant Full Time,68,DNF High School Education,Adelaide
+192466,Unemployment,16,High School/Diploma,Sydney
+148774,Unemployment,49,Degree+,Adelaide
+74913,Unemployment,76,DNF High School Education,Melbourne
+150889,Casual/Part time,60,Degree+,Canberra
+134581,Casual/Part time,53,Degree+,Perth
+53851,Casual/Part time,54,Degree+,Brisbane
+52527,Unemployment,56,Degree+,Canberra
+87259,Permenant Full Time,32,DNF High School Education,Brisbane
+36912,Unemployment,32,DNF High School Education,Adelaide
+138136,Casual/Part time,33,Degree+,Canberra
+101873,Permenant Full Time,49,Degree+,Perth
+94800,Casual/Part time,31,DNF High School Education,Melbourne
+57338,Casual/Part time,23,DNF High School Education,Adelaide
+40829,Casual/Part time,38,DNF High School Education,Canberra
+108921,Unemployment,78,High School/Diploma,Canberra
+85280,Permenant Full Time,18,DNF High School Education,Canberra
+182228,Permenant Full Time,28,Degree+,Melbourne
+87715,Unemployment,54,Degree+,Sydney
+73439,Permenant Full Time,18,DNF High School Education,Perth
+38168,Casual/Part time,26,DNF High School Education,Sydney
+74600,Unemployment,16,Degree+,Sydney
+136253,Casual/Part time,51,DNF High School Education,Perth
+133934,Casual/Part time,74,High School/Diploma,Brisbane
+122491,Unemployment,29,Degree+,Brisbane
+13689,Permenant Full Time,23,High School/Diploma,Perth
+186756,Permenant Full Time,49,Degree+,Melbourne
+111553,Casual/Part time,70,Degree+,Sydney
+84467,Unemployment,27,DNF High School Education,Perth
+29408,Permenant Full Time,62,Degree+,Brisbane
+191030,Permenant Full Time,85,Degree+,Brisbane
+59549,Permenant Full Time,52,Degree+,Sydney
+92907,Unemployment,24,DNF High School Education,Melbourne
+178796,Casual/Part time,22,Degree+,Adelaide
+33436,Permenant Full Time,51,Degree+,Sydney
+125540,Permenant Full Time,63,Degree+,Adelaide
+140913,Permenant Full Time,64,Degree+,Melbourne
+137454,Permenant Full Time,18,High School/Diploma,Canberra
+12734,Casual/Part time,66,DNF High School Education,Adelaide
+28134,Unemployment,47,Degree+,Adelaide
+157996,Casual/Part time,85,DNF High School Education,Canberra
+122171,Casual/Part time,42,Degree+,Adelaide
+175656,Permenant Full Time,79,DNF High School Education,Brisbane
+5381,Permenant Full Time,77,Degree+,Perth
+9289,Casual/Part time,70,DNF High School Education,Canberra
+126698,Casual/Part time,33,High School/Diploma,Sydney
+182648,Unemployment,51,Degree+,Canberra
+128968,Permenant Full Time,66,Degree+,Sydney
+73747,Casual/Part time,56,Degree+,Melbourne
+189855,Casual/Part time,26,Degree+,Sydney
+120763,Casual/Part time,73,Degree+,Perth
+30988,Unemployment,62,High School/Diploma,Brisbane
+40751,Casual/Part time,75,Degree+,Brisbane
+196364,Casual/Part time,63,Degree+,Canberra
+42697,Unemployment,28,High School/Diploma,Melbourne
+185666,Permenant Full Time,18,Degree+,Sydney
+3642,Unemployment,19,Degree+,Adelaide
+119890,Casual/Part time,70,Degree+,Sydney
+63381,Unemployment,52,Degree+,Canberra
+106003,Casual/Part time,72,High School/Diploma,Canberra
+35832,Permenant Full Time,57,High School/Diploma,Perth
+145106,Casual/Part time,29,High School/Diploma,Brisbane
+165286,Casual/Part time,50,DNF High School Education,Canberra
+199148,Permenant Full Time,85,Degree+,Canberra
+198347,Unemployment,27,DNF High School Education,Adelaide
+187227,Casual/Part time,16,DNF High School Education,Melbourne
+169173,Permenant Full Time,85,DNF High School Education,Adelaide
+24535,Unemployment,36,Degree+,Melbourne
+95033,Unemployment,27,Degree+,Adelaide
+5347,Unemployment,47,Degree+,Perth
+150837,Casual/Part time,33,DNF High School Education,Perth
+132896,Unemployment,51,DNF High School Education,Brisbane
+49225,Casual/Part time,82,Degree+,Perth
+104243,Permenant Full Time,57,Degree+,Brisbane
+147079,Casual/Part time,18,High School/Diploma,Melbourne
+37621,Unemployment,48,High School/Diploma,Canberra
+65626,Casual/Part time,38,DNF High School Education,Canberra
+157384,Unemployment,25,DNF High School Education,Brisbane
+179419,Permenant Full Time,17,DNF High School Education,Sydney
+135019,Unemployment,42,High School/Diploma,Perth
+161831,Casual/Part time,69,High School/Diploma,Melbourne
+75876,Casual/Part time,52,DNF High School Education,Adelaide
+151006,Casual/Part time,61,DNF High School Education,Canberra
+1950,Permenant Full Time,62,Degree+,Perth
+103290,Unemployment,82,Degree+,Canberra
+139518,Unemployment,15,Degree+,Perth
+1613,Permenant Full Time,29,DNF High School Education,Adelaide
+197242,Casual/Part time,46,Degree+,Canberra
+106733,Permenant Full Time,23,High School/Diploma,Melbourne
+164539,Permenant Full Time,69,Degree+,Melbourne
+103565,Unemployment,54,Degree+,Brisbane
+197400,Casual/Part time,67,Degree+,Adelaide
+52158,Permenant Full Time,84,DNF High School Education,Adelaide
+99992,Permenant Full Time,79,DNF High School Education,Perth
+59959,Permenant Full Time,73,Degree+,Adelaide
+113151,Permenant Full Time,76,DNF High School Education,Brisbane
+12146,Permenant Full Time,32,High School/Diploma,Melbourne
+65702,Permenant Full Time,27,DNF High School Education,Adelaide
+159519,Unemployment,73,DNF High School Education,Melbourne
+144795,Unemployment,27,DNF High School Education,Perth
+188588,Unemployment,81,DNF High School Education,Sydney
+8468,Casual/Part time,39,Degree+,Sydney
+109479,Permenant Full Time,21,Degree+,Brisbane
+51703,Casual/Part time,22,High School/Diploma,Melbourne
+179911,Unemployment,53,High School/Diploma,Melbourne
+144661,Casual/Part time,50,High School/Diploma,Sydney
+94728,Unemployment,32,DNF High School Education,Sydney
+172284,Casual/Part time,32,DNF High School Education,Perth
+173977,Unemployment,20,Degree+,Sydney
+149228,Casual/Part time,64,High School/Diploma,Sydney
+65673,Permenant Full Time,16,Degree+,Canberra
+65463,Casual/Part time,83,DNF High School Education,Adelaide
+166735,Casual/Part time,58,DNF High School Education,Melbourne
+151510,Unemployment,29,DNF High School Education,Perth
+138994,Permenant Full Time,19,DNF High School Education,Canberra
+852,Casual/Part time,83,High School/Diploma,Canberra
+40350,Casual/Part time,58,DNF High School Education,Sydney
+142450,Unemployment,42,High School/Diploma,Adelaide
+162298,Casual/Part time,47,Degree+,Perth
+148337,Unemployment,39,High School/Diploma,Canberra
+132149,Permenant Full Time,34,High School/Diploma,Canberra
+90649,Permenant Full Time,26,High School/Diploma,Perth
+26561,Casual/Part time,62,DNF High School Education,Sydney
+126297,Unemployment,52,DNF High School Education,Melbourne
+110919,Unemployment,46,DNF High School Education,Perth
+14469,Permenant Full Time,72,DNF High School Education,Canberra
+157967,Unemployment,61,DNF High School Education,Perth
+126602,Permenant Full Time,70,High School/Diploma,Perth
+161370,Permenant Full Time,79,High School/Diploma,Perth
+27820,Permenant Full Time,60,Degree+,Brisbane
+30712,Unemployment,83,Degree+,Canberra
+110664,Unemployment,28,DNF High School Education,Adelaide
+68462,Unemployment,45,High School/Diploma,Canberra
+87707,Permenant Full Time,72,High School/Diploma,Melbourne
+55828,Unemployment,46,High School/Diploma,Perth
+72207,Unemployment,24,Degree+,Brisbane
+151726,Permenant Full Time,38,Degree+,Perth
+65084,Permenant Full Time,19,Degree+,Sydney
+128034,Unemployment,16,DNF High School Education,Perth
+92296,Unemployment,84,High School/Diploma,Adelaide
+8668,Casual/Part time,29,High School/Diploma,Sydney
+35778,Unemployment,49,Degree+,Adelaide
+168339,Permenant Full Time,25,DNF High School Education,Perth
+62,Permenant Full Time,47,Degree+,Adelaide
+37123,Unemployment,28,DNF High School Education,Sydney
+142624,Unemployment,18,Degree+,Canberra
+8422,Unemployment,28,DNF High School Education,Sydney
+147093,Permenant Full Time,58,DNF High School Education,Melbourne
+192180,Unemployment,78,DNF High School Education,Adelaide
+21666,Unemployment,47,High School/Diploma,Sydney
+156240,Casual/Part time,51,Degree+,Melbourne
+61908,Unemployment,68,High School/Diploma,Perth
+124892,Permenant Full Time,21,High School/Diploma,Melbourne
+59355,Casual/Part time,53,High School/Diploma,Brisbane
+123471,Unemployment,28,High School/Diploma,Perth
+188117,Permenant Full Time,78,High School/Diploma,Canberra
+196085,Permenant Full Time,71,DNF High School Education,Brisbane
+198505,Unemployment,67,DNF High School Education,Perth
+199530,Casual/Part time,22,High School/Diploma,Adelaide
+42391,Permenant Full Time,31,High School/Diploma,Canberra
+139163,Unemployment,56,High School/Diploma,Adelaide
+178947,Unemployment,76,Degree+,Sydney
+95249,Unemployment,21,DNF High School Education,Brisbane
+42349,Permenant Full Time,32,Degree+,Perth
+117820,Unemployment,79,High School/Diploma,Adelaide
+136625,Unemployment,37,High School/Diploma,Brisbane
+144726,Unemployment,83,Degree+,Canberra
+89290,Permenant Full Time,15,DNF High School Education,Adelaide
+114432,Permenant Full Time,81,Degree+,Sydney
+11534,Unemployment,39,DNF High School Education,Brisbane
+57806,Casual/Part time,73,DNF High School Education,Melbourne
+66351,Casual/Part time,22,Degree+,Canberra
+2251,Unemployment,69,High School/Diploma,Adelaide
+167495,Permenant Full Time,60,High School/Diploma,Sydney
+90477,Permenant Full Time,28,Degree+,Sydney
+162395,Permenant Full Time,68,Degree+,Brisbane
+92056,Permenant Full Time,49,DNF High School Education,Canberra
+195317,Permenant Full Time,77,High School/Diploma,Brisbane
+127457,Permenant Full Time,43,High School/Diploma,Brisbane
+154054,Casual/Part time,65,DNF High School Education,Melbourne
+160826,Permenant Full Time,43,DNF High School Education,Brisbane
+20306,Unemployment,39,High School/Diploma,Brisbane
+59944,Permenant Full Time,81,High School/Diploma,Perth
+184733,Casual/Part time,84,Degree+,Adelaide
+45547,Unemployment,58,DNF High School Education,Sydney
+23754,Casual/Part time,17,DNF High School Education,Sydney
+146199,Permenant Full Time,34,Degree+,Canberra
+77539,Permenant Full Time,54,High School/Diploma,Sydney
+155823,Permenant Full Time,68,Degree+,Perth
+102545,Unemployment,53,Degree+,Adelaide
+58951,Unemployment,52,High School/Diploma,Brisbane
+22418,Unemployment,76,Degree+,Perth
+193868,Permenant Full Time,18,Degree+,Brisbane
+16028,Permenant Full Time,52,High School/Diploma,Melbourne
+56787,Permenant Full Time,31,DNF High School Education,Adelaide
+49085,Unemployment,42,Degree+,Canberra
+55519,Casual/Part time,44,Degree+,Melbourne
+102752,Permenant Full Time,34,High School/Diploma,Melbourne
+199719,Casual/Part time,68,DNF High School Education,Brisbane
+9292,Permenant Full Time,20,Degree+,Brisbane
+167980,Casual/Part time,30,Degree+,Adelaide
+57172,Permenant Full Time,24,DNF High School Education,Sydney
+98674,Casual/Part time,40,Degree+,Melbourne
+27040,Casual/Part time,58,High School/Diploma,Adelaide
+28965,Unemployment,71,Degree+,Melbourne
+85484,Permenant Full Time,30,Degree+,Canberra
+70700,Unemployment,51,Degree+,Adelaide

@@ -2,7 +2,7 @@ import random
 import csv
 
 def generate_entry():
-    entry = "income,employement_status,age,education_level,location,risk\n"
+    entry = ""
     emp_status = ["Unemployment", "Casual/Part time", "Permenant Full Time"]
     edu_level = ["DNF High School Education", "High School/Diploma", "Degree+"]
     location = ["Sydney", "Perth", "Melbourne", "Brisbane", "Adelaide", "Canberra"]
@@ -30,6 +30,8 @@ def generate_entry():
 
 csv = open("mock_data.csv", "w")
 entries = 1000
+headings = "income,employement_status,age,education_level,location,risk\n"
+csv.write(headings)
 
 while (entries != 0):
     csv.write(generate_entry())
