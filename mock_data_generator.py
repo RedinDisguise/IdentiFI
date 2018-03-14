@@ -23,14 +23,23 @@ def generate_entry():
     loc = location[random.randint(0, len(location) - 1)]
     entry = entry + loc
 
-    starting_risk = 5
+    risk = 0
+
+    # if (int(income) < 49999):
+    #     risk = risk + 3
+    # elif (int(income) < 99999):
+    #     risk = risk + 2
+    # else:
+    #     risk = risk + 1
+
+    
 
     entry = entry + "\n"
     return entry
 
 csv = open("mock_data.csv", "w")
 entries = 1000
-headings = "income,employement_status,age,education_level,location,risk\n"
+headings = "income,employement_status,age,education_level,city,risk\n"
 csv.write(headings)
 
 while (entries != 0):
