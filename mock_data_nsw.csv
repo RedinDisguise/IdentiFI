@@ -1,0 +1,201 @@
+income,employement_status,age,education_level,city,risk
+67235,Unemployment,15,DNF High School Education,Tamworth,1.75
+14171,Unemployment,22,DNF High School Education,Bathurst,2.0
+103706,Permenant Full Time,53,DNF High School Education,Wagga Wagga,1.0
+184610,Permenant Full Time,58,DNF High School Education,Wagga Wagga,1.0
+88896,Unemployment,21,Degree+,Sydney,1.75
+132686,Casual/Part time,74,Degree+,Tamworth,1.0
+52720,Permenant Full Time,57,High School/Diploma,Sydney,1.25
+70661,Unemployment,68,High School/Diploma,Sydney,1.25
+52858,Unemployment,52,High School/Diploma,Bathurst,1.25
+30606,Permenant Full Time,50,DNF High School Education,Bathurst,1.5
+111397,Unemployment,75,High School/Diploma,Dubbo,1.0
+150675,Permenant Full Time,28,Degree+,Bathurst,1.5
+63323,Casual/Part time,52,Degree+,Albury,1.25
+161718,Unemployment,22,High School/Diploma,Coffs Harbour,1.5
+186490,Casual/Part time,17,High School/Diploma,Wagga Wagga,1.5
+144062,Casual/Part time,72,Degree+,Coffs Harbour,1.0
+7201,Unemployment,73,DNF High School Education,Coffs Harbour,1.5
+35087,Casual/Part time,66,DNF High School Education,Bathurst,1.5
+120810,Casual/Part time,18,High School/Diploma,Sydney,1.5
+8312,Unemployment,28,DNF High School Education,Sydney,2.0
+138726,Unemployment,44,Degree+,Albury,1.0
+76559,Casual/Part time,42,DNF High School Education,Wagga Wagga,1.5
+8961,Permenant Full Time,69,High School/Diploma,Sydney,1.5
+114425,Permenant Full Time,85,High School/Diploma,Tamworth,1.0
+159210,Permenant Full Time,84,High School/Diploma,Dubbo,1.0
+76309,Casual/Part time,50,Degree+,Sydney,1.25
+80615,Permenant Full Time,84,High School/Diploma,Sydney,1.25
+137287,Unemployment,45,Degree+,Albury,1.0
+98714,Permenant Full Time,18,DNF High School Education,Tamworth,1.75
+135230,Unemployment,49,High School/Diploma,Albury,1.0
+78438,Permenant Full Time,57,DNF High School Education,Tamworth,1.25
+87296,Casual/Part time,32,High School/Diploma,Wagga Wagga,1.5
+163969,Casual/Part time,78,DNF High School Education,Albury,1.0
+154893,Permenant Full Time,85,DNF High School Education,Dubbo,1.0
+77696,Casual/Part time,17,High School/Diploma,Wagga Wagga,1.75
+89406,Permenant Full Time,81,High School/Diploma,Coffs Harbour,1.25
+111208,Unemployment,50,Degree+,Tamworth,1.0
+174873,Unemployment,63,Degree+,Wagga Wagga,1.0
+98504,Permenant Full Time,35,Degree+,Albury,1.5
+120726,Casual/Part time,25,High School/Diploma,Tamworth,1.5
+109132,Casual/Part time,44,High School/Diploma,Dubbo,1.0
+115669,Unemployment,33,Degree+,Tamworth,1.25
+176288,Unemployment,35,High School/Diploma,Albury,1.25
+117431,Permenant Full Time,67,DNF High School Education,Wagga Wagga,1.0
+169243,Casual/Part time,56,Degree+,Bathurst,1.0
+168005,Unemployment,23,High School/Diploma,Sydney,1.5
+154635,Permenant Full Time,36,DNF High School Education,Wagga Wagga,1.25
+110561,Unemployment,41,Degree+,Tamworth,1.25
+62685,Permenant Full Time,31,DNF High School Education,Coffs Harbour,1.5
+136155,Casual/Part time,70,High School/Diploma,Dubbo,1.0
+87550,Permenant Full Time,22,DNF High School Education,Sydney,1.75
+129684,Permenant Full Time,60,Degree+,Albury,1.0
+38868,Casual/Part time,65,Degree+,Bathurst,1.5
+129736,Casual/Part time,37,DNF High School Education,Sydney,1.25
+27410,Permenant Full Time,19,High School/Diploma,Dubbo,2.0
+191689,Permenant Full Time,77,DNF High School Education,Wagga Wagga,1.0
+65050,Permenant Full Time,77,DNF High School Education,Wagga Wagga,1.25
+46479,Unemployment,23,Degree+,Bathurst,2.0
+134115,Unemployment,21,Degree+,Sydney,1.5
+128051,Casual/Part time,84,DNF High School Education,Bathurst,1.0
+111149,Permenant Full Time,77,DNF High School Education,Albury,1.0
+82730,Unemployment,38,Degree+,Tamworth,1.5
+113262,Casual/Part time,75,Degree+,Sydney,1.0
+29543,Casual/Part time,42,High School/Diploma,Coffs Harbour,1.75
+131605,Permenant Full Time,72,Degree+,Albury,1.0
+179863,Casual/Part time,47,DNF High School Education,Wagga Wagga,1.0
+128673,Permenant Full Time,35,Degree+,Dubbo,1.25
+92659,Permenant Full Time,49,Degree+,Dubbo,1.25
+79951,Permenant Full Time,34,Degree+,Albury,1.5
+72694,Permenant Full Time,57,High School/Diploma,Sydney,1.25
+163730,Casual/Part time,16,Degree+,Sydney,1.5
+180253,Permenant Full Time,35,High School/Diploma,Albury,1.25
+162524,Permenant Full Time,31,Degree+,Coffs Harbour,1.25
+29363,Unemployment,21,Degree+,Coffs Harbour,2.0
+109598,Permenant Full Time,55,DNF High School Education,Dubbo,1.0
+85331,Permenant Full Time,47,DNF High School Education,Albury,1.25
+154756,Unemployment,50,Degree+,Bathurst,1.0
+77397,Permenant Full Time,51,High School/Diploma,Wagga Wagga,1.25
+142618,Permenant Full Time,34,DNF High School Education,Dubbo,1.25
+192590,Permenant Full Time,37,High School/Diploma,Albury,1.25
+171462,Casual/Part time,47,DNF High School Education,Bathurst,1.0
+110669,Permenant Full Time,47,Degree+,Coffs Harbour,1.0
+140925,Unemployment,51,High School/Diploma,Albury,1.0
+176520,Casual/Part time,28,High School/Diploma,Bathurst,1.5
+119011,Permenant Full Time,74,DNF High School Education,Albury,1.0
+73694,Unemployment,25,DNF High School Education,Wagga Wagga,1.75
+120734,Permenant Full Time,79,Degree+,Bathurst,1.0
+50461,Unemployment,71,High School/Diploma,Albury,1.25
+189279,Unemployment,35,DNF High School Education,Wagga Wagga,1.25
+34145,Casual/Part time,61,DNF High School Education,Wagga Wagga,1.5
+163996,Casual/Part time,40,DNF High School Education,Dubbo,1.25
+62450,Permenant Full Time,61,Degree+,Dubbo,1.25
+48933,Unemployment,22,Degree+,Sydney,2.0
+8840,Unemployment,35,High School/Diploma,Sydney,1.75
+129707,Casual/Part time,56,High School/Diploma,Tamworth,1.0
+70098,Permenant Full Time,16,High School/Diploma,Bathurst,1.75
+172284,Unemployment,21,High School/Diploma,Bathurst,1.5
+83566,Permenant Full Time,37,Degree+,Wagga Wagga,1.5
+125733,Unemployment,55,High School/Diploma,Sydney,1.0
+156452,Permenant Full Time,61,High School/Diploma,Sydney,1.0
+127363,Casual/Part time,84,Degree+,Albury,1.0
+77408,Casual/Part time,70,High School/Diploma,Dubbo,1.25
+187475,Unemployment,77,High School/Diploma,Tamworth,1.0
+136154,Unemployment,69,High School/Diploma,Dubbo,1.0
+187112,Casual/Part time,22,High School/Diploma,Dubbo,1.5
+175202,Unemployment,71,High School/Diploma,Tamworth,1.0
+10495,Casual/Part time,64,DNF High School Education,Sydney,1.5
+156419,Unemployment,57,DNF High School Education,Albury,1.0
+62496,Casual/Part time,50,Degree+,Albury,1.25
+35644,Permenant Full Time,39,DNF High School Education,Tamworth,1.75
+161979,Permenant Full Time,82,Degree+,Dubbo,1.0
+31454,Casual/Part time,63,High School/Diploma,Coffs Harbour,1.5
+94930,Unemployment,23,High School/Diploma,Albury,1.75
+70084,Unemployment,51,High School/Diploma,Tamworth,1.25
+116350,Casual/Part time,64,DNF High School Education,Coffs Harbour,1.0
+188763,Unemployment,74,High School/Diploma,Sydney,1.0
+189065,Casual/Part time,77,DNF High School Education,Dubbo,1.0
+176684,Unemployment,18,DNF High School Education,Bathurst,1.5
+199467,Permenant Full Time,65,High School/Diploma,Sydney,1.0
+9262,Unemployment,81,Degree+,Dubbo,1.5
+69071,Casual/Part time,29,DNF High School Education,Coffs Harbour,1.5
+120415,Unemployment,60,High School/Diploma,Tamworth,1.0
+171300,Permenant Full Time,39,DNF High School Education,Sydney,1.25
+177617,Permenant Full Time,62,Degree+,Dubbo,1.0
+80518,Unemployment,17,DNF High School Education,Wagga Wagga,1.75
+167159,Permenant Full Time,63,Degree+,Wagga Wagga,1.0
+153804,Casual/Part time,28,DNF High School Education,Tamworth,1.5
+32591,Unemployment,72,DNF High School Education,Coffs Harbour,1.5
+161868,Unemployment,42,High School/Diploma,Wagga Wagga,1.25
+56151,Unemployment,67,Degree+,Wagga Wagga,1.25
+95333,Permenant Full Time,30,DNF High School Education,Albury,1.5
+40896,Unemployment,16,Degree+,Albury,2.0
+126970,Casual/Part time,70,DNF High School Education,Sydney,1.0
+70581,Unemployment,74,High School/Diploma,Albury,1.25
+102954,Unemployment,59,Degree+,Bathurst,1.0
+25728,Casual/Part time,42,High School/Diploma,Coffs Harbour,1.75
+56587,Permenant Full Time,63,DNF High School Education,Wagga Wagga,1.25
+42153,Unemployment,21,DNF High School Education,Bathurst,2.0
+179070,Permenant Full Time,84,Degree+,Wagga Wagga,1.0
+47705,Casual/Part time,32,DNF High School Education,Dubbo,1.75
+177407,Casual/Part time,18,DNF High School Education,Wagga Wagga,1.5
+153345,Unemployment,83,DNF High School Education,Coffs Harbour,1.0
+77483,Casual/Part time,72,DNF High School Education,Coffs Harbour,1.25
+120844,Casual/Part time,68,High School/Diploma,Tamworth,1.0
+94133,Casual/Part time,48,Degree+,Dubbo,1.25
+56752,Permenant Full Time,53,Degree+,Tamworth,1.25
+125325,Casual/Part time,30,Degree+,Coffs Harbour,1.25
+44879,Permenant Full Time,69,DNF High School Education,Wagga Wagga,1.5
+119788,Unemployment,84,DNF High School Education,Albury,1.0
+20619,Unemployment,54,Degree+,Sydney,1.5
+107648,Permenant Full Time,82,DNF High School Education,Tamworth,1.0
+7682,Permenant Full Time,30,Degree+,Coffs Harbour,1.75
+8286,Unemployment,76,DNF High School Education,Wagga Wagga,1.5
+184666,Unemployment,77,High School/Diploma,Bathurst,1.0
+187278,Unemployment,25,High School/Diploma,Tamworth,1.5
+91584,Unemployment,19,DNF High School Education,Tamworth,1.75
+42147,Unemployment,25,DNF High School Education,Wagga Wagga,2.0
+170553,Unemployment,28,Degree+,Bathurst,1.5
+98760,Permenant Full Time,23,DNF High School Education,Bathurst,1.75
+139782,Permenant Full Time,16,DNF High School Education,Albury,1.5
+4967,Unemployment,64,High School/Diploma,Bathurst,1.5
+159567,Casual/Part time,46,Degree+,Wagga Wagga,1.0
+49976,Unemployment,35,High School/Diploma,Sydney,1.75
+167550,Casual/Part time,68,DNF High School Education,Sydney,1.0
+182363,Casual/Part time,43,High School/Diploma,Bathurst,1.25
+187657,Unemployment,59,Degree+,Tamworth,1.0
+78882,Unemployment,26,High School/Diploma,Albury,1.75
+14579,Casual/Part time,39,Degree+,Tamworth,1.75
+177770,Unemployment,66,High School/Diploma,Wagga Wagga,1.0
+52242,Permenant Full Time,52,DNF High School Education,Bathurst,1.25
+39607,Permenant Full Time,26,High School/Diploma,Bathurst,2.0
+34105,Permenant Full Time,44,DNF High School Education,Tamworth,1.5
+184924,Unemployment,37,High School/Diploma,Wagga Wagga,1.25
+48138,Permenant Full Time,34,Degree+,Coffs Harbour,1.75
+71104,Casual/Part time,29,DNF High School Education,Sydney,1.5
+153451,Casual/Part time,30,DNF High School Education,Bathurst,1.25
+120369,Casual/Part time,81,High School/Diploma,Sydney,1.0
+136192,Casual/Part time,22,DNF High School Education,Dubbo,1.5
+143111,Unemployment,80,High School/Diploma,Coffs Harbour,1.0
+197519,Casual/Part time,15,DNF High School Education,Coffs Harbour,1.5
+177051,Unemployment,17,DNF High School Education,Tamworth,1.5
+37339,Permenant Full Time,56,DNF High School Education,Tamworth,1.5
+131250,Unemployment,51,Degree+,Bathurst,1.0
+155550,Unemployment,25,Degree+,Wagga Wagga,1.5
+164794,Unemployment,58,Degree+,Dubbo,1.0
+90498,Unemployment,66,High School/Diploma,Sydney,1.25
+36267,Permenant Full Time,74,High School/Diploma,Bathurst,1.5
+24073,Unemployment,60,DNF High School Education,Dubbo,1.5
+188253,Permenant Full Time,16,High School/Diploma,Dubbo,1.5
+140223,Casual/Part time,50,High School/Diploma,Coffs Harbour,1.0
+162855,Casual/Part time,31,High School/Diploma,Albury,1.25
+95568,Permenant Full Time,58,Degree+,Bathurst,1.25
+74112,Casual/Part time,25,High School/Diploma,Dubbo,1.75
+162357,Permenant Full Time,42,DNF High School Education,Sydney,1.25
+80976,Permenant Full Time,74,Degree+,Bathurst,1.25
+36470,Casual/Part time,36,DNF High School Education,Sydney,1.75
+75017,Unemployment,75,High School/Diploma,Tamworth,1.25
+141095,Permenant Full Time,24,DNF High School Education,Bathurst,1.5
+28830,Unemployment,16,DNF High School Education,Albury,2.0
+51987,Permenant Full Time,59,Degree+,Dubbo,1.25
