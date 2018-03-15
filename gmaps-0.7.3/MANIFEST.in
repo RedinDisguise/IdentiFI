@@ -1,3 +1,0 @@
-recursive-include gmaps/static *.*
-recursive-include gmaps/labextension *.*
-include LICENSE.txt

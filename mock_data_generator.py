@@ -1,11 +1,13 @@
 import random
 import csv
 
+# Summary: Used to generate data entries on an Australia level
+# Output: Outputs a string with an entry random attributes, risk associated with those attributes and state.
 def generate_entry():
     entry = ""
     emp_status = ["Unemployment", "Casual/Part time", "Permenant Full Time"]
     edu_level = ["DNF High School Education", "High School/Diploma", "Degree+"]
-    location = ["New South Wales", "Queensland", "Australian Capital Territory", "Northern Territory", "South Australia", "Victoria", "Western Australia", "Tasmania"]
+    state = ["New South Wales", "Queensland", "Australian Capital Territory", "Northern Territory", "South Australia", "Victoria", "Western Australia", "Tasmania"]
 
     random.seed
     income = str(random.randint(0,200000)) + ","
@@ -20,14 +22,16 @@ def generate_entry():
     edu = edu_level[random.randint(0, len(edu_level) - 1)] + ","
     entry = entry + edu
 
-    loc = location[random.randint(0, len(location) - 1)] + ","
-    entry = entry + loc
+    state = state[random.randint(0, len(state) - 1)] + ","
+    entry = entry + state
 
-    risk = 0
-    
+
+    # Removes comma and changes income into an int for risk calc below.
     income = income[:-1]
     income = int(income)
 
+    #
+    risk = 0
     if (income < 49999):
         risk = risk + 3
     elif (income < 99999):
@@ -42,6 +46,7 @@ def generate_entry():
     else:
         risk = risk + 1
     
+    # Removes comma and changes age into an int for risk calc below.
     age = age[:-1]
     age = int(age)
 
@@ -65,6 +70,8 @@ def generate_entry():
     entry = entry + "\n"
     return entry
 
+# Summary: Used to generate data entries on a NSW level
+# Output: Outputs a string with an entry random attributes, risk associated with those attributes and city.
 def generate_entry_nsw():
     entry = ""
     emp_status = ["Unemployment", "Casual/Part time", "Permenant Full Time"]
@@ -86,12 +93,12 @@ def generate_entry_nsw():
 
     loc = city[random.randint(0, len(city) - 1)] + ","
     entry = entry + loc
-
-    risk = 0
     
+    # Removes comma and changes income into an int for risk calc below.
     income = income[:-1]
     income = int(income)
 
+    risk = 0
     if (income < 49999):
         risk = risk + 3
     elif (income < 99999):
@@ -105,7 +112,8 @@ def generate_entry_nsw():
         risk = risk + 2
     else:
         risk = risk + 1
-    
+
+    # Removes comma and changes age into an int for risk calc below.   
     age = age[:-1]
     age = int(age)
 
@@ -129,11 +137,15 @@ def generate_entry_nsw():
     entry = entry + "\n"
     return entry
 
+# Summary: Used to generate data entries on a NSW suburb level across random suburbs
+# Output: Outputs a string with an entry random attributes, risk associated with those attributes and post code for a suburb.
 def generate_entry_nsw_suburb():
     entry = ""
     emp_status = ["Unemployment", "Casual/Part time", "Permenant Full Time"]
     edu_level = ["DNF High School Education", "High School/Diploma", "Degree+"]
-    post_codes = ["2750", "2747", "2148", "2770", "2760", "2160", "2161", "2166", "2144", "2165", "2026", "2022", "2034", "2024", "2089", "2090", "2061", "2020", "2030", "2040", "2050", "2070", "2100", "2120", "2211", "2210", "2220", "2230", "2250", "2046", "2040", "2150"]
+    post_codes = ["2750", "2747", "2148", "2770", "2760", "2160", "2161", "2166", "2144", "2165", 
+    "2026", "2022", "2034", "2024", "2089", "2090", "2061", "2020", "2030", "2040", "2050", "2070", 
+    "2100", "2120", "2211", "2210", "2220", "2230", "2250", "2046", "2040", "2150"]
 
     random.seed
     income = str(random.randint(0,200000)) + ","
@@ -151,11 +163,11 @@ def generate_entry_nsw_suburb():
     post_codes = post_codes[random.randint(0, len(post_codes) - 1)] + ","
     entry = entry + post_codes
 
-    risk = 0
-    
+    # Removes comma and changes income into an int for risk calc below.
     income = income[:-1]
     income = int(income)
 
+    risk = 0
     if (income < 49999):
         risk = risk + 3
     elif (income < 99999):
@@ -199,7 +211,7 @@ def create_australia_dataset():
     headings = "income,employement_status,age,education_level,state,risk\n"
     csv.write(headings)
 
-    # generates low-risk biased entry for australian states
+    # generates low-risk biased entry for each australian state
     def generate_biased_entries_australia():
         states = ["New South Wales", "Queensland", "Australian Capital Territory", "Northern Territory", "South Australia", "Victoria", "Western Australia", "Tasmania"]
         for state in states:
@@ -210,7 +222,7 @@ def create_australia_dataset():
                 biased_entries_per_state = biased_entries_per_state - 1
 
     generate_biased_entries_australia()
-    # generate random mock data
+    # generates rest of random mock data
     while (entries != 0):
         csv.write(generate_entry())
         entries = entries - 1
@@ -221,6 +233,7 @@ def create_nsw_dataset():
     headings = "income,employement_status,age,education_level,city,risk\n"
     csv.write(headings)
 
+    # generates rest of random mock data
     while (entries != 0):
         csv.write(generate_entry_nsw())
         entries = entries - 1
@@ -231,6 +244,7 @@ def create_nsw_suburb_dataset():
     headings = "income,employement_status,age,education_level,postcode,risk\n"
     csv.write(headings)
 
+    # generates low risk and high risk entries for select suburbs
     def create_biased_suburb_data():
         good_post_code = ["2026", "2022", "2034", "2024", "2089", "2090", "2061"]
         bad_post_code = ["2750", "2747", "2148", "2770", "2760", "2160", "2161", "2166", "2144", "2165"]
@@ -249,6 +263,7 @@ def create_nsw_suburb_dataset():
                 csv.write(entry)
                 count = count - 1
     
+
     create_biased_suburb_data()
 
     while (entries != 0):
@@ -257,7 +272,7 @@ def create_nsw_suburb_dataset():
 
     
 
-#Generate data
+#Generate data, uncomment which ever dataset is required
 #create_australia_dataset()
 #create_nsw_dataset()
 #create_nsw_suburb_dataset()
