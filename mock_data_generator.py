@@ -1,5 +1,4 @@
 import random
-import csv
 
 # Summary: Used to generate data entries on an Australia level
 # Output: Outputs a string with an entry random attributes, risk associated with those attributes and state.
