@@ -1,1001 +1,211 @@
-income,employement_status,age,education_level,territory,risk
-182027,Casual/Part time,26,High School/Diploma,New South Wales,1.5
-15341,Permenant Full Time,28,DNF High School Education,Victoria,2.0
-153012,Permenant Full Time,84,DNF High School Education,Victoria,1.0
-183739,Unemployment,38,High School/Diploma,Western Australia,1.25
-55364,Unemployment,38,High School/Diploma,Australian Capital Territory,1.5
-157493,Casual/Part time,40,Degree+,Tasmania,1.25
-172879,Permenant Full Time,68,Degree+,New South Wales,1.0
-146251,Permenant Full Time,49,DNF High School Education,Queensland,1.0
-171523,Casual/Part time,17,Degree+,Western Australia,1.5
-166327,Permenant Full Time,24,High School/Diploma,Tasmania,1.5
-156825,Permenant Full Time,21,DNF High School Education,Victoria,1.5
-109767,Unemployment,73,Degree+,Western Australia,1.0
-129465,Unemployment,52,DNF High School Education,Queensland,1.0
-156016,Permenant Full Time,84,DNF High School Education,Northern Territory,1.0
-117634,Casual/Part time,54,DNF High School Education,Northern Territory,1.0
-93021,Casual/Part time,73,High School/Diploma,Victoria,1.25
-196910,Unemployment,26,DNF High School Education,Queensland,1.5
-34131,Casual/Part time,72,DNF High School Education,Northern Territory,1.5
-125205,Permenant Full Time,67,High School/Diploma,Queensland,1.0
-109784,Casual/Part time,64,Degree+,South Australia,1.0
-147886,Permenant Full Time,76,DNF High School Education,South Australia,1.0
-70724,Permenant Full Time,51,Degree+,Western Australia,1.25
-131518,Casual/Part time,52,DNF High School Education,Victoria,1.0
-150305,Unemployment,24,Degree+,Northern Territory,1.5
-142559,Casual/Part time,56,Degree+,South Australia,1.0
-165357,Unemployment,55,DNF High School Education,Northern Territory,1.0
-28222,Unemployment,79,DNF High School Education,Queensland,1.5
-30983,Permenant Full Time,61,High School/Diploma,Northern Territory,1.5
-116783,Permenant Full Time,58,DNF High School Education,Queensland,1.0
-6929,Casual/Part time,30,Degree+,Northern Territory,1.75
-159113,Casual/Part time,16,DNF High School Education,Western Australia,1.5
-115612,Unemployment,55,DNF High School Education,Tasmania,1.0
-169503,Permenant Full Time,33,High School/Diploma,Victoria,1.25
-4323,Unemployment,64,DNF High School Education,South Australia,1.5
-144081,Casual/Part time,16,High School/Diploma,Tasmania,1.5
-45185,Permenant Full Time,78,DNF High School Education,South Australia,1.5
-151446,Permenant Full Time,84,Degree+,Victoria,1.0
-81900,Casual/Part time,70,Degree+,Victoria,1.25
-121731,Unemployment,29,High School/Diploma,Western Australia,1.25
-186617,Casual/Part time,54,High School/Diploma,South Australia,1.0
-66261,Casual/Part time,21,High School/Diploma,Western Australia,1.75
-115730,Casual/Part time,33,Degree+,Western Australia,1.25
-164130,Unemployment,40,DNF High School Education,Australian Capital Territory,1.25
-77338,Permenant Full Time,50,High School/Diploma,Western Australia,1.25
-15912,Unemployment,30,High School/Diploma,Tasmania,1.75
-34058,Casual/Part time,15,Degree+,Western Australia,2.0
-78263,Unemployment,69,DNF High School Education,Western Australia,1.25
-20303,Unemployment,38,High School/Diploma,Northern Territory,1.75
-152534,Permenant Full Time,52,High School/Diploma,Victoria,1.0
-17417,Permenant Full Time,76,High School/Diploma,Victoria,1.5
-174036,Permenant Full Time,44,High School/Diploma,Victoria,1.0
-193803,Casual/Part time,19,High School/Diploma,Queensland,1.5
-186236,Unemployment,47,DNF High School Education,Northern Territory,1.0
-165163,Permenant Full Time,27,DNF High School Education,New South Wales,1.5
-52076,Permenant Full Time,58,DNF High School Education,Western Australia,1.25
-1666,Permenant Full Time,18,DNF High School Education,Victoria,2.0
-27107,Casual/Part time,53,DNF High School Education,Tasmania,1.5
-55810,Unemployment,78,DNF High School Education,Queensland,1.25
-50840,Unemployment,26,DNF High School Education,Tasmania,1.75
-171400,Casual/Part time,21,Degree+,South Australia,1.5
-110991,Casual/Part time,33,Degree+,Northern Territory,1.25
-26639,Unemployment,74,Degree+,Australian Capital Territory,1.5
-14796,Unemployment,59,Degree+,Queensland,1.5
-58638,Permenant Full Time,59,Degree+,Western Australia,1.25
-122057,Permenant Full Time,73,Degree+,South Australia,1.0
-111372,Unemployment,72,High School/Diploma,Western Australia,1.0
-115002,Unemployment,24,DNF High School Education,Northern Territory,1.5
-69620,Permenant Full Time,35,DNF High School Education,Tasmania,1.5
-140974,Casual/Part time,36,Degree+,Victoria,1.25
-187121,Permenant Full Time,23,High School/Diploma,Queensland,1.5
-18155,Unemployment,17,High School/Diploma,South Australia,2.0
-123012,Permenant Full Time,23,High School/Diploma,Western Australia,1.5
-170450,Unemployment,70,High School/Diploma,South Australia,1.0
-8607,Casual/Part time,41,Degree+,Queensland,1.75
-86939,Permenant Full Time,57,DNF High School Education,Northern Territory,1.25
-80356,Casual/Part time,57,DNF High School Education,Western Australia,1.25
-68053,Casual/Part time,38,DNF High School Education,Australian Capital Territory,1.5
-97174,Permenant Full Time,69,DNF High School Education,South Australia,1.25
-87773,Casual/Part time,24,DNF High School Education,Victoria,1.75
-124214,Casual/Part time,82,DNF High School Education,Western Australia,1.0
-71382,Unemployment,60,DNF High School Education,South Australia,1.25
-100870,Permenant Full Time,83,High School/Diploma,Queensland,1.0
-175176,Casual/Part time,34,Degree+,Queensland,1.25
-17741,Permenant Full Time,85,High School/Diploma,Australian Capital Territory,1.5
-53490,Permenant Full Time,55,Degree+,Western Australia,1.25
-173335,Permenant Full Time,83,DNF High School Education,Australian Capital Territory,1.0
-95247,Permenant Full Time,40,DNF High School Education,Tasmania,1.5
-97443,Unemployment,15,Degree+,South Australia,1.75
-165319,Casual/Part time,53,Degree+,South Australia,1.0
-78112,Casual/Part time,30,High School/Diploma,New South Wales,1.5
-176765,Unemployment,64,Degree+,South Australia,1.0
-78445,Casual/Part time,67,Degree+,Northern Territory,1.25
-74257,Unemployment,20,Degree+,Northern Territory,1.75
-172203,Casual/Part time,65,Degree+,New South Wales,1.0
-138825,Casual/Part time,39,DNF High School Education,Northern Territory,1.25
-102564,Unemployment,74,High School/Diploma,Australian Capital Territory,1.0
-28917,Unemployment,63,DNF High School Education,South Australia,1.5
-8385,Permenant Full Time,73,High School/Diploma,New South Wales,1.5
-81240,Permenant Full Time,80,High School/Diploma,South Australia,1.25
-16530,Permenant Full Time,53,DNF High School Education,Western Australia,1.5
-118374,Permenant Full Time,41,High School/Diploma,Northern Territory,1.25
-60944,Permenant Full Time,65,DNF High School Education,Tasmania,1.25
-58266,Casual/Part time,58,Degree+,Western Australia,1.25
-52797,Casual/Part time,20,DNF High School Education,Western Australia,1.75
-133807,Casual/Part time,73,High School/Diploma,Queensland,1.0
-109517,Casual/Part time,84,High School/Diploma,Northern Territory,1.0
-162475,Unemployment,38,High School/Diploma,South Australia,1.25
-181580,Unemployment,46,Degree+,Australian Capital Territory,1.0
-131292,Casual/Part time,23,DNF High School Education,Western Australia,1.5
-164300,Unemployment,29,High School/Diploma,Queensland,1.25
-130510,Casual/Part time,26,High School/Diploma,Queensland,1.5
-198747,Unemployment,42,DNF High School Education,Queensland,1.25
-120615,Casual/Part time,65,High School/Diploma,Australian Capital Territory,1.0
-122800,Unemployment,35,High School/Diploma,Australian Capital Territory,1.25
-182324,Permenant Full Time,17,DNF High School Education,Australian Capital Territory,1.5
-188121,Permenant Full Time,35,DNF High School Education,Western Australia,1.25
-154887,Permenant Full Time,54,DNF High School Education,Tasmania,1.0
-84482,Unemployment,72,High School/Diploma,New South Wales,1.25
-3794,Unemployment,79,High School/Diploma,New South Wales,1.5
-129319,Permenant Full Time,35,Degree+,New South Wales,1.25
-44331,Permenant Full Time,48,Degree+,Northern Territory,1.5
-63238,Permenant Full Time,85,Degree+,Western Australia,1.25
-106304,Permenant Full Time,63,High School/Diploma,Western Australia,1.0
-144221,Casual/Part time,68,High School/Diploma,Queensland,1.0
-191250,Casual/Part time,20,High School/Diploma,Western Australia,1.5
-50134,Permenant Full Time,35,DNF High School Education,Northern Territory,1.5
-18969,Permenant Full Time,85,DNF High School Education,Western Australia,1.5
-41951,Casual/Part time,42,High School/Diploma,South Australia,1.75
-73836,Unemployment,16,Degree+,Northern Territory,1.75
-173881,Casual/Part time,44,High School/Diploma,Australian Capital Territory,1.0
-180156,Unemployment,38,Degree+,Victoria,1.25
-76285,Unemployment,59,DNF High School Education,Australian Capital Territory,1.25
-128734,Casual/Part time,45,DNF High School Education,Northern Territory,1.0
-121591,Permenant Full Time,33,High School/Diploma,Tasmania,1.25
-32808,Permenant Full Time,62,Degree+,Queensland,1.5
-53924,Permenant Full Time,51,DNF High School Education,Northern Territory,1.25
-39002,Permenant Full Time,32,High School/Diploma,South Australia,1.75
-84425,Unemployment,67,Degree+,Western Australia,1.25
-142353,Permenant Full Time,23,High School/Diploma,Australian Capital Territory,1.5
-175272,Casual/Part time,71,High School/Diploma,Queensland,1.0
-181767,Permenant Full Time,32,High School/Diploma,South Australia,1.25
-42535,Permenant Full Time,59,High School/Diploma,Victoria,1.5
-134948,Casual/Part time,17,High School/Diploma,Victoria,1.5
-147330,Casual/Part time,40,Degree+,New South Wales,1.25
-77789,Permenant Full Time,85,Degree+,Victoria,1.25
-95063,Casual/Part time,57,DNF High School Education,Western Australia,1.25
-100429,Casual/Part time,69,Degree+,Victoria,1.0
-12562,Unemployment,53,Degree+,Queensland,1.5
-111897,Permenant Full Time,50,Degree+,South Australia,1.0
-88900,Permenant Full Time,24,High School/Diploma,Tasmania,1.75
-47766,Unemployment,22,DNF High School Education,Western Australia,2.0
-154176,Unemployment,31,Degree+,Victoria,1.25
-42399,Unemployment,50,DNF High School Education,Northern Territory,1.5
-125946,Unemployment,23,High School/Diploma,Queensland,1.5
-160496,Unemployment,16,Degree+,South Australia,1.5
-75600,Permenant Full Time,66,Degree+,Queensland,1.25
-167153,Unemployment,67,Degree+,Tasmania,1.0
-107680,Casual/Part time,29,High School/Diploma,Australian Capital Territory,1.25
-157457,Unemployment,73,DNF High School Education,South Australia,1.0
-181966,Unemployment,37,Degree+,Northern Territory,1.25
-82087,Casual/Part time,31,DNF High School Education,Australian Capital Territory,1.5
-78662,Unemployment,83,Degree+,New South Wales,1.25
-108694,Unemployment,71,High School/Diploma,Queensland,1.0
-31343,Casual/Part time,72,DNF High School Education,Tasmania,1.5
-1324,Permenant Full Time,28,Degree+,Northern Territory,2.0
-84704,Casual/Part time,46,High School/Diploma,Tasmania,1.25
-147127,Casual/Part time,15,High School/Diploma,Australian Capital Territory,1.5
-112572,Casual/Part time,27,High School/Diploma,Australian Capital Territory,1.5
-71995,Unemployment,38,DNF High School Education,Northern Territory,1.5
-114646,Casual/Part time,78,High School/Diploma,Western Australia,1.0
-71690,Unemployment,31,High School/Diploma,Queensland,1.5
-92801,Permenant Full Time,46,Degree+,Western Australia,1.25
-148451,Casual/Part time,49,High School/Diploma,Tasmania,1.0
-142798,Permenant Full Time,78,Degree+,Australian Capital Territory,1.0
-106868,Unemployment,35,Degree+,Victoria,1.25
-55594,Unemployment,54,High School/Diploma,Tasmania,1.25
-69758,Unemployment,82,Degree+,Tasmania,1.25
-95837,Casual/Part time,44,DNF High School Education,New South Wales,1.25
-137216,Unemployment,33,DNF High School Education,Western Australia,1.25
-191873,Permenant Full Time,84,DNF High School Education,Northern Territory,1.0
-129742,Casual/Part time,85,Degree+,South Australia,1.0
-148213,Permenant Full Time,63,DNF High School Education,Northern Territory,1.0
-109616,Permenant Full Time,56,High School/Diploma,Tasmania,1.0
-82738,Permenant Full Time,37,High School/Diploma,Tasmania,1.5
-2236,Permenant Full Time,65,Degree+,Queensland,1.5
-8019,Permenant Full Time,37,Degree+,Victoria,1.75
-48408,Unemployment,31,DNF High School Education,Queensland,1.75
-192326,Casual/Part time,34,DNF High School Education,Victoria,1.25
-5279,Permenant Full Time,34,High School/Diploma,Northern Territory,1.75
-116310,Casual/Part time,61,High School/Diploma,South Australia,1.0
-165761,Permenant Full Time,53,High School/Diploma,Australian Capital Territory,1.0
-15908,Casual/Part time,58,Degree+,Northern Territory,1.5
-126843,Unemployment,59,High School/Diploma,Queensland,1.0
-78786,Casual/Part time,74,DNF High School Education,Western Australia,1.25
-95603,Permenant Full Time,61,DNF High School Education,Northern Territory,1.25
-151959,Casual/Part time,26,High School/Diploma,Victoria,1.5
-149904,Unemployment,81,High School/Diploma,Western Australia,1.0
-151823,Permenant Full Time,28,DNF High School Education,South Australia,1.5
-124135,Permenant Full Time,48,High School/Diploma,Australian Capital Territory,1.0
-196214,Unemployment,42,High School/Diploma,Queensland,1.25
-189343,Casual/Part time,44,High School/Diploma,Tasmania,1.0
-40137,Permenant Full Time,59,High School/Diploma,Queensland,1.5
-140291,Casual/Part time,24,Degree+,Northern Territory,1.5
-84894,Permenant Full Time,64,High School/Diploma,Tasmania,1.25
-2184,Unemployment,54,DNF High School Education,New South Wales,1.5
-94560,Casual/Part time,30,High School/Diploma,New South Wales,1.5
-173366,Casual/Part time,16,DNF High School Education,South Australia,1.5
-134284,Permenant Full Time,52,Degree+,Australian Capital Territory,1.0
-61525,Casual/Part time,62,High School/Diploma,Victoria,1.25
-75223,Permenant Full Time,84,DNF High School Education,South Australia,1.25
-102622,Permenant Full Time,45,Degree+,South Australia,1.0
-25944,Permenant Full Time,19,High School/Diploma,Tasmania,2.0
-96206,Unemployment,62,High School/Diploma,Victoria,1.25
-199319,Unemployment,49,Degree+,South Australia,1.0
-16135,Casual/Part time,56,Degree+,South Australia,1.5
-117065,Casual/Part time,52,High School/Diploma,South Australia,1.0
-141326,Casual/Part time,18,High School/Diploma,Queensland,1.5
-47687,Permenant Full Time,38,High School/Diploma,Australian Capital Territory,1.75
-116964,Casual/Part time,23,High School/Diploma,New South Wales,1.5
-60586,Unemployment,25,DNF High School Education,New South Wales,1.75
-186,Unemployment,57,High School/Diploma,New South Wales,1.5
-86407,Casual/Part time,80,Degree+,Northern Territory,1.25
-105686,Permenant Full Time,61,High School/Diploma,Tasmania,1.0
-42045,Unemployment,40,High School/Diploma,South Australia,1.75
-101783,Casual/Part time,34,Degree+,New South Wales,1.25
-68427,Casual/Part time,29,High School/Diploma,Victoria,1.5
-98674,Unemployment,44,Degree+,Queensland,1.25
-45879,Casual/Part time,46,DNF High School Education,Western Australia,1.5
-10673,Casual/Part time,82,High School/Diploma,Australian Capital Territory,1.5
-120281,Unemployment,65,DNF High School Education,Australian Capital Territory,1.0
-95458,Permenant Full Time,54,DNF High School Education,Victoria,1.25
-132700,Permenant Full Time,64,High School/Diploma,Queensland,1.0
-197580,Casual/Part time,69,DNF High School Education,New South Wales,1.0
-68340,Unemployment,79,DNF High School Education,New South Wales,1.25
-137550,Permenant Full Time,60,Degree+,Victoria,1.0
-9249,Casual/Part time,57,Degree+,Queensland,1.5
-28821,Casual/Part time,50,Degree+,South Australia,1.5
-86059,Casual/Part time,34,Degree+,Australian Capital Territory,1.5
-121121,Casual/Part time,65,High School/Diploma,Queensland,1.0
-158754,Unemployment,52,High School/Diploma,New South Wales,1.0
-14891,Casual/Part time,15,High School/Diploma,South Australia,2.0
-102909,Casual/Part time,29,Degree+,Northern Territory,1.25
-139910,Permenant Full Time,59,High School/Diploma,South Australia,1.0
-70801,Permenant Full Time,19,High School/Diploma,Queensland,1.75
-93805,Permenant Full Time,15,High School/Diploma,South Australia,1.75
-116989,Unemployment,63,High School/Diploma,Victoria,1.0
-173404,Unemployment,21,Degree+,Northern Territory,1.5
-168957,Unemployment,53,Degree+,Western Australia,1.0
-136397,Permenant Full Time,76,High School/Diploma,Australian Capital Territory,1.0
-99989,Permenant Full Time,45,High School/Diploma,Tasmania,1.25
-151284,Unemployment,61,DNF High School Education,South Australia,1.0
-106720,Casual/Part time,63,DNF High School Education,Australian Capital Territory,1.0
-101678,Unemployment,15,High School/Diploma,Queensland,1.5
-7388,Unemployment,15,High School/Diploma,Western Australia,2.0
-105683,Unemployment,64,DNF High School Education,South Australia,1.0
-137749,Casual/Part time,43,Degree+,Tasmania,1.25
-154388,Permenant Full Time,24,Degree+,New South Wales,1.5
-129750,Permenant Full Time,25,Degree+,Victoria,1.5
-103658,Permenant Full Time,34,DNF High School Education,Australian Capital Territory,1.25
-117095,Permenant Full Time,17,High School/Diploma,Queensland,1.5
-143061,Casual/Part time,25,High School/Diploma,South Australia,1.5
-26614,Permenant Full Time,61,Degree+,Northern Territory,1.5
-65677,Unemployment,21,Degree+,Western Australia,1.75
-106307,Casual/Part time,69,Degree+,Tasmania,1.0
-104768,Permenant Full Time,37,Degree+,South Australia,1.25
-57841,Unemployment,30,DNF High School Education,Queensland,1.5
-180245,Unemployment,38,Degree+,Western Australia,1.25
-155583,Permenant Full Time,38,High School/Diploma,Victoria,1.25
-123477,Unemployment,81,DNF High School Education,Australian Capital Territory,1.0
-167644,Permenant Full Time,63,Degree+,Victoria,1.0
-112408,Casual/Part time,63,DNF High School Education,Queensland,1.0
-149368,Permenant Full Time,16,High School/Diploma,Victoria,1.5
-16881,Casual/Part time,82,Degree+,South Australia,1.5
-188707,Permenant Full Time,31,High School/Diploma,New South Wales,1.25
-132329,Casual/Part time,66,DNF High School Education,Tasmania,1.0
-110172,Casual/Part time,51,Degree+,Queensland,1.0
-1315,Permenant Full Time,46,High School/Diploma,Queensland,1.5
-48451,Permenant Full Time,49,Degree+,Queensland,1.5
-18419,Casual/Part time,35,Degree+,New South Wales,1.75
-80448,Permenant Full Time,83,DNF High School Education,Victoria,1.25
-77169,Casual/Part time,64,Degree+,New South Wales,1.25
-189146,Permenant Full Time,15,DNF High School Education,Victoria,1.5
-195630,Casual/Part time,35,Degree+,Tasmania,1.25
-176906,Casual/Part time,31,High School/Diploma,Northern Territory,1.25
-40788,Casual/Part time,48,Degree+,Northern Territory,1.5
-197939,Unemployment,75,Degree+,Tasmania,1.0
-42076,Unemployment,31,DNF High School Education,Queensland,1.75
-84108,Permenant Full Time,56,High School/Diploma,Northern Territory,1.25
-31442,Permenant Full Time,60,Degree+,Western Australia,1.5
-155560,Permenant Full Time,28,Degree+,New South Wales,1.5
-44995,Unemployment,67,Degree+,Queensland,1.5
-66298,Permenant Full Time,80,Degree+,Tasmania,1.25
-149709,Unemployment,41,DNF High School Education,Tasmania,1.25
-161711,Unemployment,40,DNF High School Education,Western Australia,1.25
-118600,Unemployment,16,DNF High School Education,New South Wales,1.5
-36613,Unemployment,64,Degree+,Tasmania,1.5
-194017,Casual/Part time,75,DNF High School Education,Northern Territory,1.0
-84362,Casual/Part time,41,DNF High School Education,Australian Capital Territory,1.5
-102730,Unemployment,82,High School/Diploma,New South Wales,1.0
-99308,Casual/Part time,77,DNF High School Education,Western Australia,1.25
-28237,Unemployment,27,Degree+,Western Australia,2.0
-194926,Casual/Part time,72,DNF High School Education,Western Australia,1.0
-53645,Permenant Full Time,24,DNF High School Education,Australian Capital Territory,1.75
-53165,Casual/Part time,66,DNF High School Education,Tasmania,1.25
-39188,Casual/Part time,26,High School/Diploma,Queensland,2.0
-74164,Casual/Part time,71,High School/Diploma,Queensland,1.25
-102558,Unemployment,85,Degree+,Australian Capital Territory,1.0
-5607,Unemployment,17,DNF High School Education,Queensland,2.0
-137499,Casual/Part time,69,DNF High School Education,South Australia,1.0
-171259,Unemployment,25,Degree+,Northern Territory,1.5
-129139,Casual/Part time,62,DNF High School Education,Northern Territory,1.0
-86398,Casual/Part time,82,High School/Diploma,Victoria,1.25
-138602,Casual/Part time,68,DNF High School Education,Western Australia,1.0
-84063,Casual/Part time,37,DNF High School Education,Western Australia,1.5
-151182,Unemployment,82,DNF High School Education,Australian Capital Territory,1.0
-131676,Permenant Full Time,33,Degree+,Tasmania,1.25
-92529,Permenant Full Time,69,DNF High School Education,Australian Capital Territory,1.25
-180037,Permenant Full Time,52,Degree+,New South Wales,1.0
-49796,Unemployment,76,Degree+,Victoria,1.5
-43815,Casual/Part time,56,DNF High School Education,Western Australia,1.5
-87233,Unemployment,26,DNF High School Education,Western Australia,1.75
-114589,Unemployment,58,Degree+,Northern Territory,1.0
-137523,Unemployment,66,Degree+,Western Australia,1.0
-52516,Casual/Part time,21,High School/Diploma,South Australia,1.75
-121336,Permenant Full Time,41,High School/Diploma,Tasmania,1.25
-72939,Permenant Full Time,35,DNF High School Education,Western Australia,1.5
-160589,Casual/Part time,30,High School/Diploma,Queensland,1.25
-101221,Unemployment,48,High School/Diploma,Queensland,1.0
-60876,Casual/Part time,44,High School/Diploma,Queensland,1.25
-49231,Unemployment,84,Degree+,Western Australia,1.5
-198892,Unemployment,42,High School/Diploma,Northern Territory,1.25
-36944,Casual/Part time,72,High School/Diploma,South Australia,1.5
-108198,Permenant Full Time,31,DNF High School Education,Queensland,1.25
-138468,Permenant Full Time,79,High School/Diploma,South Australia,1.0
-89336,Permenant Full Time,80,High School/Diploma,New South Wales,1.25
-3603,Casual/Part time,53,DNF High School Education,Tasmania,1.5
-34,Casual/Part time,81,Degree+,Queensland,1.5
-3163,Permenant Full Time,66,High School/Diploma,New South Wales,1.5
-101894,Unemployment,15,Degree+,Victoria,1.5
-52582,Casual/Part time,22,High School/Diploma,Australian Capital Territory,1.75
-83508,Permenant Full Time,24,High School/Diploma,Western Australia,1.75
-68354,Unemployment,33,High School/Diploma,Northern Territory,1.5
-129910,Unemployment,83,DNF High School Education,Western Australia,1.0
-93872,Permenant Full Time,28,DNF High School Education,Victoria,1.75
-19543,Casual/Part time,76,DNF High School Education,Northern Territory,1.5
-172029,Permenant Full Time,18,High School/Diploma,South Australia,1.5
-97188,Unemployment,78,DNF High School Education,Western Australia,1.25
-183801,Permenant Full Time,63,High School/Diploma,Tasmania,1.0
-56309,Unemployment,24,DNF High School Education,Western Australia,1.75
-91669,Permenant Full Time,81,DNF High School Education,Western Australia,1.25
-130511,Casual/Part time,51,Degree+,Australian Capital Territory,1.0
-135262,Casual/Part time,71,Degree+,New South Wales,1.0
-140072,Unemployment,54,High School/Diploma,Tasmania,1.0
-97964,Unemployment,33,High School/Diploma,Western Australia,1.5
-108681,Unemployment,69,DNF High School Education,South Australia,1.0
-92736,Unemployment,22,DNF High School Education,Tasmania,1.75
-120338,Unemployment,38,High School/Diploma,Queensland,1.25
-110479,Unemployment,78,High School/Diploma,Australian Capital Territory,1.0
-105517,Permenant Full Time,56,DNF High School Education,Queensland,1.0
-17907,Unemployment,71,High School/Diploma,Western Australia,1.5
-138494,Unemployment,28,Degree+,Northern Territory,1.5
-80602,Permenant Full Time,68,Degree+,Tasmania,1.25
-128648,Unemployment,39,High School/Diploma,South Australia,1.25
-73709,Unemployment,71,Degree+,Australian Capital Territory,1.25
-94663,Permenant Full Time,47,DNF High School Education,Australian Capital Territory,1.25
-9365,Unemployment,43,Degree+,Tasmania,1.75
-146433,Permenant Full Time,56,DNF High School Education,Northern Territory,1.0
-140817,Unemployment,20,Degree+,Queensland,1.5
-1791,Unemployment,46,DNF High School Education,South Australia,1.5
-123134,Casual/Part time,54,Degree+,Tasmania,1.0
-31007,Casual/Part time,59,DNF High School Education,Northern Territory,1.5
-89402,Casual/Part time,85,Degree+,Queensland,1.25
-66345,Casual/Part time,46,DNF High School Education,Western Australia,1.25
-88261,Unemployment,62,Degree+,Tasmania,1.25
-14967,Casual/Part time,75,High School/Diploma,Tasmania,1.5
-151674,Permenant Full Time,23,DNF High School Education,Queensland,1.5
-53982,Permenant Full Time,78,High School/Diploma,Victoria,1.25
-188753,Casual/Part time,16,High School/Diploma,Tasmania,1.5
-55435,Unemployment,69,Degree+,Queensland,1.25
-114783,Permenant Full Time,36,Degree+,Queensland,1.25
-160107,Casual/Part time,79,Degree+,South Australia,1.0
-133427,Casual/Part time,18,DNF High School Education,Queensland,1.5
-192543,Permenant Full Time,62,DNF High School Education,Queensland,1.0
-124572,Casual/Part time,67,DNF High School Education,Australian Capital Territory,1.0
-97263,Casual/Part time,80,High School/Diploma,Australian Capital Territory,1.25
-105484,Unemployment,27,DNF High School Education,South Australia,1.5
-105095,Permenant Full Time,44,High School/Diploma,Tasmania,1.0
-143489,Casual/Part time,17,DNF High School Education,Queensland,1.5
-72417,Casual/Part time,41,High School/Diploma,Victoria,1.5
-144871,Unemployment,61,Degree+,Australian Capital Territory,1.0
-129168,Casual/Part time,16,DNF High School Education,Tasmania,1.5
-165977,Permenant Full Time,63,High School/Diploma,Northern Territory,1.0
-64247,Unemployment,23,High School/Diploma,Tasmania,1.75
-117757,Casual/Part time,80,DNF High School Education,Western Australia,1.0
-118925,Casual/Part time,61,High School/Diploma,Queensland,1.0
-172450,Permenant Full Time,79,Degree+,Western Australia,1.0
-158781,Casual/Part time,61,Degree+,Northern Territory,1.0
-93416,Permenant Full Time,83,Degree+,Northern Territory,1.25
-125515,Casual/Part time,58,High School/Diploma,Australian Capital Territory,1.0
-155923,Permenant Full Time,55,DNF High School Education,New South Wales,1.0
-123363,Unemployment,50,DNF High School Education,Northern Territory,1.0
-177606,Unemployment,65,DNF High School Education,Queensland,1.0
-89138,Casual/Part time,15,Degree+,Western Australia,1.75
-159182,Permenant Full Time,27,High School/Diploma,Tasmania,1.5
-10102,Permenant Full Time,29,High School/Diploma,Queensland,1.75
-22071,Unemployment,41,Degree+,Victoria,1.75
-38558,Permenant Full Time,15,Degree+,South Australia,2.0
-170202,Casual/Part time,85,Degree+,Victoria,1.0
-118018,Unemployment,78,High School/Diploma,South Australia,1.0
-148907,Casual/Part time,35,High School/Diploma,Victoria,1.25
-197112,Casual/Part time,26,DNF High School Education,Northern Territory,1.5
-172843,Casual/Part time,33,High School/Diploma,Victoria,1.25
-67315,Unemployment,17,DNF High School Education,South Australia,1.75
-36870,Casual/Part time,68,DNF High School Education,Australian Capital Territory,1.5
-80012,Casual/Part time,24,Degree+,Victoria,1.75
-190893,Permenant Full Time,48,Degree+,South Australia,1.0
-145251,Permenant Full Time,80,High School/Diploma,South Australia,1.0
-151873,Permenant Full Time,24,High School/Diploma,South Australia,1.5
-98074,Unemployment,29,Degree+,Queensland,1.5
-23833,Casual/Part time,71,High School/Diploma,Queensland,1.5
-160959,Casual/Part time,30,DNF High School Education,South Australia,1.25
-158184,Permenant Full Time,42,Degree+,Tasmania,1.25
-121295,Unemployment,64,High School/Diploma,Northern Territory,1.0
-149543,Unemployment,17,DNF High School Education,New South Wales,1.5
-63066,Unemployment,47,DNF High School Education,Victoria,1.25
-22786,Permenant Full Time,22,High School/Diploma,New South Wales,2.0
-80821,Permenant Full Time,76,DNF High School Education,Australian Capital Territory,1.25
-5273,Unemployment,20,Degree+,Northern Territory,2.0
-188926,Permenant Full Time,17,Degree+,Queensland,1.5
-68933,Unemployment,38,DNF High School Education,Western Australia,1.5
-84861,Permenant Full Time,33,Degree+,Tasmania,1.5
-163821,Permenant Full Time,31,Degree+,Australian Capital Territory,1.25
-32366,Permenant Full Time,47,Degree+,Australian Capital Territory,1.5
-76836,Permenant Full Time,51,Degree+,Tasmania,1.25
-198015,Permenant Full Time,43,High School/Diploma,Australian Capital Territory,1.25
-137366,Unemployment,72,DNF High School Education,Western Australia,1.0
-68903,Permenant Full Time,61,High School/Diploma,Northern Territory,1.25
-162720,Unemployment,28,High School/Diploma,Northern Territory,1.5
-88611,Permenant Full Time,85,DNF High School Education,New South Wales,1.25
-144904,Casual/Part time,58,Degree+,Western Australia,1.0
-139388,Casual/Part time,73,High School/Diploma,Western Australia,1.0
-81327,Casual/Part time,23,Degree+,South Australia,1.75
-33745,Permenant Full Time,54,High School/Diploma,Victoria,1.5
-185603,Casual/Part time,31,DNF High School Education,Northern Territory,1.25
-42152,Unemployment,75,Degree+,Western Australia,1.5
-176351,Casual/Part time,60,High School/Diploma,New South Wales,1.0
-161778,Unemployment,23,High School/Diploma,Tasmania,1.5
-159003,Permenant Full Time,44,DNF High School Education,Victoria,1.0
-109761,Casual/Part time,33,DNF High School Education,Victoria,1.25
-160970,Permenant Full Time,82,High School/Diploma,Australian Capital Territory,1.0
-19935,Permenant Full Time,73,High School/Diploma,Australian Capital Territory,1.5
-131839,Unemployment,56,DNF High School Education,Victoria,1.0
-16120,Casual/Part time,25,DNF High School Education,Queensland,2.0
-43988,Casual/Part time,21,High School/Diploma,Western Australia,2.0
-8813,Permenant Full Time,41,High School/Diploma,Tasmania,1.75
-173558,Casual/Part time,34,Degree+,Australian Capital Territory,1.25
-6921,Unemployment,59,Degree+,South Australia,1.5
-6282,Casual/Part time,41,High School/Diploma,Queensland,1.75
-53311,Casual/Part time,72,DNF High School Education,New South Wales,1.25
-36859,Casual/Part time,56,Degree+,Northern Territory,1.5
-108384,Permenant Full Time,36,Degree+,Western Australia,1.25
-168767,Unemployment,80,DNF High School Education,Northern Territory,1.0
-65559,Unemployment,80,High School/Diploma,Northern Territory,1.25
-86704,Casual/Part time,28,High School/Diploma,Northern Territory,1.75
-147562,Casual/Part time,27,DNF High School Education,Victoria,1.5
-129422,Unemployment,35,Degree+,Tasmania,1.25
-141865,Unemployment,48,DNF High School Education,Queensland,1.0
-188533,Unemployment,50,Degree+,Victoria,1.0
-166825,Casual/Part time,70,DNF High School Education,New South Wales,1.0
-68435,Permenant Full Time,37,Degree+,New South Wales,1.5
-164116,Casual/Part time,63,High School/Diploma,Western Australia,1.0
-103697,Casual/Part time,75,Degree+,Tasmania,1.0
-197001,Casual/Part time,45,High School/Diploma,Tasmania,1.0
-52669,Permenant Full Time,36,High School/Diploma,Australian Capital Territory,1.5
-195310,Unemployment,40,Degree+,New South Wales,1.25
-80178,Casual/Part time,16,Degree+,Tasmania,1.75
-81195,Unemployment,21,Degree+,Victoria,1.75
-104947,Casual/Part time,71,High School/Diploma,Australian Capital Territory,1.0
-194229,Casual/Part time,66,DNF High School Education,Tasmania,1.0
-177749,Unemployment,33,High School/Diploma,Australian Capital Territory,1.25
-3646,Permenant Full Time,24,Degree+,South Australia,2.0
-107844,Casual/Part time,17,Degree+,Northern Territory,1.5
-102494,Unemployment,66,DNF High School Education,Australian Capital Territory,1.0
-11593,Unemployment,79,High School/Diploma,Queensland,1.5
-189920,Unemployment,50,High School/Diploma,South Australia,1.0
-103871,Casual/Part time,31,Degree+,Victoria,1.25
-97323,Casual/Part time,26,Degree+,Northern Territory,1.75
-50425,Permenant Full Time,58,DNF High School Education,New South Wales,1.25
-137817,Permenant Full Time,75,DNF High School Education,Tasmania,1.0
-194253,Permenant Full Time,24,High School/Diploma,Australian Capital Territory,1.5
-145015,Unemployment,46,High School/Diploma,South Australia,1.0
-120521,Unemployment,16,DNF High School Education,Victoria,1.5
-198631,Unemployment,35,Degree+,New South Wales,1.25
-147174,Unemployment,72,High School/Diploma,Northern Territory,1.0
-57404,Unemployment,19,High School/Diploma,Western Australia,1.75
-20165,Permenant Full Time,83,DNF High School Education,Queensland,1.5
-33665,Casual/Part time,23,High School/Diploma,Western Australia,2.0
-35522,Permenant Full Time,72,DNF High School Education,Western Australia,1.5
-187809,Casual/Part time,66,DNF High School Education,Victoria,1.0
-102827,Unemployment,77,DNF High School Education,Victoria,1.0
-151529,Unemployment,67,Degree+,Queensland,1.0
-62070,Unemployment,81,DNF High School Education,Victoria,1.25
-176157,Unemployment,50,DNF High School Education,Victoria,1.0
-34755,Casual/Part time,31,High School/Diploma,Australian Capital Territory,1.75
-50675,Unemployment,84,DNF High School Education,Northern Territory,1.25
-86054,Permenant Full Time,78,Degree+,Victoria,1.25
-103276,Unemployment,74,High School/Diploma,New South Wales,1.0
-30299,Casual/Part time,82,Degree+,New South Wales,1.5
-6066,Permenant Full Time,51,Degree+,Northern Territory,1.5
-115157,Permenant Full Time,72,High School/Diploma,Northern Territory,1.0
-15171,Unemployment,45,Degree+,Western Australia,1.5
-12021,Unemployment,47,DNF High School Education,Western Australia,1.5
-196677,Unemployment,28,DNF High School Education,Australian Capital Territory,1.5
-120626,Casual/Part time,57,Degree+,Victoria,1.0
-150576,Casual/Part time,46,DNF High School Education,Australian Capital Territory,1.0
-144764,Casual/Part time,59,DNF High School Education,South Australia,1.0
-115767,Permenant Full Time,24,Degree+,Queensland,1.5
-45059,Unemployment,18,High School/Diploma,Queensland,2.0
-32569,Permenant Full Time,18,High School/Diploma,Western Australia,2.0
-117427,Unemployment,41,High School/Diploma,Tasmania,1.25
-71414,Casual/Part time,54,High School/Diploma,Queensland,1.25
-86534,Unemployment,40,High School/Diploma,New South Wales,1.5
-184386,Casual/Part time,53,High School/Diploma,Australian Capital Territory,1.0
-113754,Casual/Part time,83,High School/Diploma,Queensland,1.0
-13955,Unemployment,68,Degree+,South Australia,1.5
-23250,Permenant Full Time,43,DNF High School Education,Victoria,1.75
-4687,Casual/Part time,55,DNF High School Education,Victoria,1.5
-100165,Unemployment,75,Degree+,Queensland,1.0
-87182,Unemployment,66,Degree+,Tasmania,1.25
-2907,Permenant Full Time,52,DNF High School Education,New South Wales,1.5
-175440,Permenant Full Time,29,DNF High School Education,South Australia,1.25
-94279,Casual/Part time,58,High School/Diploma,Northern Territory,1.25
-98473,Permenant Full Time,33,Degree+,Victoria,1.5
-172809,Casual/Part time,39,DNF High School Education,New South Wales,1.25
-122449,Unemployment,34,DNF High School Education,South Australia,1.25
-26210,Permenant Full Time,37,DNF High School Education,South Australia,1.75
-196305,Permenant Full Time,37,Degree+,Australian Capital Territory,1.25
-18164,Permenant Full Time,61,DNF High School Education,Western Australia,1.5
-128238,Permenant Full Time,36,High School/Diploma,Tasmania,1.25
-128153,Unemployment,62,Degree+,Queensland,1.0
-29633,Casual/Part time,24,Degree+,Western Australia,2.0
-149666,Casual/Part time,55,High School/Diploma,Australian Capital Territory,1.0
-133618,Casual/Part time,50,DNF High School Education,South Australia,1.0
-167547,Unemployment,29,Degree+,Northern Territory,1.25
-110173,Casual/Part time,24,High School/Diploma,Tasmania,1.5
-173237,Casual/Part time,57,High School/Diploma,Victoria,1.0
-5895,Permenant Full Time,18,Degree+,South Australia,2.0
-166280,Unemployment,52,High School/Diploma,Victoria,1.0
-145814,Casual/Part time,70,Degree+,Victoria,1.0
-13638,Casual/Part time,15,DNF High School Education,Tasmania,2.0
-171112,Casual/Part time,56,DNF High School Education,South Australia,1.0
-87652,Casual/Part time,36,High School/Diploma,South Australia,1.5
-110047,Permenant Full Time,53,Degree+,Tasmania,1.0
-95464,Unemployment,72,DNF High School Education,New South Wales,1.25
-53792,Permenant Full Time,25,DNF High School Education,Australian Capital Territory,1.75
-170099,Casual/Part time,78,Degree+,South Australia,1.0
-101934,Casual/Part time,81,Degree+,Australian Capital Territory,1.0
-73754,Casual/Part time,41,DNF High School Education,Australian Capital Territory,1.5
-141946,Permenant Full Time,70,Degree+,Australian Capital Territory,1.0
-5076,Casual/Part time,18,Degree+,Australian Capital Territory,2.0
-192085,Casual/Part time,34,Degree+,Victoria,1.25
-92246,Permenant Full Time,61,High School/Diploma,Australian Capital Territory,1.25
-89537,Permenant Full Time,20,Degree+,South Australia,1.75
-93277,Casual/Part time,16,DNF High School Education,New South Wales,1.75
-38019,Unemployment,59,DNF High School Education,Northern Territory,1.5
-119495,Unemployment,80,DNF High School Education,Western Australia,1.0
-92624,Permenant Full Time,72,High School/Diploma,Northern Territory,1.25
-142890,Unemployment,80,DNF High School Education,Northern Territory,1.0
-101328,Unemployment,67,High School/Diploma,New South Wales,1.0
-141843,Permenant Full Time,56,High School/Diploma,Queensland,1.0
-36208,Unemployment,79,DNF High School Education,Western Australia,1.5
-165457,Permenant Full Time,64,High School/Diploma,Australian Capital Territory,1.0
-69372,Permenant Full Time,61,Degree+,Queensland,1.25
-57739,Permenant Full Time,16,DNF High School Education,Western Australia,1.75
-128894,Unemployment,83,Degree+,Northern Territory,1.0
-31647,Casual/Part time,30,High School/Diploma,Northern Territory,1.75
-66813,Casual/Part time,43,DNF High School Education,Tasmania,1.5
-101233,Unemployment,60,High School/Diploma,Northern Territory,1.0
-39020,Permenant Full Time,64,DNF High School Education,Victoria,1.5
-136911,Unemployment,65,DNF High School Education,Queensland,1.0
-139375,Unemployment,49,DNF High School Education,Western Australia,1.0
-50931,Unemployment,50,Degree+,Western Australia,1.25
-39925,Unemployment,51,Degree+,Queensland,1.5
-23332,Unemployment,77,High School/Diploma,Australian Capital Territory,1.5
-85761,Permenant Full Time,66,High School/Diploma,Victoria,1.25
-114218,Unemployment,51,High School/Diploma,Australian Capital Territory,1.0
-106838,Casual/Part time,36,DNF High School Education,Western Australia,1.25
-183062,Casual/Part time,55,High School/Diploma,Victoria,1.0
-124106,Unemployment,30,Degree+,Tasmania,1.25
-113506,Casual/Part time,23,DNF High School Education,New South Wales,1.5
-161929,Casual/Part time,70,DNF High School Education,South Australia,1.0
-78365,Unemployment,33,High School/Diploma,Northern Territory,1.5
-184804,Permenant Full Time,22,DNF High School Education,Victoria,1.5
-46818,Permenant Full Time,67,Degree+,South Australia,1.5
-47642,Unemployment,40,Degree+,Victoria,1.75
-74242,Unemployment,44,Degree+,Victoria,1.25
-183141,Unemployment,76,Degree+,South Australia,1.0
-128914,Casual/Part time,34,High School/Diploma,Western Australia,1.25
-75989,Unemployment,69,High School/Diploma,Australian Capital Territory,1.25
-183399,Permenant Full Time,47,High School/Diploma,Western Australia,1.0
-96876,Permenant Full Time,32,DNF High School Education,Victoria,1.5
-6724,Permenant Full Time,62,Degree+,South Australia,1.5
-29939,Permenant Full Time,51,High School/Diploma,Queensland,1.5
-109940,Permenant Full Time,42,DNF High School Education,Tasmania,1.25
-58411,Casual/Part time,45,Degree+,South Australia,1.25
-171718,Permenant Full Time,44,DNF High School Education,Northern Territory,1.0
-42188,Permenant Full Time,47,High School/Diploma,New South Wales,1.5
-52640,Casual/Part time,56,High School/Diploma,Australian Capital Territory,1.25
-180864,Unemployment,22,DNF High School Education,South Australia,1.5
-116343,Unemployment,54,High School/Diploma,Australian Capital Territory,1.0
-186601,Permenant Full Time,71,High School/Diploma,Victoria,1.0
-132198,Casual/Part time,84,High School/Diploma,Northern Territory,1.0
-28112,Casual/Part time,67,High School/Diploma,Tasmania,1.5
-159052,Casual/Part time,56,DNF High School Education,New South Wales,1.0
-169112,Unemployment,71,High School/Diploma,Victoria,1.0
-74043,Permenant Full Time,29,Degree+,Victoria,1.5
-195960,Casual/Part time,56,High School/Diploma,Australian Capital Territory,1.0
-64122,Permenant Full Time,70,High School/Diploma,Australian Capital Territory,1.25
-108981,Unemployment,42,High School/Diploma,Tasmania,1.25
-169191,Permenant Full Time,55,High School/Diploma,Northern Territory,1.0
-123631,Unemployment,79,Degree+,Tasmania,1.0
-134554,Permenant Full Time,62,High School/Diploma,Australian Capital Territory,1.0
-184859,Casual/Part time,24,DNF High School Education,Victoria,1.5
-103828,Casual/Part time,21,Degree+,New South Wales,1.5
-176155,Permenant Full Time,28,Degree+,New South Wales,1.5
-17663,Casual/Part time,84,High School/Diploma,New South Wales,1.5
-73609,Casual/Part time,55,High School/Diploma,Australian Capital Territory,1.25
-60850,Unemployment,51,Degree+,Australian Capital Territory,1.25
-132266,Casual/Part time,75,DNF High School Education,Australian Capital Territory,1.0
-136467,Permenant Full Time,52,DNF High School Education,Victoria,1.0
-142941,Unemployment,34,DNF High School Education,Australian Capital Territory,1.25
-142577,Unemployment,79,Degree+,Northern Territory,1.0
-131519,Permenant Full Time,59,High School/Diploma,South Australia,1.0
-139013,Unemployment,63,High School/Diploma,Victoria,1.0
-52470,Casual/Part time,28,Degree+,Victoria,1.75
-123901,Casual/Part time,68,DNF High School Education,Victoria,1.0
-130679,Unemployment,64,High School/Diploma,Northern Territory,1.0
-51691,Permenant Full Time,69,Degree+,Northern Territory,1.25
-192757,Casual/Part time,50,DNF High School Education,Western Australia,1.0
-122956,Permenant Full Time,71,DNF High School Education,New South Wales,1.0
-95396,Unemployment,79,DNF High School Education,Northern Territory,1.25
-168239,Casual/Part time,26,Degree+,New South Wales,1.5
-182125,Unemployment,52,High School/Diploma,Tasmania,1.0
-25343,Casual/Part time,43,DNF High School Education,New South Wales,1.75
-128034,Permenant Full Time,61,Degree+,Australian Capital Territory,1.0
-59320,Permenant Full Time,43,DNF High School Education,Northern Territory,1.5
-36004,Unemployment,58,High School/Diploma,Western Australia,1.5
-169982,Permenant Full Time,76,High School/Diploma,Victoria,1.0
-155110,Unemployment,72,High School/Diploma,Queensland,1.0
-65068,Casual/Part time,19,DNF High School Education,New South Wales,1.75
-47622,Casual/Part time,60,Degree+,New South Wales,1.5
-119798,Casual/Part time,33,DNF High School Education,Tasmania,1.25
-83912,Permenant Full Time,54,High School/Diploma,Australian Capital Territory,1.25
-137993,Unemployment,31,DNF High School Education,Western Australia,1.25
-78504,Unemployment,48,DNF High School Education,New South Wales,1.25
-83670,Unemployment,51,DNF High School Education,South Australia,1.25
-31070,Permenant Full Time,57,High School/Diploma,Australian Capital Territory,1.5
-196501,Casual/Part time,31,Degree+,Australian Capital Territory,1.25
-32944,Permenant Full Time,43,DNF High School Education,Western Australia,1.75
-13896,Permenant Full Time,37,High School/Diploma,New South Wales,1.75
-85007,Casual/Part time,59,High School/Diploma,Tasmania,1.25
-44251,Permenant Full Time,60,Degree+,Tasmania,1.5
-33261,Unemployment,52,Degree+,Victoria,1.5
-61144,Casual/Part time,77,High School/Diploma,Queensland,1.25
-180144,Permenant Full Time,83,High School/Diploma,Northern Territory,1.0
-133636,Permenant Full Time,84,High School/Diploma,Northern Territory,1.0
-163403,Unemployment,17,DNF High School Education,Australian Capital Territory,1.5
-189295,Permenant Full Time,24,DNF High School Education,Tasmania,1.5
-137924,Permenant Full Time,50,High School/Diploma,Tasmania,1.0
-81201,Permenant Full Time,73,High School/Diploma,Queensland,1.25
-105092,Unemployment,47,DNF High School Education,Tasmania,1.0
-85923,Casual/Part time,48,Degree+,New South Wales,1.25
-186571,Unemployment,57,High School/Diploma,Queensland,1.0
-10016,Casual/Part time,77,High School/Diploma,New South Wales,1.5
-174472,Permenant Full Time,26,Degree+,Australian Capital Territory,1.5
-133067,Permenant Full Time,39,DNF High School Education,South Australia,1.25
-1681,Casual/Part time,28,DNF High School Education,Queensland,2.0
-183377,Casual/Part time,54,High School/Diploma,New South Wales,1.0
-190331,Casual/Part time,20,High School/Diploma,South Australia,1.5
-9365,Unemployment,52,DNF High School Education,New South Wales,1.5
-91323,Casual/Part time,74,High School/Diploma,Tasmania,1.25
-84596,Unemployment,83,DNF High School Education,Queensland,1.25
-19140,Permenant Full Time,15,Degree+,New South Wales,2.0
-107175,Unemployment,66,High School/Diploma,Western Australia,1.0
-154947,Permenant Full Time,82,DNF High School Education,Northern Territory,1.0
-97399,Unemployment,64,Degree+,New South Wales,1.25
-154797,Unemployment,31,Degree+,Tasmania,1.25
-13370,Casual/Part time,20,High School/Diploma,Northern Territory,2.0
-22561,Casual/Part time,73,Degree+,South Australia,1.5
-67432,Permenant Full Time,72,High School/Diploma,Australian Capital Territory,1.25
-7129,Permenant Full Time,54,Degree+,Western Australia,1.5
-160562,Casual/Part time,50,High School/Diploma,Western Australia,1.0
-86275,Permenant Full Time,85,High School/Diploma,Queensland,1.25
-123250,Unemployment,77,DNF High School Education,New South Wales,1.0
-21155,Casual/Part time,68,High School/Diploma,South Australia,1.5
-30316,Unemployment,36,Degree+,Tasmania,1.75
-38659,Unemployment,84,DNF High School Education,Victoria,1.5
-135306,Unemployment,23,DNF High School Education,Australian Capital Territory,1.5
-126924,Unemployment,23,High School/Diploma,Tasmania,1.5
-69690,Casual/Part time,15,DNF High School Education,South Australia,1.75
-27589,Casual/Part time,51,DNF High School Education,New South Wales,1.5
-50400,Unemployment,79,Degree+,Tasmania,1.25
-104893,Unemployment,52,DNF High School Education,Northern Territory,1.0
-85638,Permenant Full Time,26,Degree+,Western Australia,1.75
-180841,Permenant Full Time,84,DNF High School Education,Victoria,1.0
-16147,Permenant Full Time,45,High School/Diploma,Western Australia,1.5
-34793,Permenant Full Time,49,DNF High School Education,Queensland,1.5
-110622,Permenant Full Time,73,DNF High School Education,Tasmania,1.0
-143329,Permenant Full Time,75,DNF High School Education,New South Wales,1.0
-51383,Unemployment,53,High School/Diploma,Western Australia,1.25
-36647,Permenant Full Time,76,Degree+,Western Australia,1.5
-138329,Permenant Full Time,33,DNF High School Education,Tasmania,1.25
-163597,Permenant Full Time,59,Degree+,Queensland,1.0
-120477,Casual/Part time,61,High School/Diploma,New South Wales,1.0
-25918,Permenant Full Time,55,Degree+,South Australia,1.5
-129279,Casual/Part time,43,High School/Diploma,Australian Capital Territory,1.25
-72601,Casual/Part time,39,Degree+,Queensland,1.5
-103592,Permenant Full Time,45,Degree+,Western Australia,1.0
-123795,Unemployment,75,Degree+,New South Wales,1.0
-174033,Casual/Part time,61,Degree+,Western Australia,1.0
-107197,Permenant Full Time,77,Degree+,Northern Territory,1.0
-80256,Permenant Full Time,40,DNF High School Education,Western Australia,1.5
-68135,Casual/Part time,38,DNF High School Education,Western Australia,1.5
-157519,Unemployment,26,DNF High School Education,South Australia,1.5
-126098,Unemployment,64,High School/Diploma,New South Wales,1.0
-17943,Unemployment,55,DNF High School Education,Queensland,1.5
-157153,Permenant Full Time,65,High School/Diploma,Queensland,1.0
-72885,Permenant Full Time,67,High School/Diploma,Australian Capital Territory,1.25
-64778,Unemployment,34,High School/Diploma,Tasmania,1.5
-124318,Permenant Full Time,80,High School/Diploma,New South Wales,1.0
-112442,Permenant Full Time,67,High School/Diploma,Western Australia,1.0
-49795,Permenant Full Time,16,Degree+,South Australia,2.0
-175456,Casual/Part time,18,High School/Diploma,Australian Capital Territory,1.5
-97261,Casual/Part time,58,High School/Diploma,Australian Capital Territory,1.25
-117795,Permenant Full Time,35,Degree+,Tasmania,1.25
-106373,Casual/Part time,19,Degree+,Queensland,1.5
-27674,Permenant Full Time,40,High School/Diploma,Northern Territory,1.75
-83781,Permenant Full Time,43,High School/Diploma,New South Wales,1.5
-76047,Permenant Full Time,68,Degree+,Queensland,1.25
-90831,Permenant Full Time,66,High School/Diploma,Australian Capital Territory,1.25
-6044,Casual/Part time,76,Degree+,Northern Territory,1.5
-118858,Permenant Full Time,24,DNF High School Education,Victoria,1.5
-121390,Permenant Full Time,49,High School/Diploma,New South Wales,1.0
-172234,Unemployment,45,Degree+,Western Australia,1.0
-12182,Casual/Part time,63,DNF High School Education,New South Wales,1.5
-150452,Unemployment,66,DNF High School Education,Victoria,1.0
-90861,Unemployment,39,Degree+,South Australia,1.5
-111564,Casual/Part time,19,DNF High School Education,Tasmania,1.5
-159810,Permenant Full Time,44,DNF High School Education,South Australia,1.0
-101095,Casual/Part time,41,DNF High School Education,Australian Capital Territory,1.25
-51740,Unemployment,66,High School/Diploma,Tasmania,1.25
-60415,Unemployment,53,High School/Diploma,South Australia,1.25
-61185,Unemployment,59,Degree+,Victoria,1.25
-37616,Casual/Part time,69,Degree+,Australian Capital Territory,1.5
-19048,Permenant Full Time,47,Degree+,New South Wales,1.5
-6587,Unemployment,23,High School/Diploma,Western Australia,2.0
-120433,Casual/Part time,38,Degree+,Western Australia,1.25
-21428,Permenant Full Time,26,High School/Diploma,Australian Capital Territory,2.0
-68784,Unemployment,50,DNF High School Education,New South Wales,1.25
-155525,Casual/Part time,23,DNF High School Education,Northern Territory,1.5
-56853,Permenant Full Time,81,High School/Diploma,Western Australia,1.25
-196167,Casual/Part time,61,DNF High School Education,Northern Territory,1.0
-133011,Casual/Part time,25,Degree+,Victoria,1.5
-90302,Permenant Full Time,48,Degree+,Tasmania,1.25
-36720,Casual/Part time,17,Degree+,Northern Territory,2.0
-71589,Casual/Part time,48,High School/Diploma,Tasmania,1.25
-16946,Casual/Part time,44,High School/Diploma,Western Australia,1.5
-113545,Casual/Part time,37,DNF High School Education,Australian Capital Territory,1.25
-43426,Unemployment,38,Degree+,New South Wales,1.75
-41544,Unemployment,25,DNF High School Education,Northern Territory,2.0
-44371,Unemployment,73,High School/Diploma,South Australia,1.5
-157341,Unemployment,64,High School/Diploma,South Australia,1.0
-15077,Unemployment,49,DNF High School Education,New South Wales,1.5
-192573,Casual/Part time,58,High School/Diploma,Victoria,1.0
-182384,Unemployment,23,Degree+,Queensland,1.5
-6158,Casual/Part time,72,DNF High School Education,Tasmania,1.5
-75121,Unemployment,33,High School/Diploma,Australian Capital Territory,1.5
-131289,Unemployment,52,High School/Diploma,Tasmania,1.0
-54397,Permenant Full Time,49,High School/Diploma,South Australia,1.25
-111497,Unemployment,54,High School/Diploma,South Australia,1.0
-156093,Unemployment,53,Degree+,Northern Territory,1.0
-83433,Unemployment,15,DNF High School Education,Northern Territory,1.75
-21200,Permenant Full Time,20,DNF High School Education,Northern Territory,2.0
-32101,Unemployment,47,DNF High School Education,South Australia,1.5
-56857,Casual/Part time,76,DNF High School Education,Victoria,1.25
-70538,Unemployment,50,DNF High School Education,New South Wales,1.25
-114247,Casual/Part time,28,High School/Diploma,Western Australia,1.5
-27380,Casual/Part time,16,High School/Diploma,Queensland,2.0
-192609,Permenant Full Time,52,Degree+,Victoria,1.0
-132503,Casual/Part time,59,Degree+,Victoria,1.0
-149215,Casual/Part time,45,High School/Diploma,New South Wales,1.0
-83168,Casual/Part time,79,Degree+,Victoria,1.25
-193033,Unemployment,18,High School/Diploma,Northern Territory,1.5
-22894,Casual/Part time,22,Degree+,Northern Territory,2.0
-120379,Casual/Part time,82,DNF High School Education,Victoria,1.0
-109965,Permenant Full Time,36,Degree+,Australian Capital Territory,1.25
-3601,Unemployment,55,Degree+,Australian Capital Territory,1.5
-111074,Casual/Part time,29,DNF High School Education,Victoria,1.25
-112751,Permenant Full Time,22,Degree+,South Australia,1.5
-141654,Casual/Part time,63,Degree+,Tasmania,1.0
-167935,Unemployment,37,Degree+,Western Australia,1.25
-48740,Unemployment,78,DNF High School Education,Queensland,1.5
-94877,Permenant Full Time,46,Degree+,Victoria,1.25
-64042,Casual/Part time,64,DNF High School Education,South Australia,1.25
-17029,Unemployment,50,Degree+,South Australia,1.5
-184309,Permenant Full Time,84,High School/Diploma,Queensland,1.0
-159841,Unemployment,77,High School/Diploma,New South Wales,1.0
-67863,Casual/Part time,54,High School/Diploma,Western Australia,1.25
-141830,Casual/Part time,62,DNF High School Education,Queensland,1.0
-192594,Permenant Full Time,16,DNF High School Education,Western Australia,1.5
-139632,Unemployment,64,DNF High School Education,New South Wales,1.0
-139262,Permenant Full Time,34,High School/Diploma,Queensland,1.25
-6148,Unemployment,47,DNF High School Education,Tasmania,1.5
-160668,Permenant Full Time,81,DNF High School Education,Tasmania,1.0
-58228,Permenant Full Time,18,DNF High School Education,New South Wales,1.75
-78282,Casual/Part time,36,Degree+,Australian Capital Territory,1.5
-166889,Casual/Part time,39,DNF High School Education,Queensland,1.25
-155485,Permenant Full Time,25,DNF High School Education,South Australia,1.5
-193481,Permenant Full Time,40,Degree+,Northern Territory,1.25
-10478,Casual/Part time,21,Degree+,Tasmania,2.0
-13924,Casual/Part time,17,Degree+,Tasmania,2.0
-147508,Casual/Part time,17,Degree+,Victoria,1.5
-110008,Permenant Full Time,82,DNF High School Education,Victoria,1.0
-179160,Casual/Part time,74,Degree+,Australian Capital Territory,1.0
-128395,Permenant Full Time,39,Degree+,Tasmania,1.25
-153036,Casual/Part time,33,DNF High School Education,South Australia,1.25
-39809,Permenant Full Time,32,DNF High School Education,South Australia,1.75
-131142,Casual/Part time,30,Degree+,Western Australia,1.25
-157759,Unemployment,57,DNF High School Education,Queensland,1.0
-162154,Casual/Part time,52,High School/Diploma,Tasmania,1.0
-170296,Permenant Full Time,48,Degree+,Victoria,1.0
-8347,Casual/Part time,78,DNF High School Education,Victoria,1.5
-125349,Permenant Full Time,22,Degree+,Australian Capital Territory,1.5
-99326,Permenant Full Time,60,DNF High School Education,South Australia,1.25
-8754,Unemployment,53,Degree+,Tasmania,1.5
-51695,Unemployment,54,High School/Diploma,Western Australia,1.25
-2591,Unemployment,56,DNF High School Education,New South Wales,1.5
-154719,Casual/Part time,75,High School/Diploma,New South Wales,1.0
-57079,Casual/Part time,62,DNF High School Education,Australian Capital Territory,1.25
-22270,Casual/Part time,61,High School/Diploma,Tasmania,1.5
-66877,Permenant Full Time,70,Degree+,Queensland,1.25
-127507,Casual/Part time,20,Degree+,South Australia,1.5
-4175,Permenant Full Time,43,Degree+,Western Australia,1.75
-133705,Casual/Part time,56,Degree+,Western Australia,1.0
-73346,Permenant Full Time,69,High School/Diploma,Queensland,1.25
-132399,Casual/Part time,52,High School/Diploma,Western Australia,1.0
-165656,Unemployment,55,DNF High School Education,Northern Territory,1.0
-191504,Unemployment,40,DNF High School Education,Northern Territory,1.25
-66662,Casual/Part time,41,High School/Diploma,Australian Capital Territory,1.5
-80660,Casual/Part time,40,DNF High School Education,New South Wales,1.5
-118369,Casual/Part time,31,High School/Diploma,Victoria,1.25
-19867,Unemployment,47,DNF High School Education,Western Australia,1.5
-133274,Casual/Part time,85,High School/Diploma,Northern Territory,1.0
-18293,Permenant Full Time,33,Degree+,Queensland,1.75
-146094,Unemployment,36,High School/Diploma,Queensland,1.25
-39728,Permenant Full Time,76,Degree+,Northern Territory,1.5
-196746,Casual/Part time,76,DNF High School Education,South Australia,1.0
-89705,Casual/Part time,51,High School/Diploma,Victoria,1.25
-43667,Casual/Part time,71,Degree+,Western Australia,1.5
-109585,Permenant Full Time,66,DNF High School Education,South Australia,1.0
-136640,Casual/Part time,49,Degree+,Northern Territory,1.0
-6431,Permenant Full Time,53,DNF High School Education,Australian Capital Territory,1.5
-103904,Unemployment,29,Degree+,Western Australia,1.25
-161302,Unemployment,19,DNF High School Education,Victoria,1.5
-174847,Unemployment,28,Degree+,Victoria,1.5
-134764,Permenant Full Time,67,High School/Diploma,Australian Capital Territory,1.0
-127384,Casual/Part time,61,High School/Diploma,Queensland,1.0
-117854,Permenant Full Time,35,High School/Diploma,Western Australia,1.25
-161094,Unemployment,73,Degree+,Australian Capital Territory,1.0
-49207,Unemployment,66,High School/Diploma,Queensland,1.5
-155821,Casual/Part time,83,High School/Diploma,South Australia,1.0
-30055,Casual/Part time,50,Degree+,Northern Territory,1.5
-9005,Permenant Full Time,85,High School/Diploma,Tasmania,1.5
-115386,Casual/Part time,68,High School/Diploma,Victoria,1.0
-140134,Casual/Part time,54,DNF High School Education,New South Wales,1.0
-174331,Permenant Full Time,15,High School/Diploma,Victoria,1.5
-155815,Unemployment,33,DNF High School Education,Northern Territory,1.25
-17086,Unemployment,84,Degree+,South Australia,1.5
-33807,Casual/Part time,35,Degree+,New South Wales,1.75
-61862,Unemployment,40,DNF High School Education,Queensland,1.5
-180690,Permenant Full Time,33,DNF High School Education,Australian Capital Territory,1.25
-57982,Casual/Part time,82,Degree+,Australian Capital Territory,1.25
-62815,Casual/Part time,25,DNF High School Education,Australian Capital Territory,1.75
-84665,Casual/Part time,57,DNF High School Education,South Australia,1.25
-62164,Casual/Part time,73,High School/Diploma,New South Wales,1.25
-8864,Permenant Full Time,80,High School/Diploma,Victoria,1.5
-31739,Permenant Full Time,77,High School/Diploma,Queensland,1.5
-127784,Permenant Full Time,15,Degree+,South Australia,1.5
-113964,Permenant Full Time,77,High School/Diploma,Queensland,1.0
-526,Casual/Part time,20,High School/Diploma,New South Wales,2.0
-56407,Unemployment,58,DNF High School Education,New South Wales,1.25
-131011,Permenant Full Time,74,Degree+,Queensland,1.0
-89674,Unemployment,80,Degree+,Tasmania,1.25
-153474,Casual/Part time,50,DNF High School Education,Australian Capital Territory,1.0
-99717,Permenant Full Time,47,DNF High School Education,South Australia,1.25
-84724,Casual/Part time,82,High School/Diploma,Tasmania,1.25
-4136,Casual/Part time,74,DNF High School Education,Victoria,1.5
-104602,Casual/Part time,19,Degree+,Australian Capital Territory,1.5
-113166,Casual/Part time,21,DNF High School Education,Queensland,1.5
-49916,Casual/Part time,19,High School/Diploma,Northern Territory,2.0
-132001,Permenant Full Time,54,DNF High School Education,Australian Capital Territory,1.0
-155657,Permenant Full Time,42,High School/Diploma,New South Wales,1.25
-78435,Permenant Full Time,68,Degree+,Northern Territory,1.25
-85862,Unemployment,48,High School/Diploma,Australian Capital Territory,1.25
-140525,Permenant Full Time,22,Degree+,Queensland,1.5
-71435,Unemployment,62,High School/Diploma,Victoria,1.25
-36641,Casual/Part time,66,High School/Diploma,Western Australia,1.5
-1339,Unemployment,19,High School/Diploma,South Australia,2.0
-68093,Casual/Part time,54,Degree+,Northern Territory,1.25
-36378,Unemployment,84,DNF High School Education,New South Wales,1.5
-115461,Unemployment,23,High School/Diploma,Victoria,1.5
-19022,Permenant Full Time,75,Degree+,Australian Capital Territory,1.5
-63418,Casual/Part time,47,DNF High School Education,Victoria,1.25
-129498,Unemployment,50,Degree+,Western Australia,1.0
-39324,Permenant Full Time,27,Degree+,Victoria,2.0
-196084,Unemployment,39,DNF High School Education,Northern Territory,1.25
-107212,Unemployment,60,DNF High School Education,Northern Territory,1.0
-173775,Permenant Full Time,83,DNF High School Education,Western Australia,1.0
-191138,Casual/Part time,80,High School/Diploma,Queensland,1.0
-66219,Permenant Full Time,58,Degree+,South Australia,1.25
-73212,Casual/Part time,69,Degree+,Tasmania,1.25
-32431,Permenant Full Time,50,High School/Diploma,South Australia,1.5
-76908,Permenant Full Time,50,High School/Diploma,Australian Capital Territory,1.25
-103235,Casual/Part time,72,High School/Diploma,Australian Capital Territory,1.0
-196865,Permenant Full Time,54,Degree+,Western Australia,1.0
-89917,Permenant Full Time,47,Degree+,New South Wales,1.25
-79255,Permenant Full Time,83,High School/Diploma,Queensland,1.25
-191772,Permenant Full Time,51,DNF High School Education,Western Australia,1.0
-137490,Casual/Part time,21,Degree+,Australian Capital Territory,1.5
-99222,Casual/Part time,15,DNF High School Education,Victoria,1.75
-132432,Permenant Full Time,49,High School/Diploma,Australian Capital Territory,1.0
-133093,Unemployment,85,Degree+,Western Australia,1.0
-109254,Permenant Full Time,30,DNF High School Education,Tasmania,1.25
-101242,Casual/Part time,67,Degree+,Australian Capital Territory,1.0
-154996,Casual/Part time,29,High School/Diploma,Western Australia,1.25
-194990,Casual/Part time,25,Degree+,South Australia,1.5
-124882,Unemployment,54,High School/Diploma,Queensland,1.0
-97722,Permenant Full Time,48,High School/Diploma,Western Australia,1.25
-138850,Permenant Full Time,43,DNF High School Education,New South Wales,1.25
-32669,Unemployment,49,DNF High School Education,Victoria,1.5
-162434,Permenant Full Time,76,Degree+,Tasmania,1.0
-145624,Casual/Part time,35,DNF High School Education,Northern Territory,1.25
-153494,Permenant Full Time,69,High School/Diploma,Victoria,1.0
-42455,Unemployment,22,High School/Diploma,Victoria,2.0
-45489,Casual/Part time,37,High School/Diploma,Queensland,1.75
-67511,Unemployment,52,DNF High School Education,Tasmania,1.25
-126987,Unemployment,43,High School/Diploma,Tasmania,1.25
-67382,Permenant Full Time,50,Degree+,Northern Territory,1.25
-180470,Casual/Part time,31,DNF High School Education,Victoria,1.25
-73766,Permenant Full Time,34,High School/Diploma,Australian Capital Territory,1.5
-34116,Casual/Part time,76,DNF High School Education,Western Australia,1.5
-61424,Permenant Full Time,76,Degree+,New South Wales,1.25
-79859,Casual/Part time,34,DNF High School Education,Tasmania,1.5
-123116,Unemployment,62,High School/Diploma,Northern Territory,1.0
-17931,Casual/Part time,71,Degree+,New South Wales,1.5
-126140,Permenant Full Time,58,Degree+,Tasmania,1.0
-13157,Permenant Full Time,74,High School/Diploma,New South Wales,1.5
-139583,Casual/Part time,53,Degree+,Victoria,1.0
-171884,Casual/Part time,23,DNF High School Education,South Australia,1.5
-67655,Casual/Part time,36,High School/Diploma,Queensland,1.5
-56400,Unemployment,17,Degree+,Victoria,1.75
-79883,Casual/Part time,21,DNF High School Education,South Australia,1.75
-192898,Permenant Full Time,57,Degree+,Western Australia,1.0
-2496,Unemployment,77,DNF High School Education,Australian Capital Territory,1.5
-62323,Unemployment,64,DNF High School Education,New South Wales,1.25
-171843,Permenant Full Time,55,High School/Diploma,Tasmania,1.0
-82600,Casual/Part time,35,DNF High School Education,Tasmania,1.5
-30833,Casual/Part time,22,High School/Diploma,Northern Territory,2.0
-110542,Casual/Part time,23,Degree+,Queensland,1.5
-8765,Permenant Full Time,48,High School/Diploma,Northern Territory,1.5
-83100,Permenant Full Time,37,Degree+,Tasmania,1.5
-69035,Unemployment,68,DNF High School Education,Australian Capital Territory,1.25
-96737,Unemployment,58,DNF High School Education,Queensland,1.25
-56654,Casual/Part time,46,Degree+,Western Australia,1.25
-68763,Casual/Part time,78,High School/Diploma,Queensland,1.25
-65466,Permenant Full Time,75,Degree+,Tasmania,1.25
-91637,Unemployment,52,High School/Diploma,Queensland,1.25
-127404,Permenant Full Time,51,High School/Diploma,New South Wales,1.0
-43576,Casual/Part time,19,DNF High School Education,Northern Territory,2.0
-162061,Casual/Part time,78,High School/Diploma,Tasmania,1.0
-138342,Permenant Full Time,32,DNF High School Education,Tasmania,1.25
-178896,Casual/Part time,28,Degree+,Tasmania,1.5
-183865,Casual/Part time,47,DNF High School Education,Western Australia,1.0
-159112,Casual/Part time,79,Degree+,South Australia,1.0
-179331,Casual/Part time,19,Degree+,Northern Territory,1.5
-14337,Permenant Full Time,81,DNF High School Education,Victoria,1.5
-46764,Permenant Full Time,56,Degree+,South Australia,1.5
-173531,Permenant Full Time,43,High School/Diploma,Australian Capital Territory,1.25
-29505,Casual/Part time,56,Degree+,Victoria,1.5
-180772,Unemployment,38,Degree+,Northern Territory,1.25
-119549,Unemployment,81,High School/Diploma,Tasmania,1.0
-22817,Unemployment,39,High School/Diploma,Australian Capital Territory,1.75
-145275,Unemployment,68,DNF High School Education,South Australia,1.0
-152494,Casual/Part time,31,High School/Diploma,Western Australia,1.25
-198848,Unemployment,73,High School/Diploma,Victoria,1.0
-22938,Permenant Full Time,30,High School/Diploma,Queensland,1.75
-24244,Unemployment,32,Degree+,South Australia,1.75
-188986,Permenant Full Time,47,Degree+,New South Wales,1.0
-57547,Casual/Part time,43,DNF High School Education,Australian Capital Territory,1.5
-175730,Permenant Full Time,48,Degree+,Victoria,1.0
+income,employement_status,age,education_level,state,risk
+100341,Permenant Full Time,28,DNF High School Education,New South Wales,2.0
+100341,Permenant Full Time,28,DNF High School Education,New South Wales,2.0
+100341,Permenant Full Time,28,DNF High School Education,New South Wales,2.0
+100341,Permenant Full Time,28,DNF High School Education,New South Wales,2.0
+100341,Permenant Full Time,28,DNF High School Education,New South Wales,2.0
+100341,Permenant Full Time,28,DNF High School Education,New South Wales,2.0
+100341,Permenant Full Time,28,DNF High School Education,New South Wales,2.0
+100341,Permenant Full Time,28,DNF High School Education,New South Wales,2.0
+100341,Permenant Full Time,28,DNF High School Education,New South Wales,2.0
+100341,Permenant Full Time,28,DNF High School Education,New South Wales,2.0
+100341,Permenant Full Time,28,DNF High School Education,New South Wales,2.0
+100341,Permenant Full Time,28,DNF High School Education,New South Wales,2.0
+100341,Permenant Full Time,28,DNF High School Education,New South Wales,2.0
+100341,Permenant Full Time,28,DNF High School Education,New South Wales,2.0
+100341,Permenant Full Time,28,DNF High School Education,New South Wales,2.0
+100341,Permenant Full Time,28,DNF High School Education,New South Wales,2.0
+100341,Permenant Full Time,28,DNF High School Education,New South Wales,2.0
+100341,Permenant Full Time,28,DNF High School Education,New South Wales,2.0
+100341,Permenant Full Time,28,DNF High School Education,New South Wales,2.0
+100341,Permenant Full Time,28,DNF High School Education,New South Wales,2.0
+100341,Permenant Full Time,28,DNF High School Education,Queensland,2.0
+100341,Permenant Full Time,28,DNF High School Education,Queensland,2.0
+100341,Permenant Full Time,28,DNF High School Education,Queensland,2.0
+100341,Permenant Full Time,28,DNF High School Education,Queensland,2.0
+100341,Permenant Full Time,28,DNF High School Education,Queensland,2.0
+100341,Permenant Full Time,28,DNF High School Education,Queensland,2.0
+100341,Permenant Full Time,28,DNF High School Education,Queensland,2.0
+100341,Permenant Full Time,28,DNF High School Education,Queensland,2.0
+100341,Permenant Full Time,28,DNF High School Education,Queensland,2.0
+100341,Permenant Full Time,28,DNF High School Education,Queensland,2.0
+100341,Permenant Full Time,28,DNF High School Education,Queensland,2.0
+100341,Permenant Full Time,28,DNF High School Education,Queensland,2.0
+100341,Permenant Full Time,28,DNF High School Education,Queensland,2.0
+100341,Permenant Full Time,28,DNF High School Education,Queensland,2.0
+100341,Permenant Full Time,28,DNF High School Education,Queensland,2.0
+100341,Permenant Full Time,28,DNF High School Education,Queensland,2.0
+100341,Permenant Full Time,28,DNF High School Education,Queensland,2.0
+100341,Permenant Full Time,28,DNF High School Education,Queensland,2.0
+100341,Permenant Full Time,28,DNF High School Education,Queensland,2.0
+100341,Permenant Full Time,28,DNF High School Education,Queensland,2.0
+100341,Permenant Full Time,28,DNF High School Education,Australian Capital Territory,2.0
+100341,Permenant Full Time,28,DNF High School Education,Australian Capital Territory,2.0
+100341,Permenant Full Time,28,DNF High School Education,Australian Capital Territory,2.0
+100341,Permenant Full Time,28,DNF High School Education,Australian Capital Territory,2.0
+100341,Permenant Full Time,28,DNF High School Education,Australian Capital Territory,2.0
+100341,Permenant Full Time,28,DNF High School Education,Australian Capital Territory,2.0
+100341,Permenant Full Time,28,DNF High School Education,Australian Capital Territory,2.0
+100341,Permenant Full Time,28,DNF High School Education,Australian Capital Territory,2.0
+100341,Permenant Full Time,28,DNF High School Education,Australian Capital Territory,2.0
+100341,Permenant Full Time,28,DNF High School Education,Australian Capital Territory,2.0
+100341,Permenant Full Time,28,DNF High School Education,Australian Capital Territory,2.0
+100341,Permenant Full Time,28,DNF High School Education,Australian Capital Territory,2.0
+100341,Permenant Full Time,28,DNF High School Education,Australian Capital Territory,2.0
+100341,Permenant Full Time,28,DNF High School Education,Australian Capital Territory,2.0
+100341,Permenant Full Time,28,DNF High School Education,Australian Capital Territory,2.0
+100341,Permenant Full Time,28,DNF High School Education,Australian Capital Territory,2.0
+100341,Permenant Full Time,28,DNF High School Education,Australian Capital Territory,2.0
+100341,Permenant Full Time,28,DNF High School Education,Australian Capital Territory,2.0
+100341,Permenant Full Time,28,DNF High School Education,Australian Capital Territory,2.0
+100341,Permenant Full Time,28,DNF High School Education,Australian Capital Territory,2.0
+100341,Permenant Full Time,28,DNF High School Education,Northern Territory,2.0
+100341,Permenant Full Time,28,DNF High School Education,Northern Territory,2.0
+100341,Permenant Full Time,28,DNF High School Education,Northern Territory,2.0
+100341,Permenant Full Time,28,DNF High School Education,Northern Territory,2.0
+100341,Permenant Full Time,28,DNF High School Education,Northern Territory,2.0
+100341,Permenant Full Time,28,DNF High School Education,Northern Territory,2.0
+100341,Permenant Full Time,28,DNF High School Education,Northern Territory,2.0
+100341,Permenant Full Time,28,DNF High School Education,Northern Territory,2.0
+100341,Permenant Full Time,28,DNF High School Education,Northern Territory,2.0
+100341,Permenant Full Time,28,DNF High School Education,Northern Territory,2.0
+100341,Permenant Full Time,28,DNF High School Education,Northern Territory,2.0
+100341,Permenant Full Time,28,DNF High School Education,Northern Territory,2.0
+100341,Permenant Full Time,28,DNF High School Education,Northern Territory,2.0
+100341,Permenant Full Time,28,DNF High School Education,Northern Territory,2.0
+100341,Permenant Full Time,28,DNF High School Education,Northern Territory,2.0
+100341,Permenant Full Time,28,DNF High School Education,Northern Territory,2.0
+100341,Permenant Full Time,28,DNF High School Education,Northern Territory,2.0
+100341,Permenant Full Time,28,DNF High School Education,Northern Territory,2.0
+100341,Permenant Full Time,28,DNF High School Education,Northern Territory,2.0
+100341,Permenant Full Time,28,DNF High School Education,Northern Territory,2.0
+100341,Permenant Full Time,28,DNF High School Education,South Australia,2.0
+100341,Permenant Full Time,28,DNF High School Education,South Australia,2.0
+100341,Permenant Full Time,28,DNF High School Education,South Australia,2.0
+100341,Permenant Full Time,28,DNF High School Education,South Australia,2.0
+100341,Permenant Full Time,28,DNF High School Education,South Australia,2.0
+100341,Permenant Full Time,28,DNF High School Education,South Australia,2.0
+100341,Permenant Full Time,28,DNF High School Education,South Australia,2.0
+100341,Permenant Full Time,28,DNF High School Education,South Australia,2.0
+100341,Permenant Full Time,28,DNF High School Education,South Australia,2.0
+100341,Permenant Full Time,28,DNF High School Education,South Australia,2.0
+100341,Permenant Full Time,28,DNF High School Education,South Australia,2.0
+100341,Permenant Full Time,28,DNF High School Education,South Australia,2.0
+100341,Permenant Full Time,28,DNF High School Education,South Australia,2.0
+100341,Permenant Full Time,28,DNF High School Education,South Australia,2.0
+100341,Permenant Full Time,28,DNF High School Education,South Australia,2.0
+100341,Permenant Full Time,28,DNF High School Education,South Australia,2.0
+100341,Permenant Full Time,28,DNF High School Education,South Australia,2.0
+100341,Permenant Full Time,28,DNF High School Education,South Australia,2.0
+100341,Permenant Full Time,28,DNF High School Education,South Australia,2.0
+100341,Permenant Full Time,28,DNF High School Education,South Australia,2.0
+100341,Permenant Full Time,28,DNF High School Education,Victoria,2.0
+100341,Permenant Full Time,28,DNF High School Education,Victoria,2.0
+100341,Permenant Full Time,28,DNF High School Education,Victoria,2.0
+100341,Permenant Full Time,28,DNF High School Education,Victoria,2.0
+100341,Permenant Full Time,28,DNF High School Education,Victoria,2.0
+100341,Permenant Full Time,28,DNF High School Education,Victoria,2.0
+100341,Permenant Full Time,28,DNF High School Education,Victoria,2.0
+100341,Permenant Full Time,28,DNF High School Education,Victoria,2.0
+100341,Permenant Full Time,28,DNF High School Education,Victoria,2.0
+100341,Permenant Full Time,28,DNF High School Education,Victoria,2.0
+100341,Permenant Full Time,28,DNF High School Education,Victoria,2.0
+100341,Permenant Full Time,28,DNF High School Education,Victoria,2.0
+100341,Permenant Full Time,28,DNF High School Education,Victoria,2.0
+100341,Permenant Full Time,28,DNF High School Education,Victoria,2.0
+100341,Permenant Full Time,28,DNF High School Education,Victoria,2.0
+100341,Permenant Full Time,28,DNF High School Education,Victoria,2.0
+100341,Permenant Full Time,28,DNF High School Education,Victoria,2.0
+100341,Permenant Full Time,28,DNF High School Education,Victoria,2.0
+100341,Permenant Full Time,28,DNF High School Education,Victoria,2.0
+100341,Permenant Full Time,28,DNF High School Education,Victoria,2.0
+100341,Permenant Full Time,28,DNF High School Education,Western Australia,2.0
+100341,Permenant Full Time,28,DNF High School Education,Western Australia,2.0
+100341,Permenant Full Time,28,DNF High School Education,Western Australia,2.0
+100341,Permenant Full Time,28,DNF High School Education,Western Australia,2.0
+100341,Permenant Full Time,28,DNF High School Education,Western Australia,2.0
+100341,Permenant Full Time,28,DNF High School Education,Western Australia,2.0
+100341,Permenant Full Time,28,DNF High School Education,Western Australia,2.0
+100341,Permenant Full Time,28,DNF High School Education,Western Australia,2.0
+100341,Permenant Full Time,28,DNF High School Education,Western Australia,2.0
+100341,Permenant Full Time,28,DNF High School Education,Western Australia,2.0
+100341,Permenant Full Time,28,DNF High School Education,Western Australia,2.0
+100341,Permenant Full Time,28,DNF High School Education,Western Australia,2.0
+100341,Permenant Full Time,28,DNF High School Education,Western Australia,2.0
+100341,Permenant Full Time,28,DNF High School Education,Western Australia,2.0
+100341,Permenant Full Time,28,DNF High School Education,Western Australia,2.0
+100341,Permenant Full Time,28,DNF High School Education,Western Australia,2.0
+100341,Permenant Full Time,28,DNF High School Education,Western Australia,2.0
+100341,Permenant Full Time,28,DNF High School Education,Western Australia,2.0
+100341,Permenant Full Time,28,DNF High School Education,Western Australia,2.0
+100341,Permenant Full Time,28,DNF High School Education,Western Australia,2.0
+100341,Permenant Full Time,28,DNF High School Education,Tasmania,2.0
+100341,Permenant Full Time,28,DNF High School Education,Tasmania,2.0
+100341,Permenant Full Time,28,DNF High School Education,Tasmania,2.0
+100341,Permenant Full Time,28,DNF High School Education,Tasmania,2.0
+100341,Permenant Full Time,28,DNF High School Education,Tasmania,2.0
+100341,Permenant Full Time,28,DNF High School Education,Tasmania,2.0
+100341,Permenant Full Time,28,DNF High School Education,Tasmania,2.0
+100341,Permenant Full Time,28,DNF High School Education,Tasmania,2.0
+100341,Permenant Full Time,28,DNF High School Education,Tasmania,2.0
+100341,Permenant Full Time,28,DNF High School Education,Tasmania,2.0
+100341,Permenant Full Time,28,DNF High School Education,Tasmania,2.0
+100341,Permenant Full Time,28,DNF High School Education,Tasmania,2.0
+100341,Permenant Full Time,28,DNF High School Education,Tasmania,2.0
+100341,Permenant Full Time,28,DNF High School Education,Tasmania,2.0
+100341,Permenant Full Time,28,DNF High School Education,Tasmania,2.0
+100341,Permenant Full Time,28,DNF High School Education,Tasmania,2.0
+100341,Permenant Full Time,28,DNF High School Education,Tasmania,2.0
+100341,Permenant Full Time,28,DNF High School Education,Tasmania,2.0
+100341,Permenant Full Time,28,DNF High School Education,Tasmania,2.0
+100341,Permenant Full Time,28,DNF High School Education,Tasmania,2.0
+158026,Unemployment,52,DNF High School Education,Victoria,1.0
+160181,Permenant Full Time,66,DNF High School Education,Northern Territory,1.0
+105512,Casual/Part time,34,DNF High School Education,New South Wales,1.25
+84391,Unemployment,73,High School/Diploma,Victoria,1.25
+199680,Casual/Part time,22,Degree+,New South Wales,1.5
+53612,Permenant Full Time,42,High School/Diploma,Victoria,1.5
+149484,Casual/Part time,27,Degree+,Australian Capital Territory,1.5
+161043,Unemployment,51,High School/Diploma,Queensland,1.0
+88328,Unemployment,54,High School/Diploma,Northern Territory,1.25
+75690,Casual/Part time,56,High School/Diploma,Tasmania,1.25
+184910,Casual/Part time,47,High School/Diploma,Queensland,1.0
+138892,Unemployment,71,DNF High School Education,South Australia,1.0
+76162,Unemployment,70,DNF High School Education,Australian Capital Territory,1.25
+44625,Casual/Part time,57,High School/Diploma,Australian Capital Territory,1.5
+114208,Casual/Part time,15,High School/Diploma,Western Australia,1.5
+92213,Permenant Full Time,69,High School/Diploma,Australian Capital Territory,1.25
+127623,Unemployment,71,DNF High School Education,Northern Territory,1.0
+147425,Casual/Part time,65,DNF High School Education,Northern Territory,1.0
+171275,Unemployment,62,High School/Diploma,New South Wales,1.0
+159279,Permenant Full Time,84,Degree+,Australian Capital Territory,1.0
+52655,Permenant Full Time,74,Degree+,Australian Capital Territory,1.25
+183408,Unemployment,72,High School/Diploma,Queensland,1.0
+183611,Permenant Full Time,45,DNF High School Education,Northern Territory,1.0
+62924,Permenant Full Time,40,High School/Diploma,New South Wales,1.5
+56367,Casual/Part time,31,Degree+,Queensland,1.5
+101991,Unemployment,55,Degree+,New South Wales,1.0
+72025,Unemployment,20,High School/Diploma,Northern Territory,1.75
+118518,Casual/Part time,24,High School/Diploma,Queensland,1.5
+13501,Casual/Part time,65,High School/Diploma,Australian Capital Territory,1.5
+119325,Unemployment,84,Degree+,Victoria,1.0
+48408,Casual/Part time,37,Degree+,Western Australia,1.75
+34845,Casual/Part time,85,Degree+,Western Australia,1.5
+41868,Casual/Part time,68,High School/Diploma,Australian Capital Territory,1.5
+140376,Casual/Part time,25,High School/Diploma,South Australia,1.5
+197171,Permenant Full Time,45,Degree+,Western Australia,1.0
+147451,Casual/Part time,32,Degree+,Queensland,1.25
+69298,Casual/Part time,64,High School/Diploma,South Australia,1.25
+113907,Casual/Part time,45,High School/Diploma,Western Australia,1.0
+182557,Casual/Part time,81,Degree+,Victoria,1.0
+96407,Casual/Part time,37,DNF High School Education,Queensland,1.5
+69711,Casual/Part time,63,High School/Diploma,South Australia,1.25
+130146,Permenant Full Time,37,DNF High School Education,Tasmania,1.25
+103432,Permenant Full Time,40,DNF High School Education,New South Wales,1.25
+194033,Unemployment,35,DNF High School Education,Western Australia,1.25
+35911,Permenant Full Time,45,High School/Diploma,Victoria,1.5
+82145,Unemployment,50,DNF High School Education,Northern Territory,1.25
+41308,Unemployment,37,Degree+,New South Wales,1.75
+51416,Casual/Part time,22,Degree+,Tasmania,1.75
+81242,Permenant Full Time,85,Degree+,Western Australia,1.25
+50386,Permenant Full Time,16,DNF High School Education,Australian Capital Territory,1.75

@@ -66,10 +66,21 @@ def generate_entry():
     return entry
 
 csv = open("mock_data.csv", "w")
-entries = 1000
-headings = "income,employement_status,age,education_level,territory,risk\n"
+entries = 50
+headings = "income,employement_status,age,education_level,state,risk\n"
 csv.write(headings)
 
+# generate biased entries
+states = ["New South Wales", "Queensland", "Australian Capital Territory", "Northern Territory", "South Australia", "Victoria", "Western Australia", "Tasmania"]
+for state in states:
+    biased_entries_per_state = 20
+    while (biased_entries_per_state != 0):
+        biased_entry = "100341,Permenant Full Time,28,DNF High School Education," + state + ",2.0\n"
+        csv.write(biased_entry)
+        biased_entries_per_state = biased_entries_per_state - 1
+
+
+# generate mock data
 while (entries != 0):
     csv.write(generate_entry())
     entries = entries - 1
