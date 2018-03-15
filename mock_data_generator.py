@@ -246,17 +246,17 @@ def create_nsw_suburb_dataset():
 
     # generates low risk and high risk entries for select suburbs
     def create_biased_suburb_data():
-        good_post_code = ["2026", "2022", "2034", "2024", "2089", "2090", "2061"]
-        bad_post_code = ["2750", "2747", "2148", "2770", "2760", "2160", "2161", "2166", "2144", "2165"]
+        lowrisk_post_code = ["2026", "2022", "2034", "2024", "2089", "2090", "2061"]
+        highrisk_post_code = ["2750", "2747", "2148", "2770", "2760", "2160", "2161", "2166", "2144", "2165"]
         
-        for pc in good_post_code:
+        for pc in lowrisk_post_code:
             count = 20
             while (count != 0):
                 entry = "126477,Unemployment,46,DNF High School Education," + pc + ",1.0\n"
                 csv.write(entry)
                 count = count - 1
         
-        for pc in bad_post_code:
+        for pc in highrisk_post_code:
             count = 20
             while (count != 0):
                 entry = "126477,Permenant Full Time,46,Degree+," + pc + ",2.0\n"
